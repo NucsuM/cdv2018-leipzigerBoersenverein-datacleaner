@@ -1,41 +1,86 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <p>
-      For guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://github.com/vuejs/vue-cli/tree/dev/docs" target="_blank">vue-cli documentation</a>.
-    </p>
-    <h3>Installed CLI Plugins</h3>
-    <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank">eslint</a></li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
-    </ul>
-  </div>
+ <div class="hello"> 
+   <pre style="text-align: left">
+     {{JSON.stringify(classificated, null, 4)}}
+     </pre>
+    <button @click="tableCreate()">refreshTable</button> 
+    <table>
+    <tbody>
+    <tr v-for="(part, key) in splitedString" :key="key">
+    <td>{{part}}</td>
+    <td>
+      <select>
+      <option v-for="(clas, ckey) in classifications" :value="clas" :key="ckey">{{clas}}</option>
+      </select>
+    </td>
+      <td>
+      <button @click="addToClassification(part,clas)" v-for="(clas, ckey) in classifications" :value="clas" :key="ckey">{{clas}}</button>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+ </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
+  name: "HelloWorld",
+  data() {
+    return {
+      line:
+        "Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
+        classifications:['a','b','c'],
+        classificated:[]
+    };
+  },
+  computed: {
+    splitedString: function() {
+      let splitedString = this.line.split(', ');
+      return splitedString;
+    }
+  },
+  methods: {
+    refreshTable: function() {
+      console.log("xxx");
+    },
+    addToClassification: function(a, b){
+      console.log('ADDING ' + a + ' - ' + b)
+      let current = this.classificated;
+      let tmp = {
+        word:a, 
+        clas:b
+      }
+      console.dir(tmp);
+      current.push(tmp);
+      this.classificated = current
+    },
+    tableCreate: function() {
+      var body = document.body,
+      tbl = document.createElement("table");
+      tbl.style.width = "100px";
+      tbl.style.border = "1px solid black";
+
+      for (var i = 0; i < 3; i++) {
+        var tr = tbl.insertRow();
+        var td = tr.insertCell();
+        td.appendChild(document.createElement("<tr><td>5</td><td>2</td><td>10</td><td>500</td></tr>"));
+/*         for (var j = 0; j < 2; j++) {
+          if (i == 2 && j == 1) {
+            break;
+          } else {
+            var td = tr.insertCell();
+            td.appendChild(document.createTextNode("Cell"));
+            td.style.border = "1px solid black";
+            if (i == 1 && j == 1) {
+              td.setAttribute("rowSpan", "2");
+            }
+          }
+        } */
+      }
+      body.appendChild(tbl);
+    }
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

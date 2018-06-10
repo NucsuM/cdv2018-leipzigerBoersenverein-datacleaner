@@ -25,7 +25,10 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "no-console": "off",
+      "vue/no-shared-component-data": "off"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
