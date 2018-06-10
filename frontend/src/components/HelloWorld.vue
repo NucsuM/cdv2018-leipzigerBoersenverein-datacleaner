@@ -3,16 +3,16 @@
    <pre style="text-align: left">
      {{JSON.stringify(classificated, null, 4)}}
      </pre>
-    <button @click="tableCreate()">refreshTable</button> 
+    <button @click="getNextLine()">nextLine</button> 
     <table>
     <tbody>
     <tr v-for="(part, key) in splitedString" :key="key">
     <td>{{part}}</td>
-    <td>
+<!--     <td>
       <select>
       <option v-for="(clas, ckey) in classifications" :value="clas" :key="ckey">{{clas}}</option>
       </select>
-    </td>
+    </td> -->
       <td>
       <button @click="addToClassification(part,clas)" v-for="(clas, ckey) in classifications" :value="clas" :key="ckey">{{clas}}</button>
     </td>
@@ -29,7 +29,8 @@ export default {
     return {
       line:
         "Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
-        classifications:['a','b','c'],
+        lineIndex:1,
+        classifications:['Name1','Name2','Inhaber','Titel','Stadt1','Stadt2'],
         classificated:[]
     };
   },
@@ -40,9 +41,6 @@ export default {
     }
   },
   methods: {
-    refreshTable: function() {
-      console.log("xxx");
-    },
     addToClassification: function(a, b){
       console.log('ADDING ' + a + ' - ' + b)
       let current = this.classificated;
@@ -54,30 +52,15 @@ export default {
       current.push(tmp);
       this.classificated = current
     },
-    tableCreate: function() {
-      var body = document.body,
-      tbl = document.createElement("table");
-      tbl.style.width = "100px";
-      tbl.style.border = "1px solid black";
+    getNextLine: function() {
+        let lines = ["Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
+        "Ackermann, Friedrich Adolf, Inhaber der Firma Friedrich Adolf Ackermanns Kunstverlag, München",
+        "Hampel, Emil, Buchdruckerei, Buch- und Kunsthandlung, Weisswasser"]
 
-      for (var i = 0; i < 3; i++) {
-        var tr = tbl.insertRow();
-        var td = tr.insertCell();
-        td.appendChild(document.createElement("<tr><td>5</td><td>2</td><td>10</td><td>500</td></tr>"));
-/*         for (var j = 0; j < 2; j++) {
-          if (i == 2 && j == 1) {
-            break;
-          } else {
-            var td = tr.insertCell();
-            td.appendChild(document.createTextNode("Cell"));
-            td.style.border = "1px solid black";
-            if (i == 1 && j == 1) {
-              td.setAttribute("rowSpan", "2");
-            }
-          }
-        } */
-      }
-      body.appendChild(tbl);
+        this.classificated = []
+
+        this.line = lines[this.lineIndex]
+        this.lineIndex++
     }
   }
 };
