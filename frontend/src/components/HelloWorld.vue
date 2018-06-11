@@ -1,9 +1,9 @@
 <template>
  <div class="hello"> 
-   <pre style="text-align: left">
-     {{JSON.stringify(classificated, null, 4)}}
-     </pre>
-    <button @click="getNextLine()">nextLine</button> 
+    <button @click="getNextLine()">nextLine</button>
+    <pre>
+    {{line}}
+    </pre>
     <table>
     <tbody>
     <tr v-for="(part, key) in splitedString" :key="key">
@@ -19,6 +19,9 @@
     </tr>
     </tbody>
     </table>
+       <pre style="text-align: left">
+     {{JSON.stringify(classificated, null, 4)}}
+     </pre>
  </div>
 </template>
 
@@ -30,8 +33,9 @@ export default {
       line:
         "Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
         lineIndex:1,
-        classifications:['Name1','Name2','Inhaber','Titel','Stadt1','Stadt2'],
-        classificated:[]
+        classifications:['Name','Inhaber','Titel','Stadt'],
+        classificated:[],
+        classificatedMap: []
     };
   },
   computed: {
@@ -49,8 +53,18 @@ export default {
         clas:b
       }
       console.dir(tmp);
-      current.push(tmp);
-      this.classificated = current
+
+      if (this.classificatedMap.indexOf(a + ':' + b) === -1)
+      {
+        console.log('new - added')
+        current.push(tmp);
+        this.classificated = current
+        this.classificatedMap.push(a + ':' + b)
+      }
+      else {
+        console.log('exists - not added')
+      }
+
     },
     getNextLine: function() {
         let lines = ["Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
