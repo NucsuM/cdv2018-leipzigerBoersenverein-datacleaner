@@ -20,20 +20,26 @@ def get_coordinates(city):
         return (1)
 
 
-    
-def print_city_coordinates(city):
+
+class CityCoordinates():
     """
     Just a test to get some, not all, city coordinates to continue with the visualisation.
     """
+    def __init__(self):
 
-    with open ('simplemaps-worldcities-basic.csv', 'r') as f:
-        csv_data = csv.DictReader(f)
-        rows = list(csv_data)
+        with open ('simplemaps-worldcities-basic.csv', 'r') as f:
+            csv_data = csv.DictReader(f)
+            self.rows = list(csv_data)
 
-        # print city coordinates:
-        for i in rows:
+    def get_coordinates(self, city):
+        for i in self.rows:
+            coordinates = []
             if city == i['city']:
-                return i['lat'],  i['lng']
+                coordinates = [i['lat'], i['lat']]
+                break
+            else:
+                coordinates = [0,0]
+        return coordinates
 
 
 
@@ -41,7 +47,7 @@ def create_city_list():
     """
     Create a csv with all citys.
     """
-
+    city_coordinates = CityCoordinates()
     companies_per_city = {}
 
     with open (CSV_FILE, 'r') as f:
@@ -72,7 +78,7 @@ def create_city_list():
 
             # write content
             for i in companies_per_city.keys():
-                new_csv.writerow({'Stadt':i,'Anzahl_Firmen':companies_per_city[i]})
+                new_csv.writerow({'Stadt':i,'Anzahl_Firmen':companies_per_city[i], 'lat':city_coordinates.get_coordinates(i)[0], 'lon': city_coordinates.get_coordinates(i)[1]})
 
 
 
@@ -81,8 +87,8 @@ def create_city_list():
 
 
 if __name__ == '__main__':
-    #create_city_list()
-    import_coordinates()
+    create_city_list()
+    
 
 
 
