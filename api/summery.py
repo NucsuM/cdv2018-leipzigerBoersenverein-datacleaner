@@ -35,7 +35,7 @@ class CityCoordinates():
         for i in self.rows:
             coordinates = []
             if city == i['city']:
-                coordinates = [i['lat'], i['lat']]
+                coordinates = [i['lat'], i['lng']]
                 break
             else:
                 coordinates = [0,0]

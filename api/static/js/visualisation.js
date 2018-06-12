@@ -18,7 +18,7 @@ var cities = JSON.parse(get_cities()).cities;
 for (i in cities){
     var lat = cities[i]['lat'];
     var lan = cities[i]['lan'];
-    var rad = cities[i]['radius'];
+    var rad = cities[i]['radius'] * 10;
     var circle = L.circle([lat, lan], {
         color: 'red',
         fillColor: '#f03',
