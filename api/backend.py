@@ -1,6 +1,6 @@
 import csv
 import random
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
 CSV_FILE = 'csv_new.csv'
 CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
@@ -60,6 +60,10 @@ def get_tasks():
 def get_random_akten():
     return jsonify({'file': random_data()})
 
+@app.route('/save', methods=['POST'])
+def receive_updates():
+
+    return request.get_json()
 
 if __name__ == '__main__':
     app.run(debug=True)
