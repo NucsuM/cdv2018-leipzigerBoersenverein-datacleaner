@@ -1,6 +1,7 @@
 <template>
  <div class="hello"> 
-    <button @click="getNextLine()">nextLine</button>
+    <button @click="getNextLine()">get new Line</button>
+    <button @click="sendToApi()">send to api</button>    
     <pre>
     {{line}}
     </pre>
@@ -66,20 +67,22 @@ export default {
 
     },
     getNextLine: function() {
-        // let lines = ["Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
-        // "Ackermann, Friedrich Adolf, Inhaber der Firma Friedrich Adolf Ackermanns Kunstverlag, München",
-        // "Hampel, Emil, Buchdruckerei, Buch- und Kunsthandlung, Weisswasser"]
-
         axios.get('http://localhost:5000/robert').then(response => {
           this.line = response.data.file
           })
           .catch(e => {
             this.errors.push(e)
           })
-
-        //this.line = lines[this.lineIndex]
-        //this.lineIndex++
-    }
+    },
+    sendToApi: function() {
+      axios.post('/save', this.classificated)
+        .then(function (response) {
+          console.log(response);
+        })
+        .catch(function (error) {
+          console.log(error);
+        });
+      }
   }
 };
 </script>
