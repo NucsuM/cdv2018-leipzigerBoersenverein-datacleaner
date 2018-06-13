@@ -31,35 +31,29 @@ export default {
   data() {
     return {
       line:
-        "Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
+        "Hallwig, Hugo, Buchhandlung, Marburg",
         lineIndex:1,
-        classifications:['Name','Inhaber','Titel','Stadt'],
-        classificated:[],
+        classifications:['Name','Inhaber','Titel','Stadt', 'Stadt (früher)'],
+        classificated: {},
         classificatedMap: []
     };
   },
   computed: {
     splitedString: function() {
+      this.classificated = {'Name': [], 'Inhaber':[], 'Titel':[], 'Stadt' :[], 'Stadt (früher)':[]}
+      this.classificatedMap = []
       let splitedString = this.line.split(', ');
       return splitedString;
     }
   },
   methods: {
-    addToClassification: function(a, b){
-      console.log('ADDING ' + a + ' - ' + b)
-      let current = this.classificated;
-      let tmp = {
-        word:a, 
-        clas:b
-      }
-      console.dir(tmp);
-
-      if (this.classificatedMap.indexOf(a + ':' + b) === -1)
+    addToClassification: function(part, clas){
+      console.dir(this)
+      if (this.classificatedMap.indexOf(part) === -1)
       {
-        console.log('new - added')
-        current.push(tmp);
-        this.classificated = current
-        this.classificatedMap.push(a + ':' + b)
+        
+        this.classificated[clas].push(part)
+        this.classificatedMap.push(part)
       }
       else {
         console.log('exists - not added')
