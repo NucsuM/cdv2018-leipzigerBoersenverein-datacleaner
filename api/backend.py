@@ -1,11 +1,12 @@
 import csv
 import random
 from flask import Flask, render_template, jsonify
-
+from flask_cors import CORS
 CSV_FILE = 'csv_new.csv'
 CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
-app = Flask(__name__)
 
+app = Flask(__name__)
+CORS(app)
 
 def random_data():
     
