@@ -168,3 +168,7 @@ typings/
 
 
 # End of https://www.gitignore.io/api/node
+
+
+simplemaps-worldcities-basic.csv
+city_list.csv
