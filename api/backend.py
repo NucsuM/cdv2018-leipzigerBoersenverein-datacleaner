@@ -6,11 +6,10 @@ CSV_FILE = 'csv_new.csv'
 CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
 app = Flask(__name__)
 
-"""
+
 def random_data():
     
     #Return a random json daten snippet. for Roberts gamification
-    
 
     with open (CSV_FILE, 'r') as f:
             csv_data = csv.DictReader(f)
@@ -20,7 +19,7 @@ def random_data():
             random_aktentitel = rows[random_row]['Aktentitel']
 
             return random_aktentitel
-"""
+
 
 def city_attributes():
     """
@@ -55,6 +54,10 @@ def root():
 def get_tasks():
     return jsonify({'cities': city_attributes()})
 
+
+@app.route('/robert', methods=['GET'])
+def get_random_akten():
+    return jsonify({'file': random_data()})
 
 
 if __name__ == '__main__':

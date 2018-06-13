@@ -1,0 +1,4291 @@
+Stadt,Anzahl_Firmen,lat,lon
+Köthen,14,0,0
+Schönebeck (Elbe),10,0,0
+Eisenberg (Thür.),2,0,0
+Leipzig,1144,51.33540529,12.40998124
+Aachen,26,0,0
+Berlin,2051,52.52181866,13.40154862
+Greifswald,11,0,0
+Wien (Österreich),642,0,0
+Slovakei),75,0,0
+Den Haag (Niederlande),57,0,0
+Lemgo,6,0,0
+Dresden,348,51.04997052,13.75000281
+Schussenried,2,0,0
+Delft (Niederlande),4,0,0
+Prag (Tschechien),210,0,0
+später Leipzig,21,0,0
+Krefeld,20,0,0
+Lingen-Ems,2,0,0
+Konstanz,19,0,0
+Lübeck,34,0,0
+München,407,0,0
+Reutlingen,18,0,0
+Rothenburg,5,0,0
+Stuttgart,281,48.77997988,9.199996296
+später Cuxhaven,2,0,0
+Varel,3,0,0
+Budapest (Ungarn),156,0,0
+später Tailfingen,2,0,0
+Garmisch,2,0,0
+Glatz,4,0,0
+Trier,20,0,0
+später Pegau,2,0,0
+Regensburg,27,49.02040448,12.12002478
+Paderborn,15,0,0
+Graz (Österreich),40,0,0
+Hamburg,327,53.55002464,9.999999144
+Meißen,8,0,0
+Rostock,25,54.07038047,12.14999711
+Themar,3,0,0
+Olmütz (Olomouc),2,0,0
+Polen),307,0,0
+Brünn (Brno),2,0,0
+Oerlikon-Zürich (Schweiz),2,0,0
+Freiburg (Breisgau),2,0,0
+Mexico D. F. (Mexico),2,0,0
+Bonn,39,50.72045575,7.080022337
+Berlin-Charlottenburg,2,0,0
+später Heydebreck,2,0,0
+Stockholm (Schweden),77,0,0
+Neuenburg (Schweiz),3,0,0
+Köln,141,0,0
+Muskau,4,0,0
+Amsterdam (Niederlande),149,0,0
+Wolfenbüttel,9,0,0
+Ludwigsburg,7,0,0
+Melk an der Donau (Österreich),2,0,0
+Leningrad (Sowjetunion),2,0,0
+Göttingen,27,0,0
+Danzig-Langfuhr,5,0,0
+Marburg,14,0,0
+Jena,33,50.93044293,11.58000606
+Königsberg,39,0,0
+Tharandt,3,0,0
+Hannover,111,52.36697023,9.716657266
+Potsdam,40,52.40040489,13.06999263
+Halle (Saale),122,0,0
+Finnland),13,0,0
+Neustadt an der Weinstraße,2,0,0
+Kassel,40,51.30000694,9.500029662
+Brugg (Schweiz),3,0,0
+Weinfelden (Schweiz),5,0,0
+Bologna,2,44.50042198,11.34002071
+Ravensburg,11,0,0
+Hanau,9,0,0
+Gulpen (Niederlande),2,0,0
+Heerlen (Niederlande),6,0,0
+Kerkrade (Niederlande),3,0,0
+Vechta,7,0,0
+Brilon,3,0,0
+Burgstädt,6,0,0
+Coburg,16,50.26660748,10.96660681
+Neu-Ulm,3,0,0
+Stolp,10,0,0
+vormals Paul Albrechts Verlag Stolp,2,0,0
+Görlitz,38,0,0
+Bad Sooden-Allendorf (Zweiggeschäft),2,0,0
+Recklinghausen,15,0,0
+Bern (Schweiz),75,0,0
+Säckingen und Waldshuth,2,0,0
+Tübingen,18,0,0
+Mannheim,43,49.50037518,8.470015013
+Haag (Niederlande),14,0,0
+Madrid (Spanien),43,0,0
+Florenz (Italien),11,0,0
+Koblenz,14,50.35047833,7.599990599
+Nürnberg,114,49.44999066,11.0799849
+Nagold,4,0,0
+Oberhausen,14,0,0
+London (Großbritannien),200,0,0
+Heppenheim,4,0,0
+Kopenhagen (Dänemark),99,0,0
+Kempten,12,0,0
+Gent (Belgien),10,0,0
+Rochester (Großbritannien),2,0,0
+Bremen,55,53.08000165,8.80002071
+Münster,34,51.97040529,7.620041055
+Sonderberg (Dänemark),2,0,0
+Wedel,4,0,0
+Neustadt,15,0,0
+Frankfurt a. M.,3,0,0
+Schwerin,30,53.63330408,11.41669861
+Dortmund,45,51.52996706,7.450025593
+Essen,85,51.44999778,7.016615355
+Gablonz,4,0,0
+Jever,3,0,0
+Sternberg,6,0,0
+Eichstätt,5,0,0
+Würzburg,38,0,0
+Tschechien),449,0,0
+Herrsching,5,0,0
+Einbeck,2,0,0
+Italien),32,0,0
+Winterthur (Schweiz),9,0,0
+Wiesbaden,48,50.08039146,8.250028441
+Lauenburg,4,0,0
+Lyon (Frankreich),3,0,0
+Österreich),2,0,0
+Steinbach,4,49.51709251,-96.68330815
+Veile (Dänemark),2,0,0
+Malmö (Schweden),9,0,0
+Norrköping (Schweden),5,0,0
+Celle,11,0,0
+Frankfurt (Main),156,0,0
+Offenbach (Main),11,0,0
+Duisburg,29,51.42997316,6.750016641
+Wien-Hadersdorf (Österreich),2,0,0
+Wien-Weidlingau (Österreich),2,0,0
+Dänemark),10,0,0
+Berlin (Zweiggeschäfte),2,0,0
+vormals Volksdienst-Verlag Adolf Anger Leipzig,2,0,0
+Waldsassen,2,0,0
+Magdeburg,81,52.13042137,11.62000362
+Süderbrarup,2,0,0
+Warnsdorf,4,0,0
+Barth,4,0,0
+Palermo (Italien),7,0,0
+Niederlande),10,0,0
+Estland),51,0,0
+Braunschweig,47,52.24997479,10.5000203
+Breslau,87,0,0
+Santa Cruz de Tenerife (Kanarische Inseln),2,0,0
+Bunzlau,4,0,0
+Crossen (Oder),3,0,0
+Zürich (Schweiz),257,0,0
+später Bad Kissingen,2,0,0
+New York (USA),176,0,0
+Warschau (Polen),93,0,0
+Castrop-Rauxel,4,0,0
+Wuppertal,17,51.25000999,7.169991006
+Frankurt (am Main),2,0,0
+Bielefeld,35,52.02998822,8.530011351
+Schweinfurt,6,0,0
+Bruderhof (Kreis Fulda) und Leipzig,2,0,0
+Darmstadt,37,0,0
+Lugano (Schweiz),12,0,0
+Nordhausen,21,0,0
+Andernach,2,0,0
+Oslo (Norwegen),42,0,0
+Bergen (Rügen),2,0,0
+Neustadt (Aisch),4,0,0
+Strehlen,4,0,0
+Zweiggeschäfte in Freiburg (Breisgau) & Hamburg,2,0,0
+Temesvar (Rumänien),2,0,0
+Luck,2,0,0
+Landshut,10,0,0
+Straubing,6,0,0
+Treuchtlingen,3,0,0
+Lokeren (Belgien),2,0,0
+Jugoslavien),133,0,0
+Waldsee,2,0,0
+Rückmarsdorf bei Leipzig,2,0,0
+Augsburg,38,48.35000612,10.89999589
+Hamburg und New York (USA) (Zweiggeschäfte),2,0,0
+Hannoversch Münden,2,0,0
+Waldkirch,3,0,0
+Heilbronn,12,0,0
+Schwäbisch Gmünd,4,0,0
+Czernowitz,2,0,0
+Schnepfenthal-Rödichen,2,0,0
+Inhaber Westdeutscher Jungmännerbund GmbH Wuppertal,2,0,0
+Unterhaching,2,0,0
+Hellerau,7,0,0
+Zürich (Zweiggeschäfte)(Schweiz),2,0,0
+Crailsheim,5,0,0
+Sillein (Zilina),2,0,0
+Brieselang,3,0,0
+Rathenow,10,0,0
+Trübau (Trebova),2,0,0
+Ratingen,5,0,0
+Schorndorf,2,0,0
+Stade,6,0,0
+Novisad (Jugoslawien),2,0,0
+Frankenthal,5,0,0
+Minden,10,0,0
+Hofgeismar,3,0,0
+Pyritz,3,0,0
+Gevelsberg,4,0,0
+Hindenburg,7,0,0
+später Potsdam,7,0,0
+Wenningstedt,2,0,0
+Westerland,5,0,0
+Düsseldorf,96,51.22037355,6.779988972
+Wuppertal-Elberfeld,19,0,0
+Karlsruhe,66,48.99999229,8.399993448
+Rottenburg,3,0,0
+Altona,16,0,0
+Bergneustadt,2,0,0
+Radolfzell,6,0,0
+Starnberg,4,0,0
+Garmisch-Partenkirchen,6,0,0
+Oldenburg,34,53.1299986,8.220004434
+,5,0,0
+Lugau,6,0,0
+Niebüll,4,0,0
+Bruchsal,4,0,0
+Villach,4,0,0
+Weingarten,3,0,0
+Paris (Frankreich),223,0,0
+Arolsen,4,0,0
+Ungvár (Ungarn),2,0,0
+Spittal a. Drau (Österreich),2,0,0
+Geisenheim,2,0,0
+Otterndorf,2,0,0
+Westerland (Sylt),2,0,0
+Traben-Trarbach,2,0,0
+Hagen (Zweigniederlassungen),2,0,0
+Fellbach,5,0,0
+Belzig,4,0,0
+Hainburg (Österreich),2,0,0
+Bamberg,13,0,0
+Jerusalem,5,31.77840782,35.20662593
+Trautenau,3,0,0
+Wetzlar,8,0,0
+Sao Leopoldo (Brasilien),3,0,0
+Heidelberg,52,49.41999249,8.699975137
+Gladbeck,4,0,0
+Frankfurt (am Main),2,0,0
+später Freiburg,5,0,0
+Rom (Italien),49,0,0
+Eisenach,36,0,0
+Elsfleth a.d. Weser,2,0,0
+Partenkirchen,2,0,0
+später Hamburg,17,0,0
+Pressnitz,2,0,0
+Frankfurt (a. Main),2,0,0
+Ilsenburg,3,0,0
+Plauen,21,0,0
+später München,20,0,0
+Kaufbeuren,4,0,0
+Szeged (Ungarn),5,0,0
+Nikolsburg,3,0,0
+Ulm,15,48.40039064,9.999999144
+Rybnik,2,0,0
+Glarus (Schweiz),5,0,0
+Basel (Schweiz),108,0,0
+Einsiedel,3,0,0
+Leobschütz,5,0,0
+Stettin,33,0,0
+Eisenberg,7,0,0
+Kirchberg,7,0,0
+Kochem (Mosel),2,0,0
+Michelstadt,3,0,0
+später Ausweichgeschäft in Bad Kreuth,2,0,0
+Neiße,2,0,0
+Riesenburg,2,0,0
+Schmölln,7,0,0
+Edinburgh (Großbritannien),6,0,0
+Chemnitz,66,50.82998395,12.91997595
+Pfullingen,4,0,0
+Pirna,10,0,0
+Bad Dürkheim,3,0,0
+Herborn,4,0,0
+Lindau,8,0,0
+Bad Schmiedeberg,3,0,0
+Kirchheim,3,0,0
+Cham,2,0,0
+Schöningen,3,0,0
+Hirschberg,6,0,0
+Weilheilm,2,0,0
+Saarbrücken,22,0,0
+Gauting,3,0,0
+Hilden (Rhein),2,0,0
+Franzensbad,4,0,0
+Selb,4,0,0
+Mailand (Italien),56,0,0
+Schwedt,2,0,0
+Esslingen,13,0,0
+Herrnhut,3,0,0
+Mitau,2,0,0
+Wigstadtl,2,0,0
+Arnsberg,7,0,0
+Aussig,2,0,0
+Duisburg-Meiderich,4,0,0
+Eilenburg,9,0,0
+Homburg,5,0,0
+Straßburg,2,0,0
+Teplitz-Schönau,2,0,0
+Uelzen,6,0,0
+Uslar,3,0,0
+Vibog (Dänemark),2,0,0
+Merzig,3,0,0
+später Wien (Österreich),9,0,0
+Niemes,3,0,0
+Soest,6,0,0
+Werne (an der Lippe),2,0,0
+Bekum,2,0,0
+Zeitz,21,0,0
+B.; Berlin,2,0,0
+Peiskirchen,2,0,0
+Mühlheim (Ruhr),2,0,0
+Warburg,5,0,0
+Pinneberg,3,0,0
+später Quedlinburg,5,0,0
+Bernburg,15,0,0
+Waldheim,7,0,0
+Langensalza,6,0,0
+Ludwigshafen,18,0,0
+Tabarz,4,0,0
+Múkacevo,2,0,0
+Aschersleben,20,0,0
+Rosenheim,8,47.8503467,12.13330562
+Urach,2,0,0
+USA,3,0,0
+Frankreich,3,0,0
+Kevelaer,8,0,0
+Mainz,39,49.98247246,8.273219156
+Schneidemühl,5,0,0
+Schleswig,8,0,0
+Guben,18,0,0
+später Erfurt,5,0,0
+Remagen,3,0,0
+Strassurg und Nancy (Frankreich),2,0,0
+Sundern,2,0,0
+Schweidnitz,6,0,0
+Wuppertal-Barmen,23,0,0
+Zittau,22,0,0
+Utrecht (Niederlande),26,0,0
+Nijmegen (Niederlande),7,0,0
+Gießen,6,0,0
+Seifhennersdorf,7,0,0
+Diepholz,4,0,0
+Melsungen,4,0,0
+Esslingen (Neckar),6,0,0
+Chur (Schweiz),14,0,0
+Bojanowo (Polen),2,0,0
+Schwiebus,3,0,0
+Olten (Schweiz),11,0,0
+Leutkirch,3,0,0
+Poing,2,0,0
+Kulmbach,7,0,0
+Gütersloh,7,0,0
+Gelsenkirchen,12,0,0
+Asch,2,0,0
+Hahnenklee,3,0,0
+später Paris (Frankreich),2,0,0
+Beuthen,8,0,0
+Thale,6,0,0
+Metz,4,49.1203467,6.180025593
+Kamen,4,0,0
+Dissen,2,0,0
+Halberstadt,21,0,0
+Beuron,4,0,0
+Buenos Aires (Argentinien),72,0,0
+Bergen (Norwegen),9,0,0
+Dahme,6,0,0
+Neubistritz,2,0,0
+Kleinmachnow,5,0,0
+Billstedt,2,0,0
+Friedberg,5,0,0
+später Hilversum (Niederlande),2,0,0
+Korbach,4,0,0
+Remscheid,7,0,0
+Stockholm,3,59.35075995,18.09733473
+später Schwelm,2,0,0
+Apolda,14,0,0
+Wien,13,0,0
+Lengerich,2,0,0
+Gstaad (Schweiz),2,0,0
+Iserlohn,9,0,0
+Laichingen,2,0,0
+Wittenberge,10,0,0
+Frankreich),97,0,0
+Bad Doberan,5,0,0
+Hamburg-Wandsbek,2,0,0
+Bodenbach,6,0,0
+Oxford (Großbritannien),4,0,0
+Jugoslawien),8,0,0
+Erlangen,12,0,0
+Bad Oeynhausen,5,0,0
+Freiwaldau,4,0,0
+Neuwied,11,0,0
+Oberehnheim,2,0,0
+Münsterberg,3,0,0
+Oerlinghausen,2,0,0
+Greifenberg,3,0,0
+Wiener Neustadt,2,47.81598187,16.24995357
+Traunstein,4,0,0
+Tel Aviv (Israel),26,0,0
+später Berlin,36,0,0
+Milano (Italien),2,0,0
+Danzig,38,0,0
+Betzdorf,4,0,0
+Bocholt,7,0,0
+Moers,6,0,0
+Braunau,3,0,0
+Ukraine),29,0,0
+Erfurt,74,50.97005292,11.02996212
+Neumarkt,4,0,0
+Strassburg,8,0,0
+Lundenburg (Hodonin),2,0,0
+Dessau,30,0,0
+Meissen,12,0,0
+Geringswalde,4,0,0
+Katowice,2,50.26038047,19.02001705
+Bad Kreuznach,11,0,0
+Liegnitz,9,0,0
+Lübben,5,0,0
+Sankt Annaberg,3,0,0
+Bitterfeld,12,0,0
+später Stuttgart,16,0,0
+Simmern,3,0,0
+Emmishofen (Schweiz),2,0,0
+später Wunsiedel,2,0,0
+Lage,6,0,0
+Aabenraa (Dänemark),2,0,0
+Uden (Niederlande),3,0,0
+Detmold,11,0,0
+Rotterdam (Niederlande),29,0,0
+Weinheim,5,0,0
+St. Andreasberg,2,0,0
+M. Gladbach,7,0,0
+Saalfeld,4,0,0
+später Oberstdorf,2,0,0
+Krummhübel,3,0,0
+Altenburg,27,0,0
+später Bad Godesberg,6,0,0
+Schelldorf,2,0,0
+Braunlage,2,0,0
+Riga (Lettland),69,0,0
+Dülken,4,0,0
+später Berlin und Stuttgart,2,0,0
+Zweigniederlassung Leipzig,3,0,0
+Biberach,4,0,0
+Dettenhausen,2,0,0
+Bremervörde,4,0,0
+Sortimentsbuchhandlung Burgdorf,2,0,0
+später Oberursel,2,0,0
+Hildesheim,21,0,0
+Weimar,50,0,0
+Neidenburg,4,0,0
+Szatmár-Németi (Ungarn),2,0,0
+Breyell,2,0,0
+Sonneberg,8,0,0
+Nienburg,3,0,0
+Rinteln,6,0,0
+Kleve,4,0,0
+Langnau (Schweiz),2,0,0
+Boston (U.S.A.),2,0,0
+Brüssel (Belgien),72,0,0
+London,3,42.9699986,-81.24998661
+New York,4,40.74997906,-73.98001693
+Santiago de Chile (Chile),20,0,0
+Arnstadt,13,0,0
+Cambridge (Großbritannien),3,0,0
+Norden,5,0,0
+Leipzig und Berlin,7,0,0
+Elmshorn,4,0,0
+Prag,2,0,0
+Gnadau,2,0,0
+Lima (Peru),9,0,0
+Schriesheim,2,0,0
+Schönebeck,5,0,0
+Dramburg,3,0,0
+später Langenholtensen,2,0,0
+Svendborg (Dänemark),2,0,0
+Jassy (Rumänien),4,0,0
+Frankfurt (Oder),12,0,0
+Blumenthal,3,0,0
+später Hemer,2,0,0
+Eschwege,7,0,0
+Pirmasens,9,0,0
+Tuttlingen,6,0,0
+Wanfried (Werra),2,0,0
+Schwerte,2,0,0
+Greiz,15,0,0
+Hamm,8,0,0
+Höhr-Grenzhausen,3,0,0
+Brühl,2,0,0
+später Sülzfeld,2,0,0
+Innsbruck (Österreich),29,0,0
+Chicago und New York,2,0,0
+Giengen,3,0,0
+Dillingen,3,0,0
+Künzelsau,2,0,0
+Eisleben,7,0,0
+Neurode,4,0,0
+Reykjavik (Island),3,0,0
+Leiden (Niederlande),24,0,0
+Winterberg,3,0,0
+Ludwigslust,3,0,0
+später Lörrach,2,0,0
+Baden-Baden,11,0,0
+später Öhringen,2,0,0
+Bochum,25,0,0
+Itzehoe,5,0,0
+Altona-Blankenese,3,0,0
+Hengelo (Niederlande),2,0,0
+Bad Bentheim,2,0,0
+später Babelsberg,3,0,0
+Worms,8,0,0
+Sortimentsbuchhandlung Utrecht (Niederlande),2,0,0
+Luxemburg (Luxemburg),42,0,0
+Kirchhain,8,0,0
+später Troppau,2,0,0
+später Kühlungsborn,2,0,0
+später Erlangen,2,0,0
+Heerwegen,2,0,0
+U.S.A.),2,0,0
+später Bischofroda,2,0,0
+Ansbach,7,0,0
+später Posen,2,0,0
+Goslar,8,0,0
+Oker,2,0,0
+Trondheim (Norwegen),6,0,0
+Wesermünde-Lehe,5,0,0
+Giessen,15,50.58371991,8.650004027
+Eschershausen,2,0,0
+Neubrandenburg,9,0,0
+Patschkau,3,0,0
+Kreuztal,2,0,0
+später Landesdruckerei Sachsen G.m.b.H. Dresden,2,0,0
+Stendal,12,0,0
+Lissa,2,0,0
+Bautzen,19,0,0
+Romanshorn (Schweiz),5,0,0
+Bedburg-Erft,2,0,0
+Metten,2,0,0
+Feudingen,2,0,0
+Freiberg,19,0,0
+Ellwangen,2,0,0
+Solothurn (Schweiz),8,0,0
+Timisoara (Rumänien),3,0,0
+Plettenberg,4,0,0
+Überlingen,5,0,0
+Hamburg-Fuhlsbüttel,2,0,0
+Gelsenkirchen-Buer,7,0,0
+Gleiwitz,6,0,0
+später Wiesentheid,2,0,0
+Kiel,31,54.33039044,10.13001705
+Witten,10,0,0
+Bergisch Gladbach,3,0,0
+Bensheim,3,0,0
+später Ebenhausen,2,0,0
+Naumburg (Saale),13,0,0
+Bad Rothefelde,2,0,0
+später Kaloch-Gehlsdorf,2,0,0
+Sortimentsbuchhandlung und Antiquariat,2,0,0
+Hameln,11,0,0
+Wildeshausen,3,0,0
+Hohenlimburg,3,0,0
+Stargard,5,0,0
+Grulich,2,0,0
+Klingenthal,6,0,0
+Linz (Österreich),30,0,0
+Hülsenbusch,2,0,0
+Herzogenrath,2,0,0
+Bethel,3,60.79330345,-161.7557961
+Donauwörth,5,0,0
+Solingen,13,0,0
+Meiringen (Schweiz),3,0,0
+Korntal,2,0,0
+Heiligenbeil-Rosenberg,2,0,0
+Klosterneuburg,2,0,0
+Sortimentsbuchhandlung Magdeburg,2,0,0
+Kaiserswerth,2,0,0
+Neuendettelsau,3,0,0
+später Neusatz (Ungarn),2,0,0
+Kropp,2,0,0
+Luxemburg,3,0,0
+Neukirchen,7,0,0
+St. Gallen (Schweiz),26,0,0
+später Ludwigsburg,2,0,0
+Zürich,2,47.37998781,8.55001013
+Kaiserslautern,18,0,0
+Gummersbach,4,0,0
+Hannover-Linden,2,0,0
+Tilburg (Niederande),2,0,0
+Neuruppin,14,0,0
+Dorsten,3,0,0
+Brake,3,0,0
+Rumänien),140,0,0
+Bad Liebenzell,2,0,0
+Neunkirchen,7,0,0
+Ostheim,2,0,0
+Lüneburg,10,0,0
+Pforzheim,9,0,0
+Grafenwöhr,2,0,0
+Marne,4,0,0
+St. Rupert,2,0,0
+Osterode,5,0,0
+Siegen,13,0,0
+Zofingen (Schweiz),4,0,0
+Jerusalem (Palästina),4,0,0
+Säckingen,6,0,0
+Graslitz,2,0,0
+Halle (Saale) und Berlin,2,0,0
+Brandenburg,9,0,0
+Marienstatt bei Hachenburg,2,0,0
+später Deggendorf,2,0,0
+Klagenfurt (Österreich),9,0,0
+Neinstedt,3,0,0
+Harburg-Wilhelmsburg,4,0,0
+Wertheim,2,0,0
+Höxter,4,0,0
+später Baitz-Belzig,2,0,0
+Brüx,3,0,0
+später Mittenwald,2,0,0
+Fürstenfeld (Österreich),2,0,0
+Cottbus,27,51.7704175,14.32996741
+Mittelwalde,3,0,0
+später Urach,2,0,0
+später Honnef,2,0,0
+Blankenburg,9,0,0
+später Bad Reichenhall,3,0,0
+Mechtal über Beuthen,2,0,0
+später Heidelberg,7,0,0
+Birnbaum,2,0,0
+Marsberg,2,0,0
+St. Pölten (Österreich),6,0,0
+Möhringen,2,0,0
+Reppen,3,0,0
+Hann. Münden,4,0,0
+später Pfarrkirchen,2,0,0
+Stolberg,4,0,0
+Achim,2,0,0
+Meldorf,4,0,0
+Auf der Marksburg b. Braubach,2,0,0
+Wetter,3,0,0
+Burg,14,0,0
+Amorbach,2,0,0
+Hollabrunn (Österreich),3,0,0
+Bad Nauheim,5,0,0
+Annaberg,7,0,0
+Crimmitschau,14,0,0
+Baden (Schweiz),4,0,0
+Kolberg,4,0,0
+später Schildhorst,2,0,0
+Wattenscheid,6,0,0
+Weidenau,3,0,0
+Opladen,4,0,0
+Sarstedt,2,0,0
+Hohenstadt,2,0,0
+Wilhelmshaven,14,0,0
+Putbus,2,0,0
+Waldenburg,12,0,0
+Bad Godesberg,5,0,0
+Hagen,18,0,0
+Neckargemünd,2,0,0
+Ungarn),21,0,0
+Leipa,2,0,0
+Verona (Italien),3,0,0
+Linz (Rhein),3,0,0
+Bologna (Italien),9,0,0
+Sortimentsbuchhandlung Mailand (Italien),2,0,0
+Freiburg,54,48.00041506,7.869948281
+Stuttgart-Zuffenhausen,3,0,0
+Bukarest (Rumänien),82,0,0
+(Mexiko),3,0,0
+Porto (Portugal),11,0,0
+Turin (Italien),18,0,0
+Wis. (USA),2,0,0
+Auerbach,9,0,0
+Gossau (Schweiz),3,0,0
+Codlea (Rumänien),2,0,0
+Horb,2,0,0
+Lehrmittel- und Papierhandlung. Altona-Ottensen,2,0,0
+Wolgast,3,0,0
+Meitingen,2,0,0
+Jordan,2,0,0
+Aarau (Schweiz),15,0,0
+Herford,9,0,0
+Bad Salzuflen,7,0,0
+Stuttgart-Cannstatt,2,0,0
+Wernigerode,16,0,0
+Cuxhaven,7,0,0
+Werdau,5,0,0
+Hamburg-Holstenwall,2,0,0
+Stralsund,16,54.30041811,13.10001664
+Königsfeld,2,0,0
+Neumünster,12,0,0
+später Stuttgart-Zuffenhausen,2,0,0
+später Torgau,3,0,0
+später Duisburg,2,0,0
+Säckingen (Baden) und Stein (Schweiz),2,0,0
+Zwickau,32,0,0
+Schmalkalden,8,0,0
+Haarlem (Niederlande),13,0,0
+Rendsburg,7,0,0
+Litauen),43,0,0
+Porto Alegre (Brasilien),18,0,0
+Bournemouth (Großbritannien),2,0,0
+später Altötting,2,0,0
+Manchester (Großbritannien),4,0,0
+Bad Aibling,2,0,0
+Greven,2,0,0
+Neustrelitz,8,0,0
+Belgien),8,0,0
+Debrecen (Ungarn),4,0,0
+Waren (Müritz),4,0,0
+Hassloch,2,0,0
+Luzern (Schweiz),28,0,0
+Treuburg,2,0,0
+später Duisburg-Hamborn,3,0,0
+Lüdenscheid,7,0,0
+Diekirch (Luxemburg),3,0,0
+Fredericia (Dänemark),2,0,0
+Bad Blankenburg,4,0,0
+Sofia (Bulgarien),51,0,0
+Allenstein,3,0,0
+Balingen,4,0,0
+Mühlhausen,18,0,0
+Donaueschingen,4,0,0
+Gifhorn,2,0,0
+Nordhorn,3,0,0
+Wormditt,3,0,0
+Delmenhorst,7,0,0
+Sagan,4,0,0
+später Berlin-Schildow,2,0,0
+später Marktschellenberg,2,0,0
+Buchen,2,0,0
+Freystadt,2,0,0
+Swinemünde,8,0,0
+Landeshut,3,0,0
+Datteln,2,0,0
+Schweiz),47,0,0
+Husum,4,0,0
+Rotenburg,4,0,0
+Bad Neuenahr,4,0,0
+Ribnitz,2,0,0
+Wasserburg,3,0,0
+Ossegg,2,0,0
+Grüssau,2,0,0
+Freden,2,0,0
+Hamborn,5,0,0
+Quedlinburg,9,0,0
+Namslau,3,0,0
+später Bruckberg,2,0,0
+Meseritz,2,0,0
+später Neuhof,2,0,0
+später Nürnberg,5,0,0
+Athen (Griechenland),42,0,0
+Schöneiche,3,0,0
+Bayreuth,12,0,0
+später Radstadt (Österreich),2,0,0
+Istanbul-Beyoglu (Türkei),4,0,0
+Roklum,2,0,0
+Lichtenfels,2,0,0
+Santiago (Chile),3,0,0
+später Hirnsberg,2,0,0
+später Krölpa,2,0,0
+Namibia),2,0,0
+Bad Berka,2,0,0
+Fulda und Bad Salzschlirf,2,0,0
+später Kleinwenkheim,2,0,0
+Grünwald,3,0,0
+später Höckendorf,2,0,0
+später Leipzig-Liebertwolkwitz,2,0,0
+Salzwedel,8,0,0
+Mannheim und Leipzig,2,0,0
+Freudenstadt,7,0,0
+Bad Tölz,3,0,0
+Memmingen,5,0,0
+Wassenaar (Niederlande),2,0,0
+Alfeld,2,0,0
+Genthin,3,0,0
+Fulda,11,0,0
+Weilburg,3,0,0
+später Gröbenzell,3,0,0
+Göppingen,5,0,0
+Nowawes,2,0,0
+Wurzen,9,0,0
+Mayen,3,0,0
+Holzhausen,3,0,0
+Caransebes (Rumänien),2,0,0
+Köln-Nippes,2,0,0
+Bussum (Niederlande),2,0,0
+Syke,2,0,0
+Boston (USA),12,0,0
+Jork,2,0,0
+Meppen,3,0,0
+Buchholz,3,0,0
+Döbeln,10,0,0
+Sinsheim,3,0,0
+Tangermünde,4,0,0
+Lemberg,4,0,0
+Slovenien),2,0,0
+Dillenburg,6,0,0
+Lippstadt,5,0,0
+Dahlerau (Wupper),2,0,0
+Kyritz (Prignitz),3,0,0
+Bremen und (Geschäftsstelle:) Hannover,2,0,0
+Burg (Fehmarn),2,0,0
+Werdohl,2,0,0
+Montreux (Schweiz),3,0,0
+Herrnstadt,2,0,0
+Padua (Italien),4,0,0
+Hadersleben (Dänemark),2,0,0
+Rottweil,5,0,0
+Olbernhau,9,0,0
+Flörsheim,2,0,0
+später Detmold,4,0,0
+Wunsiedel,3,0,0
+Altötting,7,0,0
+Herten,3,0,0
+Emmendingen,4,0,0
+Lokstedt,3,0,0
+später Bonn,5,0,0
+Gollnow,4,0,0
+Friedland,7,0,0
+Friedrichroda,4,0,0
+Rudolstadt,13,0,0
+Radeberg,7,0,0
+später Lotte,2,0,0
+später Schwabach,2,0,0
+Warendorf,8,0,0
+später Annaburg,2,0,0
+Büdingen,2,0,0
+Eberswalde,13,0,0
+später Kleinostheim,2,0,0
+Amberg,12,0,0
+Viersen,4,0,0
+Nauen,5,0,0
+Beuern,2,0,0
+St. Louis,2,38.63501772,-90.23998051
+Westrhauderfehn,2,0,0
+St. Ingbert,4,0,0
+Annemasse (Frankreich),2,0,0
+Barcelona (Spanien),51,0,0
+Josefsthal-Untermaxdorf,2,0,0
+Trossingen,2,0,0
+Rastatt,5,0,0
+Tachau,3,0,0
+Komotau,3,0,0
+Eger,3,47.89500314,20.38300258
+Borken,3,0,0
+später Düsseldorf,5,0,0
+Sorau,5,0,0
+Bad Schwartau,2,0,0
+Leonberg,4,0,0
+Steinach,2,0,0
+Santa Cruz (Brasilien),3,0,0
+später Diessen,2,0,0
+Tiegenhof,4,0,0
+Bahn,2,0,0
+Budweis,2,0,0
+Lindow,3,0,0
+Mühlacker,5,0,0
+später Darmstadt,3,0,0
+Uebigau,2,0,0
+Mühlberg,2,0,0
+später Oberreith-Gars,2,0,0
+Odense (Dänemark),8,0,0
+Emmerich,4,0,0
+später Hessisch-Oldendorf,2,0,0
+Lampertheim,2,0,0
+Weißwasser,5,0,0
+Zweibrücken,6,0,0
+Neisse,8,0,0
+Reichenbach,17,0,0
+Gotha,27,0,0
+Badenweiler,4,0,0
+Reinbek,3,0,0
+Wildberg,2,0,0
+Stolpmünde,2,0,0
+Berchtesgaden,11,0,0
+Braunsberg,2,0,0
+Ahlbeck,3,0,0
+Nordenham,3,0,0
+Wittenberg,9,0,0
+Deutsch-Eylau,2,0,0
+London (Grossbritannien),2,0,0
+Schwelm,3,0,0
+Zollikon (Schweiz),3,0,0
+Fürth,19,0,0
+Nördlingen,3,0,0
+Neustadt a.d. Weinstrasse,5,0,0
+Bad Freienwalde,3,0,0
+Herne,12,0,0
+Mansfeld,4,0,0
+Meiningen,11,0,0
+Glückstadt,4,0,0
+Markkleeberg,15,0,0
+Zöbigker,2,0,0
+Neubabelsberg,2,0,0
+Elbing,5,0,0
+Schildow,3,0,0
+Falkenstein,9,0,0
+Antwerpen (Belgien),43,0,0
+Oels,4,0,0
+Meisenheim,2,0,0
+später Münchberg,3,0,0
+Zülz,2,0,0
+Korneuburg,2,0,0
+Bärwalde,3,0,0
+Düren,6,0,0
+Miskolcz (Ungarn),2,0,0
+Ottobeuren,2,0,0
+M.Gladbach,3,0,0
+Dornbirn,2,0,0
+Woltersdorf,4,0,0
+Pasing,4,0,0
+Vaihingen,3,0,0
+Birkenfeld,3,0,0
+Wangen,4,0,0
+Kairo (Aegypten),2,0,0
+Gross-Gerau,2,0,0
+Radebeul,33,0,0
+später Frankfurt (Main),5,0,0
+später Reichenberg,2,0,0
+Ellrich,3,0,0
+Gerolstein,2,0,0
+Jülich,3,0,0
+Lettland),12,0,0
+Oberhof,2,0,0
+später Zwickau,4,0,0
+Weißenfels,7,0,0
+Wittlich,4,0,0
+Hof,6,50.31704368,11.91667802
+Waldbröl,2,0,0
+Stassfurt,5,0,0
+Stavanger (Norwegen),3,0,0
+Grevenbroich,4,0,0
+Kettwig,2,0,0
+Geislingen,5,0,0
+Herne-Sodingen,2,0,0
+Lahr,6,0,0
+Cammin,3,0,0
+Mittweida,18,0,0
+später Lausanne (Schweiz),2,0,0
+Teschechien),2,0,0
+Tschechien,2,0,0
+Reichenberg,7,0,0
+Kusel,3,0,0
+Mosbach,3,0,0
+Birkenwerder und Berlin,2,0,0
+Breslau und Habelschwerdt,2,0,0
+Habelschwerdt,2,0,0
+Frankenstein,5,0,0
+Feuchtwangen,2,0,0
+Lausanne (Schweiz),28,0,0
+Tauberbischofsheim,3,0,0
+Demmin,8,0,0
+später Ebenrode,2,0,0
+Coswig,6,0,0
+Bad Gandersheim,3,0,0
+Werl,5,0,0
+Erkner,4,0,0
+später Wuppertal-Elberfeld,2,0,0
+später Bad Pyrmont,5,0,0
+Freiurg,2,0,0
+Putzig,2,0,0
+Jägerndorf,4,0,0
+Velbert,5,0,0
+Grevesmühlen,4,0,0
+Tilsit,3,0,0
+Rheydt,8,0,0
+Stuttgart-Bad Cannstatt,6,0,0
+später Naunhof,4,0,0
+Mettmann,3,0,0
+Arnswalde,4,0,0
+Aurich,4,0,0
+Norderney,3,0,0
+Emden,7,53.36667666,7.216654824
+Soltau,4,0,0
+später Peitz,2,0,0
+Ochsenfurt,3,0,0
+Helmstedt,2,0,0
+Kroatien),3,0,0
+Kempten und München,2,0,0
+Osnabrück,18,52.28043805,8.049988972
+Bückeburg,5,0,0
+später Völklingen,2,0,0
+Waltrop,2,0,0
+Renchen,2,0,0
+später Bad Liebenzell,2,0,0
+Brunsbüttelkoog,2,0,0
+Waldmünchen,2,0,0
+Friedeberg,3,0,0
+Hildburghausen,8,0,0
+Vicenza (Italien),2,0,0
+Petershagen,3,0,0
+Kecskémet (Ungarn),2,0,0
+Preussisch Eylau,2,0,0
+Ingolstadt,6,48.77041974,11.44998816
+Trentschin,2,0,0
+Bad Salzungen,4,0,0
+Deutsch Krone,3,0,0
+später Einbeck,3,0,0
+Schwarzenberg,6,0,0
+Krems (Österreich),6,0,0
+Hofgastein (Österreich),2,0,0
+Hauptdirektion Warschau (Polen),2,0,0
+Zakopane (Polen),2,0,0
+später Eisenach,2,0,0
+Berlin und Leipzig,23,0,0
+Tangerhütte,2,0,0
+Rothenburg ob der Tauber,6,0,0
+Altheide,2,0,0
+später Göttingen,6,0,0
+Zoppot,6,0,0
+Thum,4,0,0
+Zschopau,4,0,0
+Rahlstedt,2,0,0
+Bad Harzburg,9,0,0
+Alzey,3,0,0
+Ebenhausen,3,0,0
+später Braunschweig,7,0,0
+Bad Pyrmont,8,0,0
+Hersfeld,4,0,0
+Interlaken (Schweiz),5,0,0
+Vreden,3,0,0
+Ill. (USA),2,0,0
+Xanten,3,0,0
+Ahrweiler,2,0,0
+später Celle,4,0,0
+Kraków (Polen),4,0,0
+Geilenkirchen-Hünshoven,2,0,0
+später Aue,2,0,0
+Essen und Berlin,2,0,0
+Ebnat (Schweiz),2,0,0
+Hohenelbe,2,0,0
+später Gefrees,2,0,0
+Limburg (Lahn),5,0,0
+später Helstorf,2,0,0
+Lund (Schweden),8,0,0
+Berneck,2,0,0
+Bischofsteinitz,2,0,0
+Schkeuditz,6,0,0
+Gnadenfrei,3,0,0
+Goldap,2,0,0
+Forst,11,0,0
+Troppau,5,0,0
+Weiden,7,0,0
+Bad Carlsruhe,2,0,0
+Schlochau,3,0,0
+Strasburg (Uckermark),3,0,0
+Elspe,2,0,0
+Prüm,4,0,0
+Spremberg,6,0,0
+später Spremberg,2,0,0
+Inhaber Willy Herzig Magdeburg,2,0,0
+Villingen,6,0,0
+Thalheim,5,0,0
+später Coburg,7,0,0
+Aschaffenburg,6,0,0
+später Füssen,3,0,0
+Kappeln,2,0,0
+Bremerhaven,7,53.55043805,8.579982461
+Wrietzen,2,0,0
+Kirchheimbolanden,4,0,0
+Liebenthal,2,0,0
+Germersheim,3,0,0
+Leipzig und Crimmitschau,2,0,0
+Landau,7,0,0
+Siegburg,4,0,0
+Idstein,2,0,0
+Ohrdruf,6,0,0
+Annaberg und Oberwiesenthal,2,0,0
+Berlin und Zürich (Schweiz),2,0,0
+Leisnig,4,0,0
+Grevenbrück,2,0,0
+später Köln,7,0,0
+Salzburg (Österreich),19,0,0
+Labiau,2,0,0
+Imst und Landeck (Österreich),2,0,0
+später Velburg,2,0,0
+Eutin,5,0,0
+zuletzt Flensburg,2,0,0
+später Selm,2,0,0
+Clausthal-Zellerfeld,4,0,0
+Fallersleben,2,0,0
+Eggenfelden,2,0,0
+Marienburg,3,0,0
+später Hamm,3,0,0
+Mülheim,4,0,0
+später München-Starnberg,2,0,0
+Ebingen,4,0,0
+Senftenberg,11,0,0
+Ruhland,6,0,0
+Füssen,3,0,0
+Saarlautern,2,0,0
+Grünberg,8,0,0
+Bad Polzin,4,0,0
+Gassen,2,0,0
+Hohenstein,2,0,0
+Nebenbüro in Leipzig,2,0,0
+Marienbad,5,0,0
+Bad Reichenhall,9,0,0
+Wuppertal-Ronsdorf,2,0,0
+Schweden),14,0,0
+Leipzig und Wien (Österreich),3,0,0
+Bretten,4,0,0
+Jauer,5,0,0
+später Bad Aussee (Österreich),2,0,0
+Kremsier,2,0,0
+Karlstadt (Schweden),2,0,0
+Großenhain,6,0,0
+zuletzt Berlin,2,0,0
+Knittelfeld (Österreich),4,0,0
+Heydekrug,2,0,0
+Passau,7,48.56704714,13.46660925
+Kirchheim (u. Teck),2,0,0
+Wels (Österreich),8,0,0
+Rumburg,3,0,0
+Duderstadt,5,0,0
+Desden,3,0,0
+Wermelskirchen,3,0,0
+später Weil der Stadt,2,0,0
+Lippspringe,2,0,0
+Homberg,7,0,0
+später Halle (Saale),6,0,0
+Suttgart,2,0,0
+Plön,2,0,0
+Neusalz,2,0,0
+später London (Großbritannien),4,0,0
+Stockerau (Österreich),3,0,0
+Miltenberg,4,0,0
+Olten,2,0,0
+später Neumünster,2,0,0
+Weisswasser,2,0,0
+später Barmstedt,2,0,0
+Pössneck,7,0,0
+Baden bei Wien (Österreich),3,0,0
+Kaaden,4,0,0
+später Schönau über Olpe,2,0,0
+Caputh,3,0,0
+Wesermünde,5,0,0
+Bredstedt,3,0,0
+Plieningen,2,0,0
+Katzenelnbogen,2,0,0
+Hilden,2,0,0
+Cannstatt,3,0,0
+Bischofsburg,3,0,0
+Niedersedlitz,9,0,0
+Meschede,4,0,0
+später Hannover,6,0,0
+Langenlois (Österreich),3,0,0
+Wien (Österreich) und Leipzig,3,0,0
+Kolmar,3,0,0
+Naugard,3,0,0
+Neuhaldensleben,3,0,0
+später Weixdorf,2,0,0
+Verden,2,0,0
+Rummelsburg,2,0,0
+Stanislau,2,0,0
+Lobositz,3,0,0
+Spiez (Schweiz),2,0,0
+Kahla,3,0,0
+später Nachmühlen,2,0,0
+später Antwerpen (Belgien),2,0,0
+Saarlautern (Saarlouis),5,0,0
+Calw,5,0,0
+New Orleans (USA),4,0,0
+Bromberg,2,0,0
+Hälsingborg (Schweden),3,0,0
+Treysa,3,0,0
+Wismar,15,0,0
+Heerenveen (Niederlande),2,0,0
+später Seebruck,2,0,0
+Kempen,6,0,0
+Cambridge,2,52.20039125,0.116623086
+Saarburg,2,0,0
+Lübbecke,4,0,0
+Preussisch Holland,2,0,0
+Heide,6,0,0
+Heiligenbeil,4,0,0
+Langenbielau,3,0,0
+Querfurt,7,0,0
+Küstrin,4,0,0
+Schärding,2,0,0
+Seehausen,4,0,0
+Stadthagen,5,0,0
+später Fürstenfeldbruck,2,0,0
+Kingswood und London (Großbritannien),2,0,0
+Karlsbad,4,0,0
+Scharbeutz,2,0,0
+Alsfeld,5,0,0
+Bludenz (Österreich),2,0,0
+Eckernförde,3,0,0
+Pfungstadt,2,0,0
+Bordesholm,2,0,0
+später Limburg,2,0,0
+Bad Mergentheim,5,0,0
+Kirchen,2,0,0
+Meuselwitz,5,0,0
+Neubiberg,2,0,0
+Tetschen,2,0,0
+Driesen,2,0,0
+später Bremerhaven,2,0,0
+Winsen (Luhe),2,0,0
+Ottweiler,2,0,0
+Aalen,4,0,0
+Berlinchen,3,0,0
+Böhmisch-Leipa,2,0,0
+später Reinsdorf,2,0,0
+Hilchenbach,4,0,0
+Erkelenz,3,0,0
+Langenberg,3,0,0
+Boizenburg (Elbe),3,0,0
+Solln,2,0,0
+Curityba (Brasilien),13,0,0
+Nierstein,3,0,0
+Gunzenhausen,4,0,0
+Brandenburg (Havel),5,0,0
+Hiltrup,2,0,0
+Sangerhausen,9,0,0
+Waiblingen,2,0,0
+später Niederkaufungen,2,0,0
+Schönberg,4,0,0
+Coesfeld,3,0,0
+Hückeswagen,2,0,0
+Lommatzsch,5,0,0
+Uetersen,6,0,0
+Egeln,4,0,0
+Friesack,3,0,0
+Löwenberg,3,0,0
+Striegau,3,0,0
+Arnheim (Niederlande),3,0,0
+Wohlau,4,0,0
+Middelburg (Niederlande),5,0,0
+später St. Heinrich,2,0,0
+später Vechelde,2,0,0
+Dahme (Mark),3,0,0
+später Walldürn,2,0,0
+später Karlsruhe,2,0,0
+Insterburg,3,0,0
+Stockolm (Schweden),2,0,0
+Bad Sooden-Allendorf,2,0,0
+Osterburg,3,0,0
+später Rabenstein,2,0,0
+Dessau-Rosslau,2,0,0
+Glashütte,2,0,0
+Valparaiso (Chile),6,0,0
+später Eutin,4,0,0
+später nur Hamburg,2,0,0
+später St. Peter,2,0,0
+Riesa,11,0,0
+später Bayreuth,3,0,0
+Fleissen,2,0,0
+Hirschberg (Saale),3,0,0
+Buchhandlung Ludwigshafen,2,0,0
+Neuburg,3,0,0
+Oberstdorf,3,0,0
+Rossbach,2,0,0
+später Bielefeld,2,0,0
+später Weißenfels,2,0,0
+Deggendorf,4,0,0
+Kitzingen,3,0,0
+später Büren,2,0,0
+Oehringen,2,0,0
+Bad Hersfeld,2,0,0
+Zittau und Dresden,2,0,0
+Neuenhagen,3,0,0
+Sonthofen,2,0,0
+Emsdetten,3,0,0
+Horsens (Dänemark),3,0,0
+später Wolfsburg,2,0,0
+Oelde,2,0,0
+Weiler,2,0,0
+später Berlin und Hamburg,2,0,0
+Obermenzing,4,0,0
+Birkenwerder,3,0,0
+Glogau,5,0,0
+Regis-Brettingen,2,0,0
+Trebnitz,4,0,0
+Altdamm,2,0,0
+Altenmarkt,2,0,0
+Müglitz,2,0,0
+Unna,6,0,0
+später Amsterdam,2,0,0
+Dülmen,4,0,0
+Malchin,2,0,0
+Kandel,2,0,0
+Pilsen,2,0,0
+Heidenheim,4,0,0
+Fiume (Italien),3,0,0
+St. Veit (Österreich),3,0,0
+Diessen,2,0,0
+Frauenfeld (Schweiz),3,0,0
+Krumbach,2,0,0
+Schrobenhausen,2,0,0
+Gross-Strehlitz,2,0,0
+später Leimen,2,0,0
+Schönlanke,3,0,0
+Zürich und Solothurn (Schweiz),2,0,0
+Günzburg,4,0,0
+Leipzig und Zürich,2,0,0
+Lörrach,6,0,0
+Northeim,7,0,0
+Görkau,2,0,0
+Offenbach,2,0,0
+Mindelheim,3,0,0
+Hattingen,2,0,0
+St. Louis (USA),4,0,0
+Holzminden,4,0,0
+Satu-Mare (Rumänien),4,0,0
+Schwaig,2,0,0
+Torgau,4,0,0
+Sebes-Alba (Rumänien),2,0,0
+Haldensleben,7,0,0
+Leverkusen-Wiesdorf,3,0,0
+Weener,2,0,0
+Aussig (Tschechien),2,0,0
+Johanngeorgenstadt,2,0,0
+Speyer,12,0,0
+Neudietendorf,3,0,0
+später Lichtenfels,2,0,0
+Bad Landeck,3,0,0
+Schwenningen,2,0,0
+Friedek,2,0,0
+Tarnów (Polen),4,0,0
+Neu-Oderberg,2,0,0
+Tondern (Dänemark),3,0,0
+Kreuz,2,0,0
+Gettorf,2,0,0
+Emseloh,2,0,0
+später Machern,2,0,0
+Dömitz,4,0,0
+Obernkirchen,2,0,0
+Buchholz-Hohenkrug,2,0,0
+Laasphe,4,0,0
+Bingen (Rhein),4,0,0
+später Eichwalde,2,0,0
+Bremen und Hannover,2,0,0
+USA),4,0,0
+London (Großritannien),2,0,0
+Lindenberg,3,0,0
+Johannisburg,3,0,0
+Lenzkirch,2,0,0
+später Itzehoe,3,0,0
+Malente-Gremsmühlen,2,0,0
+Kleinwittenberg (Elbe),2,0,0
+Beetzendorf (Altmark),2,0,0
+Nürnberg und Kempten,2,0,0
+Saaz,2,0,0
+Schwyz (Schweiz),4,0,0
+Oberveischede,2,0,0
+Ferndorf,2,0,0
+Arosa (Schweiz),3,0,0
+Großschönau und Leipzig,2,0,0
+Gelnhausen,4,0,0
+später Gotha,2,0,0
+Bitsch,2,0,0
+Aarhus (Dänemark),10,0,0
+später Wieslet,2,0,0
+Frankenberg,9,0,0
+Sarajevo (Jugoslavien),11,0,0
+Hammelburg,2,0,0
+Rahden,2,0,0
+Montabaur,3,0,0
+Deutsch Gabel,2,0,0
+Istanbul (Türkei),29,0,0
+später Greiffenberg,2,0,0
+Misdroy,2,0,0
+Steyr (Österreich),7,0,0
+Ratibor,5,0,0
+Bad Sachsa,2,0,0
+Pfarrkirchen,2,0,0
+Limbach,7,0,0
+Podejuch,2,0,0
+Gera,33,50.87036908,12.07000199
+später Bad Grund,2,0,0
+Duppau,2,0,0
+Rottenburg (Neckar),4,0,0
+Luckenwalde,9,0,0
+Altenkirchen,2,0,0
+Fürstenfeldbruck,2,0,0
+Waidhofen (Thaya) (Österreich),2,0,0
+Wehlau,3,0,0
+Crivitz,4,0,0
+Hamburg-Barmbeck,2,0,0
+Reps (Rumänien),2,0,0
+Kuopio (Finnland),2,0,0
+Schmiedeberg,4,0,0
+Altena,4,0,0
+Ditzingen,2,0,0
+Stolzenau (Weser),2,0,0
+Suhl,9,0,0
+Oberkaufungen,2,0,0
+später Königsee,2,0,0
+Bad Gastein,3,0,0
+Buckow,5,0,0
+später Steinebach,2,0,0
+Boppard,2,0,0
+Chrudim,2,0,0
+später Lindach,2,0,0
+Pabianice (Polen),4,0,0
+Rüdesheim (Rhein),2,0,0
+Hemer,3,0,0
+Stollberg,6,0,0
+Völklingen,3,0,0
+später Riederau,2,0,0
+Arad (Rumänien),9,0,0
+Paramaribo (Niederländisch-Guyana),2,0,0
+Köln-Mülheim,5,0,0
+später Wiesbaden,5,0,0
+später Bad Harzburg,2,0,0
+Guttstadt,3,0,0
+Bad Wörishofen,5,0,0
+später Dresden,4,0,0
+Guhrau,3,0,0
+Kyritz,2,0,0
+St. Moritz (Schweiz),2,0,0
+Neuenhaus,2,0,0
+Hünfeld,3,0,0
+Bergedorf,2,0,0
+später Bad Honnef,2,0,0
+Menden,3,0,0
+Stolzenhagen,2,0,0
+Laupheim,3,0,0
+später Berlin und Bielefeld,2,0,0
+später Schkeuditz,4,0,0
+Odrau (Tschechien),2,0,0
+später Teisendorf,2,0,0
+Quakenbrück,4,0,0
+Lübz,3,0,0
+Liebau,3,0,0
+Ahaus,3,0,0
+Oberkotzau,2,0,0
+Hallein,2,0,0
+Podersam,2,0,0
+Bad Lausick,4,0,0
+später Sassleben,2,0,0
+später Meine,2,0,0
+Hettstedt,5,0,0
+Stallupönen (Ebenrode),2,0,0
+später Ravensburg,2,0,0
+Turek,2,0,0
+dann München,2,0,0
+Gräfenhainichen,3,0,0
+Darkehmen,2,0,0
+Bacharach (Rhein),2,0,0
+Neudamm,3,0,0
+Mehlsack,3,0,0
+Ballenstedt,5,0,0
+Billerbeck,2,0,0
+Malchow,3,0,0
+Lauf (Pegnitz),5,0,0
+Kappeln (Schlei),2,0,0
+St. Wendel,4,0,0
+später Bad Kreuznach,2,0,0
+Brasilien),2,0,0
+später Kleinschmieden,2,0,0
+Lauban,3,0,0
+Belgrad (Jugoslavien),51,0,0
+Sredisce (Jugoslavien),2,0,0
+Cheribon (Java),3,0,0
+Baja (Ungarn),2,0,0
+Remagen (Rhein),3,0,0
+später Wiederitzsch,2,0,0
+München und Berlin,5,0,0
+Verden (Aller),6,0,0
+Bühl,4,0,0
+später Markkleeberg,5,0,0
+Stuttgart und Berlin,5,0,0
+Oppeln,5,0,0
+Ziegenhain,2,0,0
+Blumau (Österreich),2,0,0
+M.-Gladbach,4,0,0
+Haltern,2,0,0
+später Blankenese,2,0,0
+später Bleicherode,3,0,0
+Landsberg,5,0,0
+Oranienburg,9,0,0
+Halver,4,0,0
+später Ranis,2,0,0
+Genua (Italien),8,0,0
+Berleburg,3,0,0
+später Augsburg,4,0,0
+Warnemünde,3,0,0
+Berndorf (Österreich),3,0,0
+Hahnstätten,2,0,0
+Radiumbad Oberschlema,4,0,0
+Rothenburg o.T.,2,0,0
+Kattowitz,2,0,0
+Kamenz,10,0,0
+Halls (Saale),2,0,0
+Rheinfelden,5,0,0
+Bernkastel-Cues (Bernkastel-Kues),2,0,0
+Thun (Schweiz),7,0,0
+Ragnit,4,0,0
+Edenkoben,2,0,0
+Luxemburg),2,0,0
+Ohlau,5,0,0
+Backnang,3,0,0
+Kreuzburg,3,0,0
+Haynau,4,0,0
+Wekelsdorf,2,0,0
+Lodz (Polen),16,0,0
+Freilassing,2,0,0
+Skien (Norwegen),2,0,0
+Flensburg,9,54.78374778,9.433315388
+Anklam,6,0,0
+Finsterwalde,9,0,0
+später Eisleben,2,0,0
+Mölln,2,0,0
+Sensburg,5,0,0
+Sondershausen,9,0,0
+Wyk auf Föhr,2,0,0
+Elsterberg,2,0,0
+Finow,3,0,0
+Lemberg und Warschau (Polen),2,0,0
+Pritzwalk,5,0,0
+später Landshut,2,0,0
+später Schöneiche,2,0,0
+Milspe,2,0,0
+Wesel,6,0,0
+später Altengottern,2,0,0
+Biel (Schweiz),11,0,0
+später Lobenstein,2,0,0
+Windsbach,2,0,0
+Dohna,2,0,0
+Lüchow,2,0,0
+Netzschkau,2,0,0
+später Fürth,2,0,0
+Weinböhla,4,0,0
+Kreiensen,2,0,0
+Rastenburg,4,0,0
+später Castrop-Rauxel,2,0,0
+Gladenbach,2,0,0
+Limburg,3,0,0
+später Güstrow,3,0,0
+Liestal (Schweiz),3,0,0
+Wittingen,3,0,0
+Klein-Machnow,2,0,0
+Helgoland,2,0,0
+Glauchau,13,0,0
+Militsch,3,0,0
+Königstein,7,0,0
+Burgdorf (Schweiz),3,0,0
+Schmiegel,2,0,0
+Grabow,2,0,0
+Kallmünz,3,0,0
+Bad Hall (Österreich),2,0,0
+später Seeshaupt,2,0,0
+später Uchtdorf,2,0,0
+Gettenbach,2,0,0
+Eindhoven (Niederlande),7,0,0
+später Werdau,2,0,0
+Ziesar,3,0,0
+Korneuburg (Österreich),3,0,0
+Leer,4,0,0
+Hohenmölsen,4,0,0
+San José (Costa Rica),5,0,0
+Weissenfels,7,0,0
+Kairo (Ägypten),9,0,0
+Bad Warmbrunn,3,0,0
+Duisburg-Hamborn,4,0,0
+Höchst (Schweiz),2,0,0
+Paris (Frankreich) und Leipzig,2,0,0
+Bad Kissingen,4,0,0
+Bad Flinsberg,2,0,0
+Managua (Nicaragua),2,0,0
+Gorizia (Italien),3,0,0
+Guatemala City (Guatemala),2,0,0
+Valdivia (Chile),4,0,0
+Locarno (Schweiz),9,0,0
+Abbazia (Italien),5,0,0
+später Lüneburg,2,0,0
+Lohr (Main),2,0,0
+Züllichau,3,0,0
+Sigmaringen,3,0,0
+Geesthacht,2,0,0
+später Eppingen,2,0,0
+Friedrichshafen,4,0,0
+Upsala (Schweden),6,0,0
+später Lamspringe,2,0,0
+später Radeburg,2,0,0
+Lindenfels,2,0,0
+Pulsnitz,2,0,0
+Plochingen,2,0,0
+Örebro (Schweden),3,0,0
+später Altenburg,2,0,0
+später Basel (Schweiz),4,0,0
+Hersbruck,3,0,0
+Feldsberg (Österreich),2,0,0
+Kronach,3,0,0
+Schwenningen (Neckar),3,0,0
+Ortelsburg,5,0,0
+Fredrikstad (Norwegen),2,0,0
+Kufstein,2,0,0
+Bjelovar (Jugoslavien),3,0,0
+Wollin,2,0,0
+Metzingen,4,0,0
+Liverpool (Großbritannien),3,0,0
+Kristianstad (Schweden),3,0,0
+Bello Horizonte (Brasilien),2,0,0
+Rio de Janeiro (Brasilien),33,0,0
+Florianopolis (Brasilien),3,0,0
+Sao Paulo (Brasilien),41,0,0
+Bad Schandau,6,0,0
+Haarlem,2,52.38043194,4.629991006
+Rorschach (Schweiz),4,0,0
+Meiringen (Schweiz) und Leipzig,2,0,0
+Gmunden,3,0,0
+Grimma,5,0,0
+Gernrode,4,0,0
+Spangenberg,2,0,0
+Bismark,3,0,0
+Pleß,2,0,0
+später Frankfurt (Oder),2,0,0
+Köslin,4,0,0
+Garding,2,0,0
+Zerbst,3,0,0
+Mastig,2,0,0
+Schwirz,2,0,0
+Homburg (Saar),4,0,0
+La Chaux-de-Fonds (Schweiz),3,0,0
+Cortina d'Ampezzo (Italien),2,0,0
+Ötisheim,2,0,0
+Honnef (Rhein),3,0,0
+danach Frankfurt (Main),2,0,0
+Chicago (USA),24,0,0
+Ilmenau,8,0,0
+München-Solln,3,0,0
+Soldin,3,0,0
+Grossenhain,4,0,0
+später Küb am Semmering (Österreich),2,0,0
+Basel (Schweiz) und Lörrach,2,0,0
+Niederramstadt,2,0,0
+Krappitz,2,0,0
+später Unterwössen,2,0,0
+Lauterbach,2,0,0
+Blaubeuren,2,0,0
+Gmunden und Bad Ischl (Österreich),2,0,0
+Pribram,2,0,0
+Furth,3,49.47001528,10.99998979
+später Prierosbrück,3,0,0
+Fürstenwalde,5,0,0
+später Haselberg,2,0,0
+Wengen (Schweiz),2,0,0
+später Bamberg,2,0,0
+Schlüchtern,4,0,0
+Singen,4,0,0
+Weilheim,3,0,0
+Oschatz,7,0,0
+Illertissen,2,0,0
+Tokyo (Japan),2,0,0
+Olpe,4,0,0
+Reichenau,3,0,0
+Schötmar,3,0,0
+später Istanbul (Türkei),2,0,0
+Eschweiler,3,0,0
+Altdorf (Schweiz),2,0,0
+Erstfeld (Schweiz),2,0,0
+Stans (Schweiz),2,0,0
+Butzbach,2,0,0
+Hartenstein,3,0,0
+Bad Segeberg,4,0,0
+später Waldbröl,2,0,0
+Aichach,2,0,0
+Schiltigheim,2,0,0
+Miesbach,3,0,0
+Diez und Limburg (Lahn),2,0,0
+Bad Ems,3,0,0
+Schaffhausen (Schweiz),4,0,0
+Grossdeuben,3,0,0
+Neustadt an der Weinstrasse,4,0,0
+Luckau,4,0,0
+später Miesbach,2,0,0
+später Mölkau,2,0,0
+Euskirchen,7,0,0
+Debreczin (Ungarn),2,0,0
+Potsdam-Babelsberg,8,0,0
+Höchstadt,2,0,0
+Oberlahnstein,2,0,0
+Marklissa,2,0,0
+Güttingen (Schweiz),2,0,0
+später München-Pasing,2,0,0
+Sommerfeld,2,0,0
+später Starnberg,6,0,0
+Jüterbog,5,0,0
+Rügenwalde,4,0,0
+Aarau (Schweiz) und Leipzig,2,0,0
+später Bad Oldesloe,3,0,0
+Bünde,4,0,0
+Friedrichswerth,2,0,0
+Lötzen,3,0,0
+Münchberg,3,0,0
+Bad Oldesloe,3,0,0
+Rössing,2,0,0
+Sulingen,2,0,0
+Trogen (Schweiz),6,0,0
+Fürstenberg,3,0,0
+Neapel (Italien),13,0,0
+später Bad Steben,2,0,0
+Litomysli (Tschechien),2,0,0
+Münsingen (Schweiz),2,0,0
+später Linz (Rhein),2,0,0
+Breklum,2,0,0
+Wien-Mödling (Österreich),2,0,0
+Steyl,2,0,0
+Tutzing,2,0,0
+Hermannsburg,2,0,0
+Knechtsteden,2,0,0
+St. Ottilien,2,0,0
+später Malchin,2,0,0
+Bad Lauterberg,2,0,0
+Horw-Luzern (Schweiz) und Leipzig,2,0,0
+Schlossberg,2,0,0
+Hall (Österreich),3,0,0
+Herzogenbusch (Niederlande),2,0,0
+Hohenkrug-Buchholz,2,0,0
+später Bergen,2,0,0
+später nur Planegg,2,0,0
+Karlshafen,2,0,0
+Oberglogau,2,0,0
+Bad Schwalbach,3,0,0
+Stadtsteinbach,2,0,0
+Wiesloch,2,0,0
+Worbis,5,0,0
+später Rüschlikon (Schweiz),2,0,0
+später Zürich (Schweiz),6,0,0
+Heiligenstadt,6,0,0
+Elbogen,2,0,0
+später Iserlohn,2,0,0
+St. Joachimsthal,2,0,0
+Cosel,3,0,0
+Wiedenbrück,3,0,0
+Schüttorf,2,0,0
+Woldegk,3,0,0
+Alsdorf,2,0,0
+Schleusingen,4,0,0
+später Baden-Baden,2,0,0
+Buttstädt,3,0,0
+später Calau,2,0,0
+Vilkaviskis (Litauen),2,0,0
+Rogaska Slatina (Jugoslavien),2,0,0
+Munderkingen,2,0,0
+Durlach,2,0,0
+Hofgastein,2,0,0
+Wanne-Eickel,7,0,0
+Bandoeng und Djocja,2,0,0
+später Langensalza,3,0,0
+Genf und Lausanne (Schweiz),2,0,0
+Tilburg (Niederlande),6,0,0
+später Rothwasser,2,0,0
+Davos (Schweiz),2,0,0
+Leuna,3,0,0
+Neuburg (Donau),3,0,0
+Jena und Camburg,2,0,0
+später Hilchenbach,2,0,0
+Altheide-Bad,2,0,0
+Steinau,2,0,0
+Bietigheim,3,0,0
+Neuss,2,0,0
+später Heilbronn,2,0,0
+später Piesteritz,2,0,0
+Berlin und Potsdam,2,0,0
+später Greifswald,2,0,0
+Greiffenberg,3,0,0
+Immenstadt,4,0,0
+Güstrow,11,0,0
+Burg (Wupper),2,0,0
+Bleicherode,5,0,0
+Oranienbaum,2,0,0
+Gräfelfing,2,0,0
+Neustadt (Orla),4,0,0
+Kellinghusen,2,0,0
+Leeuwarden (Niederlande),3,0,0
+Groningen (Niederlande),37,0,0
+Hannover und Leipzig,2,0,0
+Zella-Mehlis,6,0,0
+Borkum,3,0,0
+Jönköping (Schweden),4,0,0
+Kehl,2,0,0
+Milwaukee (USA),8,0,0
+Borna,8,0,0
+Shanghai (China),6,0,0
+Achern,3,0,0
+Leoben (Österreich),2,0,0
+später Minden,2,0,0
+später Leobschütz,2,0,0
+Goldberg,3,0,0
+Bevensen,3,0,0
+Einsiedeln (Schweiz),5,0,0
+Ober-Schreiberhau,3,0,0
+Klosterneuburg (Österreich),2,0,0
+später Hamburg-Altona,3,0,0
+später Bischofswerda,2,0,0
+später Böblingen,2,0,0
+Wissen (Sieg),2,0,0
+Löbau,7,0,0
+Kassel und Stuttgart,2,0,0
+Venedig (Italien),7,0,0
+Herzberg (Elster),6,0,0
+später Buchenau (Lahn),2,0,0
+Rodenberg,2,0,0
+Görbersdorf,3,0,0
+Weissenburg,3,0,0
+Ehingen (Donau),3,0,0
+Regenwalde,2,0,0
+Cloppenburg,3,0,0
+Oberhausen-Sterkrade,3,0,0
+Tegernsee,2,0,0
+später Rellingen,2,0,0
+Gumbinnen,3,0,0
+Weischlitz,2,0,0
+Bremen-Vegesack,3,0,0
+Zempelburg,2,0,0
+Koog a. Zaan (Niederlande),2,0,0
+Königsbrück,5,0,0
+Mostar (Jugoslavien),2,0,0
+Alfeld (Leine),2,0,0
+Peiskretscham,2,0,0
+Bismarckhütte,2,0,0
+Rheinhausen,2,0,0
+Alexandrien (Ägypten),4,0,0
+Kreuzlingen (Schweiz),8,0,0
+St. Moritz-Dorf (Schweiz),2,0,0
+Falkensee-Finkenkrug,3,0,0
+Neckarsulm,2,0,0
+Löwen (Belgien),5,0,0
+Hainfeld (Österreich),3,0,0
+China),9,0,0
+Rzeszów (Polen),3,0,0
+Riga (Letttland),2,0,0
+später Penzing,2,0,0
+Rothenburg (ob der Tauber),2,0,0
+Ried (Österreich),2,0,0
+Ratzeburg,4,0,0
+Wittmund,2,0,0
+Hohenwestedt,2,0,0
+Steyerberg,2,0,0
+später Mietingen,2,0,0
+Sarnen (Schweiz),3,0,0
+später Zeuthen,2,0,0
+Ulm (Donau),11,0,0
+Simbach (Inn),3,0,0
+Schillingsfürst,2,0,0
+Münsingen,2,0,0
+Seesen,4,0,0
+Horn (Österreich),2,0,0
+Schwetzingen,3,0,0
+Ziegenhals,3,0,0
+Bad Meinberg,2,0,0
+Freising,4,0,0
+Villach (Österreich),3,0,0
+Steinschönau,2,0,0
+später Freiberg,2,0,0
+Schömberg,2,0,0
+Greifenhagen,3,0,0
+Strelitz-Neustrelitz,2,0,0
+Zwiesel,2,0,0
+Taucha,6,0,0
+Bottrop,6,0,0
+Merseburg,12,0,0
+Wreschen,2,0,0
+später Bornhöved,2,0,0
+Altdorf,2,46.87900214,8.638002584
+Philadelphia (USA),13,0,0
+Rochlitz,4,0,0
+Schlawe,4,0,0
+Mähr.-Rothmühl,2,0,0
+Angerburg,2,0,0
+Seebad Bansin,3,0,0
+Post Obernhof,2,0,0
+Mülheim (Ruhr),4,0,0
+New York City (USA),2,0,0
+Schivelbein,2,0,0
+später Hamburg-Harburg,3,0,0
+Valencia (Spanien),7,0,0
+Bernstadt,4,0,0
+Schaan (Liechtenstein),4,0,0
+Sömmerda,5,0,0
+Weipert,3,0,0
+Neunkirchen (Saar),3,0,0
+Eupen (Belgien),7,0,0
+Wartha,2,0,0
+Nachod,2,0,0
+Winschoten (Niederlande),8,0,0
+später Ahrensburg,2,0,0
+Bischofshofen (Österreich),3,0,0
+Saulgau,2,0,0
+Wriezen,4,0,0
+später Oberaudorf (Inn),2,0,0
+später Marktbreit (Main),2,0,0
+Mohrungen,2,0,0
+Brixlegg (Österreich),2,0,0
+Plathe,2,0,0
+Merzig (Saar),2,0,0
+Batavia (Java),2,0,0
+Tönning,2,0,0
+später Sulzbach-Rosenberg,2,0,0
+Zuckmantel,2,0,0
+Oelsnitz,12,0,0
+später Ortenberg,2,0,0
+später Tübingen,4,0,0
+Offenburg,7,0,0
+Esch (Luxemburg),5,0,0
+später Dortmund,6,0,0
+Strausberg,5,0,0
+Barmstedt,3,0,0
+Bad Liebenwerda,5,0,0
+Gottesberg,2,0,0
+Leipzig und Zürich (Schweiz),2,0,0
+Oberammergau,4,0,0
+Neunkirchen (Österreich),2,0,0
+später Karl-Marx-Stadt,2,0,0
+Lorch,5,0,0
+Erlenbach (Schweiz) und Leipzig,3,0,0
+Maramaros-Sziget (Ungarn),2,0,0
+Rees,2,0,0
+Drossen,2,0,0
+New Haven (USA),3,0,0
+später Reinfeld,2,0,0
+Wiehl,3,0,0
+Dordrecht (Niederlande),2,0,0
+Gailingen,2,0,0
+Schwäbisch Hall,3,0,0
+Rosenberg,2,0,0
+Stadt Olbersdorf,2,0,0
+Rengsdorf,3,0,0
+Paris und London,2,0,0
+Rheine,4,0,0
+Altensteig,3,0,0
+Ibbenbüren,3,0,0
+Rheinbach,3,0,0
+Schöppenstedt,2,0,0
+Wolfen,3,0,0
+o.O.,4,0,0
+Haifa,3,32.8204114,34.98002478
+Policka (Tschechien),2,0,0
+Orebro (Schweden),2,0,0
+Papenburg (Ems),3,0,0
+Lienz (Österreich),4,0,0
+später Potsdam-Babelsberg,3,0,0
+später Innsbruck und Wien (Österreich),2,0,0
+später Nordhorn,3,0,0
+Mittenwald,2,0,0
+Berlin-Nürnberg,2,0,0
+Triberg,2,0,0
+Roermond (Niederlande),4,0,0
+Lustenau (Österreich),3,0,0
+Mödling (Österreich),5,0,0
+Aue,10,0,0
+Graudenz,2,0,0
+Rothenfels,2,0,0
+Peine,5,0,0
+Wandsbek,3,0,0
+zuletzt Hamburg,2,0,0
+später Kleve,2,0,0
+Budapest (Ungarn) und Leipzig,2,0,0
+Vilshofen,2,0,0
+später Regensburg,4,0,0
+Hechingen,5,0,0
+Adliswil (Schweiz),2,0,0
+Arendsee,3,0,0
+Elsterwerda,4,0,0
+Freiburg (Schweiz),2,0,0
+Osterholz-Scharmbeck,3,0,0
+Lauenburg (Elbe),2,0,0
+Rehbrücke,2,0,0
+Sebnitz,4,0,0
+Oederan,3,0,0
+Heinrichswalde,2,0,0
+St. Ingbert (Saar),2,0,0
+Szillen,2,0,0
+Steinfeld,2,0,0
+Bellinzona (Schweiz),6,0,0
+Penig,9,0,0
+Monschau,2,0,0
+später Würzbach und Stuttgart,2,0,0
+Lahr-Dinglingen,2,0,0
+Eskilstuna (Schweden),3,0,0
+Brakel,2,0,0
+Wolfach,2,0,0
+Potsdam und Berlin,2,0,0
+Baruth,3,0,0
+Pori (Finnland),2,0,0
+Rheinberg,2,0,0
+später Oldenburg,3,0,0
+später Damgarten,2,0,0
+Salach,2,0,0
+später Neustadt (Dosse),2,0,0
+Freital,9,0,0
+später Tutzing,2,0,0
+Sobernheim (Nahe),2,0,0
+Geldern,2,0,0
+Goch,3,0,0
+Bad Elster,5,0,0
+Bitburg,4,0,0
+Nebra (Unstrut),2,0,0
+Weferlingen,4,0,0
+später Heidenheim,2,0,0
+Thalwil (Schweiz),7,0,0
+Schocketal,2,0,0
+später Ueberlingen,2,0,0
+Pasewalk,7,0,0
+später Bischofswiesen,3,0,0
+Walsrode,2,0,0
+Saargemünd,2,0,0
+Heilbronn (Neckar),5,0,0
+Bad Homburg,4,0,0
+Gronau,4,0,0
+Eisenstadt (Österreich),5,0,0
+Angermünde,4,0,0
+Miltitz,3,0,0
+Labes,2,0,0
+Böblingen,5,0,0
+später Garmisch-Partenkirchen,2,0,0
+Kirn,2,0,0
+Heidenheim (Brenz),2,0,0
+Gustav Leipzig,2,0,0
+Hamburg-Altona,12,0,0
+später Arolsen,2,0,0
+Bruck (Österreich),5,0,0
+Zermatt (Schweiz),2,0,0
+Arnsdorf,2,0,0
+Bernau,5,0,0
+Boston (USA) und Leipzig,2,0,0
+Bütow,3,0,0
+Hoya,2,0,0
+Idar-Oberstein,5,0,0
+Landsberg (Warthe),3,0,0
+später Grimmen,2,0,0
+Müllheim,2,0,0
+später Lohe,2,0,0
+Ettlingen,2,0,0
+Neustadt (Saale),2,0,0
+Reimscheid,2,0,0
+Schwäbisch-Gmünd,2,0,0
+Bacelona (Spanien),2,0,0
+Manheim,2,0,0
+Plau,2,0,0
+Karthaus,2,0,0
+Grningen (Niederlande),2,0,0
+Lüben,2,0,0
+Dinkelsbühl,3,0,0
+Sombor,2,0,0
+Cambridge/Mass. (USA),2,0,0
+Karlsbad-Drahowitz,2,0,0
+später Bremen,6,0,0
+Treptow (Rega),3,0,0
+Eltville,2,0,0
+Mainz und Leipzig,2,0,0
+Ueberlingen,3,0,0
+später Königsberg,2,0,0
+Hohnstein,2,0,0
+später Meuselwitz,2,0,0
+Betzdorf (Sieg),2,0,0
+Marienberg,3,0,0
+Schwabach,5,0,0
+Wangerooge,2,0,0
+Vietz,2,0,0
+Bolkenhain,2,0,0
+später Häger,2,0,0
+Bad Godesberg (Rhein),2,0,0
+Feldkirchen,2,0,0
+Münstereifel,3,0,0
+Weissenhorn,2,0,0
+Aalborg (Dänemark),7,0,0
+Ahlen,6,0,0
+Schwerte (Ruhr),4,0,0
+Jastrow,3,0,0
+Lychen,2,0,0
+Schwerin (Warte),2,0,0
+Wesselburen,2,0,0
+Wermsdorf,2,0,0
+Lichtenfels und Kronach,2,0,0
+Swakopmund,2,-22.6688631,14.53501949
+Erkenschwick,2,0,0
+Baden (Österreich),3,0,0
+Allstedt,3,0,0
+Aalen und Ellwangen,2,0,0
+Rattlar,3,0,0
+Schwedt (Oder),3,0,0
+Wunstorf,3,0,0
+später Amsterdam (Niederlande),3,0,0
+Usingen,2,0,0
+später Traunstein,2,0,0
+Filiale Berlin,2,0,0
+Berlin und München,4,0,0
+Römhild,2,0,0
+Höchst (Österreich),3,0,0
+Bandoeng,2,0,0
+Sulzbach-Rosenberg,2,0,0
+Heidenau,7,0,0
+Bannewitz,2,0,0
+später Sternberg,2,0,0
+später Röhrenfurth,2,0,0
+später Gauting,2,0,0
+Meerane,10,0,0
+Melle,2,0,0
+später Bad Heilbrunn,2,0,0
+später Erbendorf,2,0,0
+Kaisersesch,2,0,0
+Hüsten,2,0,0
+Honnef und Bad Godesberg,2,0,0
+Falkensee,7,0,0
+Zlín,2,0,0
+Bad Homburg v.d.H.,2,0,0
+später Schorndorf,2,0,0
+Freiburg i. Br.,2,0,0
+Glasgow (Schottland),2,0,0
+Esens,2,0,0
+Borga (Finnland),2,0,0
+später Zeulenroda,2,0,0
+Neustettin,2,0,0
+Marburg (Lahn),8,0,0
+Neuffen,2,0,0
+Pretoria (Südafrika),6,0,0
+Bonndorf,2,0,0
+später Wernigerode,2,0,0
+Scharnikau,2,0,0
+später Lachem,2,0,0
+Freiburg i.B.,2,0,0
+Zeulenroda,5,0,0
+Lübbenau,3,0,0
+Herrndobl,2,0,0
+Osorno (Chile),2,0,0
+Triest (Italien),12,0,0
+Herzogenbuchsee (Schweiz),3,0,0
+Witzenhausen,2,0,0
+Osterwieck,3,0,0
+Burghausen,2,0,0
+Bad Homburg v. d. Höhe,2,0,0
+Niederlahnstein,2,0,0
+Oberursel,3,0,0
+später Reinbek,2,0,0
+Havelberg,4,0,0
+Wien und Leipzig,5,0,0
+später Scharding (Österreich),2,0,0
+später Bad Berka,2,0,0
+Harzgerode,2,0,0
+Dresden und Leipzig,2,0,0
+Wolfsberg (Österreich),3,0,0
+später Lich,2,0,0
+Biedenkopf,3,0,0
+Bad-Nauheim,2,0,0
+später Langelsheim,2,0,0
+Kaldenkirchen,2,0,0
+Johannesburg (Südafrika),5,0,0
+später Bassum,2,0,0
+Saaz (Tschechien),2,0,0
+St. Florian (Österreich),2,0,0
+Altena (Westf.),2,0,0
+Neusalz (Oder),2,0,0
+Graz und Leipzig,2,0,0
+später Seelze,2,0,0
+Maastricht (Niederlande),6,0,0
+Geyer,3,0,0
+Reutlingen-Stuttgart,2,0,0
+später Würzburg,2,0,0
+Rio Grande (Brasilien),3,0,0
+später Dörnigheim,2,0,0
+Arbon (Schweiz),2,0,0
+Forchheim,3,0,0
+Königsberg (Neumark),2,0,0
+Zug (Schweiz),6,0,0
+Mülhausen,2,0,0
+Altkirch,2,0,0
+Baden-Baden und Berlin,2,0,0
+Völklingen (Saar),3,0,0
+Landstuhl,2,0,0
+Scheinfeld,2,0,0
+Vlotho,4,0,0
+Sundsvall (Schweden),2,0,0
+Bad Homburg v.d. Höhe,2,0,0
+Böhlitz-Ehrenberg,4,0,0
+später Lauenstein,2,0,0
+Zeist (Niederlande),8,0,0
+Fassberg,2,0,0
+Lobenstein,3,0,0
+Dinslaken,3,0,0
+Marbach (Neckar),2,0,0
+Bregenz,2,47.51669707,9.766701588
+Gerolzhofen,2,0,0
+Süchteln,2,0,0
+Freudenthal,2,0,0
+Wiener Neustadt (Österreich),4,0,0
+später Strahwalde,2,0,0
+Penzig,2,0,0
+Fogaras (Rumänien),2,0,0
+Laa (Österreich),2,0,0
+später Bergzabern,2,0,0
+Bad Freienwalde (Oder),6,0,0
+Edinburgh (Schottland),2,0,0
+Neheim,2,0,0
+Perchtoldsdorf (Österreich),2,0,0
+Mölkau,4,0,0
+Bad Kudowa,2,0,0
+später Illertissen,2,0,0
+Aumund,2,0,0
+Laibach (Ljubljana) und Marburg (Maribor) (Jugoslavien),2,0,0
+später Friesack,2,0,0
+Tokio (Japan),26,0,0
+später Kiel,2,0,0
+Lissabon (Portugal),24,0,0
+Bad Salzbrunn,2,0,0
+Venlo (Niederlande),4,0,0
+später Datterode,2,0,0
+Marktredwitz,2,0,0
+München und Planegg,2,0,0
+später Gießen,2,0,0
+Pavia (Italien),2,0,0
+Wildbad (Schwarzwald),2,0,0
+Fraustadt,2,0,0
+Berlin und Frankfurt (Oder),2,0,0
+Grüna,3,0,0
+Lyck,4,0,0
+später Angermünde,2,0,0
+Schlackenwerth,2,0,0
+Schopfheim,2,0,0
+Siegmar-Schönau,4,0,0
+Lippoldsberg (Weser),2,0,0
+Waldenburg-Dittersbach,2,0,0
+Riedlingen,2,0,0
+Neresheim,2,0,0
+später Gütersloh,2,0,0
+später Zittau,2,0,0
+Rodewisch,2,0,0
+Pausa,3,0,0
+Feldkirch (Österreich),6,0,0
+Usseln,2,0,0
+später Wentorf,2,0,0
+später Berlin und München,2,0,0
+Seestadt Rostock,4,0,0
+Lingen (Ems),3,0,0
+Bielefeld und Leipzig,2,0,0
+Baarn (Niederlande),4,0,0
+Hohegeiss,2,0,0
+später Möckmühl,2,0,0
+später Duingen,2,0,0
+später Weinheim,2,0,0
+später Unkel (Rhein),2,0,0
+später Stahnsdorf,2,0,0
+später Buckow,2,0,0
+Elmau,2,0,0
+später Loßburg,2,0,0
+später Flensburg,2,0,0
+Leutesdorf und Berlin,2,0,0
+später Lindau,3,0,0
+Branenburg,2,0,0
+Naumburg,4,0,0
+Osterwieck und Berlin,3,0,0
+Gengenbach,2,0,0
+Rotensande,2,0,0
+Engelberg,2,0,0
+Kirnach-Villingen,2,0,0
+Diesdorf,2,0,0
+München-Berlin,2,0,0
+Steinkirchen,2,0,0
+Einsiedeln (Schweiz) und Köln,2,0,0
+später Memmingen,2,0,0
+Rastede,2,0,0
+Regensburg und Dillingen,2,0,0
+Schlieren (Schweiz),2,0,0
+Sursee (Schweiz),2,0,0
+Kufstein (Österreich),2,0,0
+(Österreich),2,0,0
+Schwaz (Österreich),3,0,0
+Bozen (Italien),4,0,0
+Hamburg-Bergedorf,2,0,0
+später Wehlen,2,0,0
+Abensberg,2,0,0
+Geisweid,2,0,0
+Gmünd (Österreich),4,0,0
+Aurich-Sandhorst,2,0,0
+Pullach,2,0,0
+Landsberg (Lech),2,0,0
+Buxtehude,3,0,0
+Wildbad,2,0,0
+Zürich (Schweiz) und Wien (Österreich),2,0,0
+Prag (Tschechien) und Bratislava (Slovakei),2,0,0
+Prenzlau,3,0,0
+Batavia und Bandoeng,2,0,0
+Hannover und Berlin,2,0,0
+später Gross Zimmern,2,0,0
+Adelsburg,2,0,0
+später Biberach,2,0,0
+später Beucha,2,0,0
+Berlin später Achim,2,0,0
+Esch (Alzig),2,0,0
+Eschwege (Werra),2,0,0
+Bergisch Neukirchen,2,0,0
+Bregenz (Österreich),4,0,0
+Dornbirn (Österreich),6,0,0
+Bandoeng (Java),2,0,0
+Dragun,2,0,0
+Hohenheim,2,0,0
+Heidelberg und Berlin,2,0,0
+Zwolle (Niederlande),5,0,0
+Grimmen,4,0,0
+später Seeheim,2,0,0
+Mexiko D.F. (Mexiko),2,0,0
+Ueckermünde,3,0,0
+Blumenau (Brasilien),5,0,0
+Heinsberg,2,0,0
+später Mansfeld,2,0,0
+Eibenstock,4,0,0
+Gröbming und Radstadt (Österreich),2,0,0
+Sinzig,2,0,0
+Arnau,2,0,0
+später Radebeul,2,0,0
+Heilsberg,2,0,0
+Bad Bramstedt,2,0,0
+Colditz,5,0,0
+Nienburg (Saale),5,0,0
+Quito (Ekuador),2,0,0
+Waren,4,0,0
+Weinsberg,3,0,0
+Öflingen,2,0,0
+Neu-Titschein,2,0,0
+Brixen (Italien),2,0,0
+später Grabow,2,0,0
+Winnenden,2,0,0
+Nienburg (Weser),2,0,0
+später Faurndau,2,0,0
+Zürich (Schweiz) und Leipzig,2,0,0
+Oberdorla,2,0,0
+Fribourg (Schweiz),2,0,0
+Hof (Saale),5,0,0
+Waidhofen a.d. Ybbs (Österreich),2,0,0
+später Glauchau,2,0,0
+London und Leipzig,2,0,0
+Ottweiler (Saar),2,0,0
+Mainburg,2,0,0
+Bergzabern,2,0,0
+Waltershausen,3,0,0
+St. Blasien,2,0,0
+Radkersburg (Österreich),2,0,0
+Berlin und Wiesbaden,2,0,0
+später Konstanz,2,0,0
+später Nauen,2,0,0
+Neuern,2,0,0
+später auch Zürich und Leipzig,2,0,0
+Wettin,2,0,0
+später Delitzsch,2,0,0
+Västeras (Schweden),3,0,0
+Waldenburg-Altwasser,2,0,0
+Bad Frankenhausen,2,0,0
+Bartenstein,2,0,0
+Liebertwolkwitz,6,0,0
+Essen und Koblenz,2,0,0
+Andernach (Rhein),2,0,0
+Gramby (Dänemark),2,0,0
+New York und Berlin,2,0,0
+später Seebad Heringsdorf,2,0,0
+Briest (Havel),2,0,0
+später Schwerin,2,0,0
+Wolfshagen-Scharbeutz,3,0,0
+Dingelstädt,4,0,0
+Königstein (Elbe),4,0,0
+Königsberg und Elbing,2,0,0
+später Bad Liebenwerda,2,0,0
+Eulau,2,0,0
+Neustrelitz-Strelitz,2,0,0
+Kamp-Lintfort,2,0,0
+Murnau,4,0,0
+Eberbach,2,0,0
+Rothenburg (Fulda),2,0,0
+Leipzig und Nordhausen,2,0,0
+Altenhundem,2,0,0
+später Loburg,2,0,0
+Cincinnati (USA),2,0,0
+Linnich,2,0,0
+später Holzhausen,2,0,0
+Sulzbach (Saar),2,0,0
+Bad Wildungen,3,0,0
+später Endschütz,2,0,0
+später Schmiedeberg,2,0,0
+später Winkel,2,0,0
+später Lychen,2,0,0
+Cham (Schweiz),2,0,0
+Planegg,3,0,0
+später Sondershausen,2,0,0
+später Wangen,2,0,0
+Gross Strehlitz,2,0,0
+später Schmiedefeld,2,0,0
+Burgsteinfurt,2,0,0
+später Langebrück,2,0,0
+später Cottbus,2,0,0
+später Zella-Mehlis,2,0,0
+Zeven,4,0,0
+Baumholder,2,0,0
+später Kettwig,2,0,0
+Apenrade (Dänemark),2,0,0
+später Hans Jonda Zwickau,2,0,0
+Buchs (Schweiz),3,0,0
+Treuen,3,0,0
+Horgen (Schweiz),4,0,0
+Hannover und Bad Pyrmont,2,0,0
+später Mannheim,2,0,0
+Freistadt (Österreich),2,0,0
+Buchloe,2,0,0
+Böhmisch Kamnitz (Tschechien),2,0,0
+Stadtroda,3,0,0
+Königswartha,2,0,0
+Preussisch Friedland,2,0,0
+Danzig und Königsberg,2,0,0
+später Merzen,2,0,0
+Stadtlohn,2,0,0
+Schifferstadt,2,0,0
+Vacha,4,0,0
+Schramberg,2,0,0
+Riezlern (Österreich),2,0,0
+Davos-Platz (Schweiz),3,0,0
+Falun (Schweden),3,0,0
+Oselina (Schweiz),2,0,0
+Fraureuth,2,0,0
+Gardelegen,5,0,0
+später Schönenberg,2,0,0
+Gimbsheim,2,0,0
+Lachen (Schweiz),3,0,0
+Gross Umstadt,2,0,0
+Deisenhofen,2,0,0
+Hohenstein-Ernstthal,6,0,0
+Nürtingen,3,0,0
+Waldhut,2,0,0
+später Riesa,2,0,0
+später Jaibing,2,0,0
+später Eutingen,2,0,0
+Thessaloniki (Griechenland),5,0,0
+Kappelrodeck,2,0,0
+Chile),2,0,0
+später Nussdorf,2,0,0
+später Hadamar,2,0,0
+Kempten und Leipzig,2,0,0
+später Bebra,2,0,0
+Spittal an der Drau (Österreich),2,0,0
+Salzburg und Wien (Österreich),2,0,0
+später Chorin,2,0,0
+später Buenos Aires (Argentinien),2,0,0
+Forbach (Frankreich),5,0,0
+Lódz (Polen),2,0,0
+Betschkerek (Jugoslavien),2,0,0
+Waldshut,5,0,0
+Triesen (Fürstentum Liechtenstein),2,0,0
+später Israel),2,0,0
+Zanow,2,0,0
+später Waiblingen,2,0,0
+Lüdinghausen,4,0,0
+Pisa (Italien),4,0,0
+Cachoeira (Brasilien),2,0,0
+Bärenstein,3,0,0
+Skala. pow. Borszczów (Polen),2,0,0
+Bogota (Kolumbien),4,0,0
+München-Pasing,2,0,0
+Munster,2,0,0
+Salzburg und Wels(Österreich),2,0,0
+Teheran (Iran),14,0,0
+Hamburg und Wandsbek,2,0,0
+Buchhandlung Halle (Saale),2,0,0
+früher Berlin,3,0,0
+Fehmarn,2,0,0
+Mecheln (Belgien),2,0,0
+Stavenhagen,2,0,0
+Waldniel,2,0,0
+Ottmachau,2,0,0
+Malmedy,2,0,0
+Berlin und Wien (Österreich),4,0,0
+später Turin (Italien),2,0,0
+Rom,2,0,0
+Brügge (Niederlande),2,0,0
+Wernstadt,2,0,0
+Bristol (Großbritannien),7,0,0
+Atzgersdorf (Österreich),2,0,0
+Edinburgh und Glasgow (Großbritannien),2,0,0
+Gaggenau,3,0,0
+Oxford und London (Großbritannien),2,0,0
+Montevideo (Uruguay),14,0,0
+Vlissingen (Niederlande),4,0,0
+Ankara (Türkei),7,0,0
+Spindlermühle,2,0,0
+Zutphen (Niederlande),3,0,0
+Nijkerk (Niederlande),2,0,0
+Ernstleben,2,0,0
+Wittichenau,6,0,0
+Bogotá (Kolumbien),12,0,0
+Volkslesehalle Linz (Österreich),2,0,0
+Windhuk (Namibia),3,0,0
+Alexandria (Ägypten),5,0,0
+Südafrika),13,0,0
+Vogelweide (Namibia),2,0,0
+San Francisco (USA),5,0,0
+Pittsburg (USA),3,0,0
+Los Angeles (USA),5,0,0
+Evanston (USA),2,0,0
+Dallas (USA),3,0,0
+Omaha (USA),2,0,0
+Glendale (USA),2,0,0
+Carlisle (USA),2,0,0
+New York und Chicago (USA),3,0,0
+Canton (USA),2,0,0
+Seattle (USA),2,0,0
+Barnard (USA),2,0,0
+Baltimore (USA),2,0,0
+San Fancisco (USA),2,0,0
+Mexico (Mexiko),12,0,0
+Toronto (Kanada),6,0,0
+Winkler (Kanada),2,0,0
+Guatemala (Guatemala),3,0,0
+Winnipeg (Kanada),5,0,0
+Montreal (Kanada),7,0,0
+Cali (Kolumbien),2,0,0
+Posadas (Argentinien),2,0,0
+Ponta Grossa (Brasilien),4,0,0
+Rosario (Argentinien),2,0,0
+Sao Bento (Brasilien),2,0,0
+Bahia (Brasilien),3,0,0
+Gorbea (Chile),2,0,0
+Maracaibo (Venezuela),3,0,0
+Novo Hamburgo (Brasilien),3,0,0
+Neu-Württemberg (Brasilien),2,0,0
+Joinville (Brasilien),5,0,0
+San Petro,2,0,0
+Barranquilla (Kolumbien),3,0,0
+Santos (Brasilien),3,0,0
+Erechim (Brasilien),2,0,0
+Quito (Ecuador),3,0,0
+Malden (Niederlande),2,0,0
+Peking (China),3,0,0
+Indonesien),19,0,0
+Fukuoka (Japan),3,0,0
+Kobe (Japan),5,0,0
+Harbin (China),3,0,0
+Bangalore City (Indien),2,0,0
+Bombay (Indien),2,0,0
+Kanton (China),2,0,0
+Medan (Indonesien),3,0,0
+Lahore (Indien),2,0,0
+Biroudjird (Iran),2,0,0
+Täbris (Iran),3,0,0
+Bloemfontein (Südafrika),2,0,0
+Yokohama (Japan),2,0,0
+Caracas (Venezuela),3,0,0
+Kyoto (Japan),4,0,0
+Osaka (Japan),4,0,0
+Wädenswil (Schweiz),3,0,0
+Jerusalem (Israel),10,0,0
+Kabul (Afghanistan),3,0,0
+Lagoeboti (Indonesien),2,0,0
+Haifa (Israel),9,0,0
+Beatenberg (Schweiz),3,0,0
+Ryswyk (Niederlande),2,0,0
+Immensee (Schweiz),2,0,0
+Basel und Zürich (Schweiz),2,0,0
+Engelberg (Schweiz),4,0,0
+Kehr (Schweiz),2,0,0
+Murten (Schweiz),4,0,0
+Neuhausen (Schweiz),2,0,0
+Rämismühle (Schweiz),2,0,0
+Zweisimmen (Schweiz),2,0,0
+Stäfa (Schweiz),2,0,0
+Melbourne (Australien),10,0,0
+Saloniki (Griechenland),5,0,0
+(Jugoslavien),2,0,0
+Krusevac (Jugoslavien),2,0,0
+Ploesti (Rumänien),2,0,0
+Suhopolje (Jugoslavien),2,0,0
+Maribor (Jugoslavien),2,0,0
+Zagreb (Jugoslavien),2,0,0
+Murska Sobota (Jugoslavien),2,0,0
+Kolín (Tschechien),2,0,0
+Craiova (Rumänien),4,0,0
+Braila (Rumänien),2,0,0
+Kaunas (Litauen),5,0,0
+Chisinau (Rumänien),2,0,0
+Dumbraveni (Rumänien),2,0,0
+Itcani-noi (Rumänien),2,0,0
+Bursa (Türkei),2,0,0
+Tirana (Albanien),3,0,0
+Hitchin (Großbritannien),2,0,0
+Glasgow (Großbritannien),5,0,0
+Instanbul (Türkei),2,0,0
+Shaftesbury (Großbritannien),2,0,0
+Eegenhoven-Louvain (Belgien),2,0,0
+Maredsous (Belgien),2,0,0
+Mechelen (Belgien),3,0,0
+Stekene (Belgien),2,0,0
+Eupen-Malmedy (Belgien),2,0,0
+Louvain (Belgien),2,0,0
+Leuven (Belgien),2,0,0
+Brüssel-Halle (Belgien),2,0,0
+Oude-God (Belgien),3,0,0
+Taubenheim (Spree),2,0,0
+Tuluá (Kolumbien),2,0,0
+La Paz (Bolivien),3,0,0
+Mexiko (Mexiko),2,0,0
+Ontario (Kanada),2,0,0
+Spokane (USA),2,0,0
+Minneapolis (USA),3,0,0
+Richmond/Hill (USA),2,0,0
+Cleveland (USA),5,0,0
+Oglethorpe (USA),2,0,0
+Madison (USA),2,0,0
+Washington (USA),3,0,0
+Stockholm (Schweden) und New York (USA),2,0,0
+Berkeley (USA),4,0,0
+Brooklyn/N.Y. (USA),2,0,0
+Francford (USA),2,0,0
+Storrs (USA),2,0,0
+Columbia (USA),2,0,0
+Norman (USA),3,0,0
+Rochester (USA),3,0,0
+Indien),8,0,0
+Japan),3,0,0
+Encarnacion (Paraguay),2,0,0
+Arrio do Mais (Brasilien),2,0,0
+Rio Negro (Brasilien),3,0,0
+Rio Gallegos (Argentinien),2,0,0
+Ingwiller (Frankreich),2,0,0
+Nimes (Frankreich),2,0,0
+Bordeaux (Frankreich),3,0,0
+Toulouse (Frankreich),2,0,0
+Chatenois-Les-Forges (Frankreich),2,0,0
+Colombes (Frankreich),2,0,0
+Castellamare di Stabia (Italien),2,0,0
+Bordighera (Italien),2,0,0
+Ponza (Italien),2,0,0
+Arona (Italien),2,0,0
+Istituto Italiano di Studi Germanici (Prof. Cantimore) Rom (Italien),2,0,0
+(Italien),2,0,0
+Capri (Italien),2,0,0
+Nervi und Viareggio (Italien),3,0,0
+Brescia (Italien),4,0,0
+Livorno (Italien),2,0,0
+Bergamo (Italien),2,0,0
+San Remo (Italien),3,0,0
+Bulgarien),5,0,0
+'s-Gravenhage (Niederlande),3,0,0
+(Niederlande),3,0,0
+Arnhem (Niederlande),6,0,0
+Valkenburg (Niederlande),3,0,0
+Doetinchem (Niederlande),3,0,0
+Almelo (Niederlande),2,0,0
+Laren (Niederlande),2,0,0
+Ettal,2,0,0
+Frauenburg (Österreich),2,0,0
+Rehau,2,0,0
+Abenheim,2,0,0
+Beius (Rumänien),2,0,0
+Ummeln,3,0,0
+später Mindelheim,2,0,0
+Parchim,2,0,0
+(Berlin),2,0,0
+Salt Lake City (USA),2,0,0
+Turka (Ukraine),2,0,0
+Liége (Belgien),2,0,0
+Recife (Brasilien),3,0,0
+Anvers (Belgien),2,0,0
+Gröbenzell,2,0,0
+Dublin (Irland),6,0,0
+Uzwil (Schweiz),2,0,0
+Stammersdorf-Wien (Österreich),2,0,0
+Wiedenest,2,0,0
+Veurne (Belgien),2,0,0
+Sierre (Schweiz),2,0,0
+Mons (Belgien),3,0,0
+Köflach (Österreich),2,0,0
+Pewsum,2,0,0
+Samaden (auch Samedan) (Schweiz),2,0,0
+Altona (Elbe),2,0,0
+Neu Esting,2,0,0
+Prag und Zürich,2,0,0
+Sydney (Australien),8,0,0
+Dornach (Schweiz),2,0,0
+Dresden-Hellerau,2,0,0
+später Murnau,5,0,0
+Balsthal (Schweiz),2,0,0
+Matto Preto (Brasilien),2,0,0
+später Clausthal-Zellerfeld,2,0,0
+Hamburg-Ohlsdorf,2,0,0
+später Klagenfurt (Österreich),2,0,0
+Vaduz (Liechtenstein),5,0,0
+später Den Haag (Niederlande),2,0,0
+Prag-Bubenec (Tschechien),2,0,0
+Adelaide and Perth (Australien),2,0,0
+Würbenthal,2,0,0
+Nastätten,2,0,0
+Hilversum (Niederlande),7,0,0
+später Litzelstetten,2,0,0
+später Söcking über Starnberg,2,0,0
+später Bensheim,2,0,0
+Heemstede (Niederlande),3,0,0
+Bagdad (Irak),2,0,0
+Werlte,2,0,0
+später nur Wien (Österreich),2,0,0
+Bialla,2,0,0
+Pößneck,4,0,0
+später Bern (Schweiz),3,0,0
+Zell am See (Österreich),2,0,0
+Cuenca (Ecuador),2,0,0
+später Schlösschen am Inn,2,0,0
+Blieskastel,2,0,0
+Berlin später Nürnberg,2,0,0
+Belgard an der Persante,2,0,0
+Marseille (Frankreich),3,0,0
+Helsinki (Finnland),15,0,0
+Karl-Marx-Stadt,4,0,0
+Lauingen (Donau),2,0,0
+Colmar (Frankreich),2,0,0
+Leipzig und Wien,2,0,0
+Detroit (USA),3,0,0
+Kansas City (USA),2,0,0
+Grossenwörden (Niederelbe),2,0,0
+Dassow,2,0,0
+Neudorf,2,0,0
+Mukacewo (Tschechien),2,0,0
+Pernambuco (Brasilien),2,0,0
+später Wermelskirchen,2,0,0
+Pohrlitz,2,0,0
+Kirchberg am Wechsel (Österreich),2,0,0
+Perth (Australien),5,0,0
+Loka-Zidanemostu (Jugoslavien),2,0,0
+Radebeul und Düsseldorf,2,0,0
+Dahl (Luxemburg),2,0,0
+Bissingen,2,0,0
+Tuchów (Polen),2,0,0
+Wien-Graz-Innsbruck-Leipzig,2,0,0
+später San Sebastian (Spanien),2,0,0
+Laupen (Schweiz),2,0,0
+Ann Arbor (USA),3,0,0
+Balzers (Liechtenstein),2,0,0
+Forenza (Italien),2,0,0
+Woodside N.Y. (USA),2,0,0
+Voorhout (Niederlande),2,0,0
+Ostende (Belgien),2,0,0
+später Oberammergau,2,0,0
+Cetinje (Jugoslavien),2,0,0
+Dej (Rumänien),2,0,0
+Dürrhennersdorf,4,0,0
+Meran (Italien),5,0,0
+Tarutino (Moldawien),2,0,0
+Hamburg und Rostock,2,0,0
+Küsnacht (Schweiz),3,0,0
+Goldach (Schweiz),3,0,0
+Turbenthal (Schweiz),2,0,0
+Kitzbühel (Österreich),2,0,0
+Sighisoara (Rumänien),2,0,0
+Berlin und Danzig,2,0,0
+Teterow,3,0,0
+Cambridge (USA),2,0,0
+Petrovgrad (Jugoslawien),2,0,0
+Brattleboro (USA),2,0,0
+Oegstgeest (Niederlande),2,0,0
+Vaals (Niederlande),2,0,0
+Amersfoort (Niederlande),2,0,0
+Hillegersberg (Niederlande),2,0,0
+Schiedam (Niederlande),2,0,0
+Laski (Polen),2,0,0
+Strasshof (Österreich),2,0,0
+Leszczyny (Polen),2,0,0
+Poznan (Polen),2,0,0
+Alkmaar (Niederlande),3,0,0
+Lwów (Polen),9,0,0
+Tallinn (Estland),2,0,0
+Brake (Lippe),2,0,0
+Leningrad (UdSSR),2,0,0
+Moskau (UdSSR),6,0,0
+Libau (Lettland),3,0,0
+Nykobing Falster (Dänemark),2,0,0
+Laschmen-Pamuschis (Litauen),2,0,0
+Charkow (Ukraine),2,0,0
+Windau (Lettland),2,0,0
+Tiflis (Georgien),2,0,0
+Holte (Dänemark),2,0,0
+Frankfurt (Main) und Zürich (Schweiz),2,0,0
+(Schweiz),2,0,0
+Hareskov (Dänemark),2,0,0
+o. O.,19,0,0
+Aarburg (Schweiz),2,0,0
+Rheineck (Schweiz),3,0,0
+Saragossa (Spanien),3,0,0
+Granada (Spanien),2,0,0
+Kopenhagen-Prag-Zürich,2,0,0
+Rasunda (Schweden),2,0,0
+Göteborg (Schweden),7,0,0
+Eslöv (Schweden),2,0,0
+Sigtuna (Schweden),2,0,0
+Wuppertal Elberfeld,2,0,0
+Mutzschen,2,0,0
+Cilli (Österreich),2,0,0
+Holzwickede,2,0,0
+Ruhla,2,0,0
+später Madrid (Spanien),2,0,0
+Brünn und Prag (Tschechien),2,0,0
+Odessa (UdSSR),2,0,0
+s' Gravenhage (Niederlande),2,0,0
+Arnheim und Nijmegen (Niederlande),2,0,0
+Cetatea-Alba (Rumänien),2,0,0
+Barr (Frankreich),3,0,0
+Bettemburg (Luxemburg),2,0,0
+Gyöngyös (Ungarn),2,0,0
+Altstätten (Schweiz),2,0,0
+North Carolina (USA),2,0,0
+Mechanicsburg (USA),2,0,0
+o. O. (USA),2,0,0
+Turnhout (Belgien),2,0,0
+Mallersdorf,2,0,0
+Braga (Portugal),2,0,0
+Bad Wiessee,2,0,0
+Hellenthal,2,0,0
+Elmhurst (USA),2,0,0
+St. Niklaas (Belgien),2,0,0
+Messina (Italien),3,0,0
+Kirchheim (Neckar),2,0,0
+Tel-Aviv (Israel),5,0,0
+San José de la Mariquina (Chile),2,0,0
+später Prag (Tschechien),2,0,0
+Bilbao (Spanien),6,0,0
+Meilen-Zürich (Schweiz),2,0,0
+Danzig und Leipzig,3,0,0
+Uedem,2,0,0
+México D.F. (Mexiko),6,0,0
+Mulhouse (Frankreich),2,0,0
+Swakopmund (Namibia),3,0,0
+Grieskirchen (Österreich),2,0,0
+Zwettel (Österreich),2,0,0
+Piräus (Griechenland),2,0,0
+Rodaun-Wienerwald (Österreich),2,0,0
+Wegscheid,2,0,0
+Athen und Thessaloniki (Griechenland),2,0,0
+Santpoort (Niederlande),2,0,0
+Pörtschach am Wörtersee (Österreich),2,0,0
+später Oederan,2,0,0
+Comodoro Rivadavia (Argentinien),2,0,0
+Engen i. Hegau,2,0,0
+Mailand und Genua (Italien),2,0,0
+Kalkutta (Indien),5,0,0
+Oedt,2,0,0
+Seckau (Österreich),2,0,0
+Keetmanshoop (Namibia),2,0,0
+Otjiwarongo (Namibia),2,0,0
+später Murten (Schweiz),2,0,0
+Rotholz (Österreich),2,0,0
+Stoob (Österreich),2,0,0
+Pöchlarn (Österreich),2,0,0
+Deggendorf (Donau),2,0,0
+Kapfenberg (Österreich),3,0,0
+Kremsmünster (Österreich),2,0,0
+Lima und Callao (Peru),2,0,0
+Götzis (Österreich),2,0,0
+Braunau (Österreich),2,0,0
+Amstetten (Österreich),4,0,0
+Bad Aussee (Österreich),3,0,0
+Deutschlandsberg (Österreich),2,0,0
+Eggenburg (Österreich),2,0,0
+Eisenerz (Österreich),2,0,0
+Gallneukirchen (Österreich),2,0,0
+Hartberg (Österreich),3,0,0
+Bad Ischl (Österreich),2,0,0
+Laa an der Thaya (Österreich),3,0,0
+Mariazell (Österreich),2,0,0
+Mistelbach (Österreich),2,0,0
+Oberschützen (Österreich),2,0,0
+Rattenberg (Österreich),2,0,0
+Rottenmann (Österreich),2,0,0
+Semmering (Österreich),2,0,0
+Vöcklabruck (Österreich),3,0,0
+Völkermarkt (Österreich),3,0,0
+Waidhofen (Österreich),3,0,0
+Bilthoven (Niederlande),4,0,0
+Wolkersdorf (Österreich),2,0,0
+Brusque (Brasilien),2,0,0
+Reading (USA),2,0,0
+Jalapa (Guatemala),2,0,0
+Santa Cruz de Tenerife (Spanien),2,0,0
+Douglaston (USA),2,0,0
+Ithaca (USA),2,0,0
+Tsumeb (Namibia),2,0,0
+Nossen,5,0,0
+Leutenberg,3,0,0
+Murten und Basel (Schweiz),2,0,0
+Hergiswil (Schweiz),2,0,0
+Wiedlisbach (Schweiz),2,0,0
+später Druxberge,2,0,0
+Bydgoszcz (Polen),2,0,0
+Kud.Naumiestis (Litauen),2,0,0
+Hischegg,2,0,0
+Klausberg,2,0,0
+später Weidenau (Sieg),2,0,0
+Vieselbach,3,0,0
+Predlitz,2,0,0
+Clarkson (Südafrika),2,0,0
+Las Palmas (Spanien),2,0,0
+Rice Lake (USA),2,0,0
+Jaffa (Israel),2,0,0
+später Trivandrum (Indien),2,0,0
+Ramat Gan (Israel),2,0,0
+Borgerhout-Antwerpen (Belgien),2,0,0
+Root (Schweiz),2,0,0
+Wetzikon (Schweiz),2,0,0
+Donauwörth und Basel (Schweiz),2,0,0
+Dietikon (Schweiz),2,0,0
+Pfäffikon (Schweiz),2,0,0
+Oerlikon (Schweiz),2,0,0
+Arlesheim (Schweiz),3,0,0
+Muri (Schweiz),3,0,0
+Frutigen (Schweiz),3,0,0
+Lyss (Schweiz),2,0,0
+Ascona (Schweiz),2,0,0
+später Mülheim,2,0,0
+Zeuthen,2,0,0
+Irak),2,0,0
+Stein a. Rh. (Schweiz),2,0,0
+San Antonio (USA),2,0,0
+Ancón (Panama),2,0,0
+Bochum-Laer,2,0,0
+Düdelingen (Luxemburg),3,0,0
+Freiburg (Schweiz) und Konstanz,2,0,0
+Derendingen (Schweiz),2,0,0
+Steinhausen (Schweiz),2,0,0
+Stein (Schweiz),2,0,0
+Berlin und Solothurn (Schweiz),2,0,0
+Leseyn (Schweiz),2,0,0
+Zürich-Wittkon (Schweiz),2,0,0
+La Chaux de Fonds (Schweiz),2,0,0
+später Laer,2,0,0
+später Frankenberg,2,0,0
+Hudiksvall (Schweden),2,0,0
+Ostorf,2,0,0
+Flatow,3,0,0
+Valletta (Malta),2,0,0
+Berchem-Antwerpen (Belgien),2,0,0
+Wertach,2,0,0
+später Überlingen,3,0,0
+Leipzig und Paris (Frankreich),3,0,0
+später Naumburg,3,0,0
+Liesing (Österreich),2,0,0
+Hachenburg,2,0,0
+Lindenthal,3,0,0
+Chrudim (Tschechien),3,0,0
+Plovdiv (Bulgarien),3,0,0
+(Bulgarien),2,0,0
+später Marktredwitz,2,0,0
+Oravita (Rumänien),3,0,0
+Sülzhayn,2,0,0
+Neustadt-Gleve,2,0,0
+Metz (Frankreich),11,0,0
+Esch-Alzette (Luxemburg),7,0,0
+Lublin (Polen),3,0,0
+Tlumacz (Polen),3,0,0
+Prykowice (Polen),2,0,0
+Wadowice (Polen),2,0,0
+Zelewo (Polen),2,0,0
+Wielkie-Hajduki (Polen),2,0,0
+Lisieux (Frankreich),2,0,0
+Chiasso (Schweiz),2,0,0
+Rybnik (Polen),4,0,0
+Neumittelwalde,2,0,0
+Skala (Polen),3,0,0
+Brody (Polen),2,0,0
+Randers (Dänemark),2,0,0
+Przemysl (Polen),3,0,0
+Königshütte (Królewska Huta),2,0,0
+Drohobycz-Zawale (Polen),2,0,0
+Zawadzki (Polen),2,0,0
+Danzig-Oliva,2,0,0
+später Brunsbüttelkoog,2,0,0
+Tielt (Belgien),2,0,0
+Sortavala (Finnland),2,0,0
+Ronco (Schweiz),2,0,0
+Untertürkheim,2,0,0
+Dubrovnik (Jugoslavien),3,0,0
+Novo Mesto (Jugoslavien),2,0,0
+Portland (USA),2,0,0
+Ujpest (Ungarn),2,0,0
+Sargans (Schweiz),2,0,0
+Schlangenbad,2,0,0
+Deventer (Niederlande),2,0,0
+Novi Sad (Jugoslavien),4,0,0
+Pécs (Ungarn),2,0,0
+Havanna (Kuba),3,0,0
+Wandsbek-Tonndorf,2,0,0
+Lichtenfels (Rhein),2,0,0
+Apatin (Jugoslavien),2,0,0
+Sombor (Jugoslavien),2,0,0
+Esch a.d. Alzette (Luxemburg),2,0,0
+s'Hertogenbosch (Niederlande),2,0,0
+Sankt Ibb (Schweden),2,0,0
+Havana (Kuba),12,0,0
+später Rom (Italien),2,0,0
+Guatemala-Stadt (Guatemala),3,0,0
+Brügge (Belgien),3,0,0
+Montlucon (Frankreich),2,0,0
+Schnaittach,2,0,0
+Pittsburgh (USA),2,0,0
+Buffalo (USA),2,0,0
+Trujillo (Dominikanische Republik),2,0,0
+Pritzerbe,2,0,0
+Lüderitzbucht (Namibia),2,0,0
+Odersbach,2,0,0
+Lomza (Polen),2,0,0
+Rustschuk (Bulgarien),2,0,0
+Lauchhammer,3,0,0
+Petrovgrad (Jugoslavien),2,0,0
+Vukovar (Jugoslavien),2,0,0
+Lorzendorf,2,0,0
+Subotica (Jugoslavien),2,0,0
+Bublitz,2,0,0
+Bad Salzig und Düsseldorf,2,0,0
+später Haan,2,0,0
+Northampton (USA),2,0,0
+Reutte (Österreich),2,0,0
+Wiecbork (Polen),2,0,0
+Prilly (Schweiz),2,0,0
+Atlanta,2,33.83001385,-84.39994938
+Mettlach,2,0,0
+Penzlin,3,0,0
+Zirndorf,2,0,0
+später Lage,2,0,0
+Großpurtschin,2,0,0
+Bad Krozingen,2,0,0
+Oberägeri (Schweiz),2,0,0
+Waldhaus-Flint (Schweiz),2,0,0
+Hermeskeil,2,0,0
+Russe und Warna (Bulgarien),2,0,0
+Adersheim,2,0,0
+Gehering,2,0,0
+Mühldorf,4,0,0
+Wiesbaden-Bierstadt,2,0,0
+Taubenheim,2,0,0
+Cunewalde,2,0,0
+Santo André (Brasilien),2,0,0
+später Mainz,3,0,0
+San Sebastian (Spanien),2,0,0
+Großjena,2,0,0
+Neukirch,2,0,0
+Adelaide (Australien),3,0,0
+North Adelaide (Australien),2,0,0
+Melbourne und Sydney (Australien),2,0,0
+Ijuhy (Brasilien),2,0,0
+Reigate (Großbritannien),2,0,0
+Manila (Philippinen),3,0,0
+Semarang (Indonesien),3,0,0
+Algier (Algerien),2,0,0
+Schwarzheide,3,0,0
+St. Vith,2,0,0
+Lüttich (Belgien),7,0,0
+Asunción (Paraguay),2,0,0
+Berlin-Wilmersdorf,2,0,0
+Oakland (USA),2,0,0
+Athen und Saloniki (Griechenland),2,0,0
+s' Hertogenbosch (Niederlande),2,0,0
+Homburg v.d.H.,2,0,0
+Susak (Jugoslavien) und Fiume (Italien),2,0,0
+Boulogne (Frankreich),2,0,0
+Woldenberg,2,0,0
+Salamanca (Spanien),2,0,0
+später Chur (Schweiz),2,0,0
+Frankenhausen,2,0,0
+Naila,2,0,0
+Maria Laach,2,0,0
+Spenge,2,0,0
+Antwerpen (Niederlande),4,0,0
+Aulendorf,2,0,0
+North Cohocton (USA),2,0,0
+Norresundby (Dänemark),3,0,0
+Charlottenlund (Dänemark),3,0,0
+später Haldensleben,2,0,0
+Jesenice (Jugoslavien),2,0,0
+Voorburg (Niederlande),6,0,0
+später Schwäb. Gmünd,2,0,0
+Scheeßel,2,0,0
+später Gera,2,0,0
+Limburg und Darmstadt.,2,0,0
+Verkehrsverlag A.-G. Zürich (Schweiz),2,0,0
+Letzi-Verlag A.-G. Zürich (Schweiz),2,0,0
+Emmenbrücke (Schweiz),2,0,0
+s'Gravenhage (Niederlande),2,0,0
+Valladolid (Spanien),3,0,0
+Rolle (Schweiz),3,0,0
+Witten (Ruhr),4,0,0
+Waldkirchen,3,0,0
+später Brand-Erbisdorf,2,0,0
+Limpertsberg (Luxemburg),2,0,0
+Auxerre (Frankreich),2,0,0
+Minsk (Weißrussland),2,0,0
+Wald (Schweiz),2,0,0
+Trzic (Jugoslavien),2,0,0
+o. O. (Italien),4,0,0
+Leipzig und Kassel,2,0,0
+Moshi (Tansania),2,0,0
+Fichtelberg,2,0,0
+Karlovac (Jugoslavien),2,0,0
+Trabzon (Türkei),2,0,0
+Karlsfeld,2,0,0
+Cadiz (Spanien),2,0,0
+Exeter (Großbritannien),3,0,0
+Ilfracome (Großbritannien),2,0,0
+Krailling,2,0,0
+Glasgow und Edinburgh (Großbritannien),2,0,0
+Barnstaple (Großbritannien),2,0,0
+Bath (Großbritannien),2,0,0
+Hull (Großbritannien),2,0,0
+Bradford on Avon (Großbritannien),2,0,0
+Clichy (Frankreich),2,0,0
+Gnoien,2,0,0
+Rüsselsheim,2,0,0
+später Heiligenhafen,2,0,0
+Frankenberg (Eder),2,0,0
+Neuchatel (Schweiz),2,0,0
+später Naundorf,2,0,0
+Schöneck,3,0,0
+Rasun-Valdaora (Italien),2,0,0
+Den Dolder (Niederlande),2,0,0
+Wiesdorf,2,0,0
+Königslutter,4,0,0
+Metz und Nancy (Frankreich),2,0,0
+Riehen-Basel (Schweiz),2,0,0
+Wildschütz,2,0,0
+Engelsdorf,2,0,0
+Wettingen (Schweiz),2,0,0
+Bremen-Horn,2,0,0
+Rendsburg-Büdelsdorf,2,0,0
+Markneukirchen und Bad Elster,2,0,0
+Schiltigheim (Frankreich),2,0,0
+Berlin-Neukölln,2,0,0
+Pasadena (USA),2,0,0
+Willisau (Schweiz),2,0,0
+Sherborne (Großbritannien),2,0,0
+Plymouth (Großbritannien),2,0,0
+Yeovil (Großbritannien),2,0,0
+Torquay (Großbritannien),2,0,0
+'s Hertogenbosch (Niederlande),2,0,0
+Nis (Jugoslavien),2,0,0
+Lana (Italien),2,0,0
+Rom und Mailand (Italien),2,0,0
+Mailand und Cadorago (Italien),2,0,0
+Pola (Italien),2,0,0
+Città del Vaticano,2,0,0
+Brunico (Italien),2,0,0
+Miskolc (Ungarn),2,0,0
+Pécs und Budapest (Ungarn),3,0,0
+"Papier- und Schreibwarenhandlung ""Danubia"" Budapest (Ungarn)",2,0,0
+Brunssum (Niederlande),2,0,0
+'s Gravenhage (Niederlande),2,0,0
+Pegau,2,0,0
+Assen (Niederlande),2,0,0
+Blerick (Niederlande),2,0,0
+später Allensbach,2,0,0
+Pancevo (Jugoslavien),2,0,0
+Semlin (Jugoslavien),2,0,0
+später Borna,2,0,0
+Kampen (Niederlande),2,0,0
+Banz,2,0,0
+Männedorf (Schweiz),2,0,0
+Zürich und Baden (Schweiz),2,0,0
+Moutier (Schweiz),2,0,0
+Casablanca (Marokko),2,0,0
+später Hanstedt,2,0,0
+London und Edinburgh (Großbritannien),2,0,0
+Dommeldingen (Luxemburg),2,0,0
+Kappel,2,0,0
+Turc Sv. Martin (Slovakei),2,0,0
+Natal (Brasilien),2,0,0
+Brunnen (Schweiz),2,0,0
+Bad Kunnersdorf,2,0,0
+Nikosia (Zypern),2,0,0
+Zwenkau,5,0,0
+Bad Essen,2,0,0
+Triebes,3,0,0
+Gerdauen,2,0,0
+Vancouver (Kanada),2,0,0
+Monte Carlo (Monaco),2,0,0
+Breslau und Leipzig,2,0,0
+später Kaunas (Litauen),2,0,0
+Brieg,3,0,0
+Lauffen,2,0,0
+Wupppertal-Barmen,2,0,0
+New Jersey (USA),2,0,0
+Khurja (Indien),2,0,0
+Liezen (Österreich),2,0,0
+Remscheid-Lennep,2,0,0
+Krefeld und Dortmund,2,0,0
+Hongkong,2,0,0
+Geisa,2,0,0
+Friedenau,2,0,0
+Zürich und Leipzig,2,0,0
+Syrien),2,0,0
+Rexingen,2,0,0
+Sachsenhausen,2,0,0
+Arzberg,2,0,0
+Newcastle-on-Tyne (Großbritannien),2,0,0
+A. (H Schreck) Metz (Frankreich),2,0,0
+Tanga (Tansania),2,0,0
+Modena (Italien),2,0,0
+Uerdingen,2,0,0
+Zell,2,0,0
+Lenzburg (Schweiz),3,0,0
+Wellington (Neuseeland),2,0,0
+Port Elizabeth (Südafrika),2,0,0
+Durban (Südafrika),6,0,0
+Payerne (Schweiz),3,0,0
+Massagno (Schweiz),3,0,0
+Melbourne und Adelaide (Australien),2,0,0
+Wörgl (Österreich),2,0,0
+Launceston (Tasmanien Australien),2,0,0
+Hobart (Tasmanien Australien),2,0,0
+Brisbane (Australien),2,0,0
+Kunming (China),2,0,0
+Assens (Dänemark),2,0,0
+Hirungilo,2,0,0
+Nagoya (Japan),2,0,0
+Split (Jugoslavien),5,0,0
+Mürzzuschlag (Österreich),3,0,0
+Schwanden (Schweiz),2,0,0
+Syracuse (USA),2,0,0
+Banjaluka (Jugoslavien),2,0,0
+Bergkamen,2,0,0
+(Israel),2,0,0
+Mondorf-les-Bains (Luxemburg),2,0,0
+Echternach (Luxemburg),4,0,0
+Dudelange (Luxemburg),2,0,0
+Bialystock (Polen),2,0,0
+später Crimmitschau,2,0,0
+Moorleigh (Südafrika),2,0,0
+Akureyri (Island),2,0,0
+Ardres-en-Calaisis (Frankreich),2,0,0
+Lilienfeld (Österreich),2,0,0
+später Wickersdorf (Saale),2,0,0
+Worpswede,2,0,0
+Anger,2,0,0
+Schöngrafenau (Österreich),2,0,0
+Annaburg,5,0,0
+später Asunción (Paraguay),2,0,0
+Oberschönau,2,0,0
+Unterstein,2,0,0
+Inzell,2,0,0
+Bad Teinach,2,0,0
+später Essen,3,0,0
+Tambach-Dietharz,2,0,0
+Grevenmacher (Luxemburg),2,0,0
+Berlin-Britz,2,0,0
+später Blomberg (Lippe),2,0,0
+Schüpfheim (Schweiz),2,0,0
+Stäfa(Schweiz),2,0,0
+Beerfelden,2,0,0
+Stadtoldendorf,2,0,0
+Enschede (Niederlande),3,0,0
+Ahrensburg,4,0,0
+Velten,5,0,0
+Kolozsvár (Ungarn),2,0,0
+Hamurg,3,0,0
+Sucre (Bolivien),2,0,0
+Steinau (Oder),2,0,0
+Hohen Neuendorf,3,0,0
+Dürnkrut (Österreich),2,0,0
+Schrems (Österreich),2,0,0
+Kranichfeld (Ilm),3,0,0
+Sevilla (Spanien),3,0,0
+Perg (Österreich),2,0,0
+Vevey (Schweiz),3,0,0
+Rottach,2,0,0
+Markneukirchen,5,0,0
+Stuttgart und Ulm,2,0,0
+Danzig-Langfuhr und Gotenhafen,2,0,0
+Löningen,2,0,0
+Scheibbs (Österreich),2,0,0
+Schongau,2,0,0
+Rheda,2,0,0
+Weiz (Österreich),2,0,0
+Bergreichenstein,2,0,0
+Hummené,2,0,0
+Berlin und Hamburg,2,0,0
+Zihlbrücke-Thielle (Schweiz),2,0,0
+Bischofstein,2,0,0
+Frauendorf,2,0,0
+später Gruibingen,2,0,0
+Fulnek,2,0,0
+Nyon (Schweiz),3,0,0
+o. O. (Schweden),3,0,0
+Pölitz,2,0,0
+Hodenhagen (Aller),2,0,0
+Fröndenberg (Ruhr),2,0,0
+Ilanz (Schweiz),2,0,0
+Schönbrunn,2,0,0
+später Gaschwitz,2,0,0
+Rheinsberg,3,0,0
+Bigge (Ruhr),2,0,0
+später Emilienhof (über Neuruppin),2,0,0
+später Recklinghausen,2,0,0
+Aalst (Belgien),2,0,0
+Clairefonteine-Eischen (Luxemburg),2,0,0
+Redingen (Luxemburg),2,0,0
+Volvoarde (Belgien),2,0,0
+Bangkok (Thailand),2,0,0
+Neuhausen,2,0,0
+Locle (Schweiz),2,0,0
+Frankfurt (Main) und Berlin,3,0,0
+Curitiba (Brasilien),2,0,0
+Mogilno (Polen),2,0,0
+Niederaltaich,2,0,0
+Seebad Heringsdorf,3,0,0
+Apatin (Ungarn),2,0,0
+Ludwigsstadt,2,0,0
+Brüggen,2,0,0
+Oberuzwil (Schweiz),2,0,0
+Schwartau,2,0,0
+Arnstorf,2,0,0
+Sauges-St. Aubin (Schweiz),2,0,0
+Konitz und Berlin,2,0,0
+Weggis (Schweiz),2,0,0
+Bremgarten (Schweiz),2,0,0
+später Luzern (Schweiz),2,0,0
+Sanok (Polen),4,0,0
+Mauer bei Wien (Österreich),2,0,0
+Carei-mare (Rumänien),3,0,0
+Salonta (Rumänien),3,0,0
+Baia Mare (Rumänien),2,0,0
+Zilina (Slovakei),2,0,0
+Fagaras (Rumänien),2,0,0
+Moldavien),3,0,0
+Satu Mare (Rumänien),2,0,0
+Zalau (Rumänien),2,0,0
+Jerusalem und Haifa (Israel),2,0,0
+Purkersdorf bei Wien (Österreich),3,0,0
+Appingedam (Niederlande),4,0,0
+Beerta (Niederlande),2,0,0
+Bedum (Niederlande),3,0,0
+Moskau (Sowjetunion),2,0,0
+Zandvoort (Niederlande),2,0,0
+Moscice (Polen),2,0,0
+Arosa-Dorf (Schweiz),2,0,0
+Schotten,2,0,0
+später Mettmann,2,0,0
+Essen und Freiburg,2,0,0
+Skarzysko (Polen),2,0,0
+Oude-Pekela (Niederlande),3,0,0
+Oostburg (Niederlande),2,0,0
+Goes (Niederlande),2,0,0
+Delfzijl (Niederlande),4,0,0
+Hoogezand (Niederlande),2,0,0
+Veendam (Niederlande),5,0,0
+Berlingen (Schweiz),2,0,0
+Warffum (Niederlande),3,0,0
+Haren (Niederlande),2,0,0
+'s-Hertogenbosch (Niederlande),2,0,0
+Hoogkerk (Niederlande),2,0,0
+Hoogzand (Niederlande),2,0,0
+Loppersum (Niederlande),2,0,0
+Leek (Niederlande),2,0,0
+Uithuizermeeden (Niederlande),2,0,0
+Terneuzen (Niederlande),3,0,0
+Neusiedl (Österreich),2,0,0
+Radom (Polen),2,0,0
+später Bad Wörishofen,2,0,0
+Mielec (Polen),2,0,0
+später Forchheim,2,0,0
+Templin,5,0,0
+Lauscha,2,0,0
+Thorn,2,0,0
+Freudenberg,2,0,0
+Schneverdingen,2,0,0
+Halle-Trotha (Saale),2,0,0
+Sandomierz (Polen),2,0,0
+zuletzt Meine,2,0,0
+Vöhringen (Iller),2,0,0
+Oebisfelde,4,0,0
+Samobor (Jugoslavien),2,0,0
+Hoyerswerda,4,0,0
+Bocso Montana (Rumänien),2,0,0
+Düsselsdorf,2,0,0
+Gallspach (Österreich),2,0,0
+Princeton (USA),2,0,0
+Moudon (Schweiz),2,0,0
+Muralto (Schweiz),2,0,0
+Romont (Schweiz),2,0,0
+Seeshaupt,2,0,0
+Plock (Polen),2,0,0
+Plonsk (Polen),2,0,0
+später Schwäbisch Gmünd,2,0,0
+Gernsbach,2,0,0
+Dahlenburg,2,0,0
+später Westerkappeln,2,0,0
+Baunschweig,2,0,0
+Wilcza (Polen),2,0,0
+Dingolfing,2,0,0
+Wartenburg,2,0,0
+Kaldauen,2,0,0
+Türkei),2,0,0
+später Bad Rehburg,2,0,0
+Borna und Heidelberg,2,0,0
+später Porto Alegre (Brasilien),2,0,0
+Utrecht-Tuindorp (Niederlande),2,0,0
+Bad Kösen,3,0,0
+später Reichstädt,2,0,0
+Düsseldorf-Oberkassel,2,0,0
+Freyung,2,0,0
+Miraflores-Lima (Peru),2,0,0
+Palma de Mallorca (Spanien),3,0,0
+Zuidlaren (Niederlande),2,0,0
+Schoten (Belgien),2,0,0
+Staatliche Fachstelle für Büchereiwesen des Regierungsbezirkes Dresden-Bautzen,2,0,0
+Oberwart (Österreich),2,0,0
+Eichwald,2,0,0
+später Wurzach,2,0,0
+Waldfischbach,2,0,0
+Barby (Elbe),2,0,0
+Istanbul-Galata (Türkei),3,0,0
+Schwanenstadt,2,0,0
+Bolchen (Frankreich),2,0,0
+später Schweinitz,2,0,0
+Schirmeck (Frankreich),3,0,0
+Schwarzenbek,2,0,0
+später Fürstenwalde (Spree) und Biere,2,0,0
+Rochlitz (Iser),2,0,0
+später Mühlhausen,2,0,0
+Berlin und Goslar,3,0,0
+Michalovce (Slovakei),3,0,0
+Sv. Martin (Slovakei),3,0,0
+Kutno (Polen),2,0,0
+Rönsahl,2,0,0
+Chisinau (Moldavien),2,0,0
+später Limbach-Oberfrohna,2,0,0
+St. Niklaas-Waas (Belgien),2,0,0
+Kessel-Loo-Löwen (Belgien),2,0,0
+Gössnitz,5,0,0
+Schraplau,2,0,0
+Boudry (Schweiz),2,0,0
+Weida,5,0,0
+Ennigloh,2,0,0
+später Hemdingen,2,0,0
+Gorinchem (Niederlande),2,0,0
+Novisad (Jugoslavien),2,0,0
+Neu-Münchenstein (Schweiz),2,0,0
+Kollnau,2,0,0
+Oderberg,2,0,0
+Pritzwalk (Prignitz),2,0,0
+Letschin,2,0,0
+Kladno (Tschechien),2,0,0
+Hagerstown (USA),2,0,0
+Gräfenroda,3,0,0
+Wallisellen (Schweiz),2,0,0
+Axelborg-Kopenhagen (Dänemark),2,0,0
+später Sulz (Neckar),2,0,0
+Dillingen (Saar),4,0,0
+Scheveningen (Niederlande),2,0,0
+später Dietmannsried,2,0,0
+Darmstadt-Arheilgen,2,0,0
+Bad Driburg,3,0,0
+Córdoba (Spanien),2,0,0
+Flöha,2,0,0
+Lessines (Belgien),2,0,0
+Erlenbach (Schweiz),2,0,0
+Letmathe,2,0,0
+Arlon (Belgien),2,0,0
+Lendringsen,2,0,0
+Erstein (Frankreich),2,0,0
+Mazingarbe (Frankreich),2,0,0
+Craiova und Bukarest (Rumänien),2,0,0
+später Osnabrück,2,0,0
+Ijuí (Brasilien),2,0,0
+Místek (Tschechien),2,0,0
+Niederschelden (Sieg),2,0,0
+später Bad Saarow,2,0,0
+Retz (Österreich),2,0,0
+Drensteinfurt,2,0,0
+Ybbs (Österreich),2,0,0
+Ried,2,0,0
+Beeskow,5,0,0
+Cademario (Schweiz),2,0,0
+Niederhasli (Schweiz),2,0,0
+Stein (Österreich),2,0,0
+Nizza (Frankreich),2,0,0
+Clermond-Ferrand (Frankreich),2,0,0
+Beslau,2,0,0
+Neu-Isenburg,2,0,0
+Izegem (Belgien),2,0,0
+später Stutgart,2,0,0
+Bergen op Zoom (Niederlande),2,0,0
+Remiremont (Frankreich),2,0,0
+Neustadt a.d. Weinstraße,2,0,0
+Boulder (USA),2,0,0
+Neumark,3,0,0
+Ronsperg,2,0,0
+Gotenhafen,2,0,0
+später Jena,2,0,0
+Lakatnik (Bulgarien),2,0,0
+Tripolis (Libyen),2,0,0
+Schwarzburg,3,0,0
+Werther,2,0,0
+Vendenheim (Frankreich),2,0,0
+Ebeleben,3,0,0
+Chocen (Polen),2,0,0
+Haan (Rhein),2,0,0
+Heldrungen (Unstrut),3,0,0
+Franeker (Niederlande),2,0,0
+Gräfenthal,3,0,0
+Neumarkt (Rott),2,0,0
+Barmen,2,0,0
+Rees (Rhein),2,0,0
+Mömbris,2,0,0
+Dingelstedt,2,0,0
+Wabern,2,0,0
+Turgi (Schweiz),2,0,0
+Lenk (Schweiz),2,0,0
+Velthem (Niederlande),2,0,0
+Lebenstedt,2,0,0
+Riehen (Schweiz),2,0,0
+Grenchen (Schweiz),2,0,0
+Weltmode-Aktiengesellschaft Zürich und Basel (Schweiz),2,0,0
+Lukowit (Bulgarien),2,0,0
+Eupen,2,0,0
+Sindelfingen,2,0,0
+Ulflingen (Luxemburg),2,0,0
+Ettelbrück (Luxemburg),3,0,0
+später Fulda,2,0,0
+Salzgitter,2,0,0
+später Jerichow,2,0,0
+Sneek (Niederlande),2,0,0
+La Spezia (Italien),2,0,0
+Rottenburg (Laaber),2,0,0
+Schröttersburg,2,0,0
+Bad Sooden-Allendorf und Bebra,2,0,0
+Ludwigshafen (Rhein),2,0,0
+Obersalzberg,2,0,0
+Marokko),2,0,0
+Lemberg und Reichenberg,2,0,0
+später Marquartstein,2,0,0
+später Oberlind,2,0,0
+Munster-Lager,2,0,0
+Naumburg (Saale) vorm. Leipzig,2,0,0
+Dölzig,2,0,0
+Zamosc (Polen),2,0,0
+Neusalza-Spremberg,3,0,0
+Delitzsch,6,0,0
+Großpostwitz,2,0,0
+später Kulmbach,2,0,0
+Esbjerg (Dänemark),2,0,0
+später M.Gladbach,2,0,0
+später Arnis (Schlei),2,0,0
+Wittenberge (Prignitz),2,0,0
+Bedburg,2,0,0
+später Kitzingen,2,0,0
+Eisfeld,4,0,0
+Berlin und Luzk (Ukraine),2,0,0
+Oschersleben (Bode),3,0,0
+Libanon),2,0,0
+Tegelen (Niederlande),2,0,0
+Handlová Krickerhau (Slovakei),2,0,0
+Lochem (Niederlande),2,0,0
+Tempelburg,2,0,0
+Constanta (Rumänien),2,0,0
+Resita (Rumänien),2,0,0
+Ramnicul-Valcea (Rumänien),2,0,0
+Siret (Rumänien),2,0,0
+Targu-Mures (Rumänien),2,0,0
+Büchenbronn,2,0,0
+Bressanone (Italien),2,0,0
+Charleroi (Belgien),3,0,0
+Saalburg,2,0,0
+später Hadamer,2,0,0
+Nitra (Slovakei),2,0,0
+Kassel und Basel,2,0,0
+später Lochham,2,0,0
+Nagykaroly (Ungarn),2,0,0
+Luzk (Ukraine),3,0,0
+Blankenfelde,3,0,0
+St. Georgen,2,0,0
+Vetschau,3,0,0
+Kiefersfelden,2,0,0
+Leipzg,2,0,0
+Düsseldorf und Brüssel (Belgien),2,0,0
+Markt Kolbermoor,2,0,0
+Oss (Niederlande),3,0,0
+Sjövegan (Norwegen),2,0,0
+Petingen (Luxemburg),2,0,0
+Renens (Schweiz),2,0,0
+Gent (Brüssel),2,0,0
+Gleisdorf (Österreich),2,0,0
+Vaassen (Niederlande),2,0,0
+Speicher (Schweiz),2,0,0
+Mücheln,6,0,0
+Trencin (Slovakei),2,0,0
+Rasteberg,2,0,0
+Hayingen (Frankreich),2,0,0
+Poprad (Slovakei),2,0,0
+Ivanovice na Hané (Tschechien),2,0,0
+Varna (Bulgarien),2,0,0
+Namur (Belgien),2,0,0
+Tromsö (Norwegen),2,0,0
+Ivrea (Italien),2,0,0
+Lomnice (Tschechien),2,0,0
+Kriens (Schweiz),2,0,0
+Wil (Schweiz),2,0,0
+Möhlin (Schweiz),2,0,0
+Stryj (Ukraine),2,0,0
+Quetzdölsdorf,2,0,0
+Saargemünd (Frankreich),2,0,0
+Geisenfeld,2,0,0
+Bosanski Brod (Jugoslavien),2,0,0
+Bad Mondorf (Luxemburg),2,0,0
+Naarden (Niederlande),3,0,0
+Campulung Muscel (Rumänien),2,0,0
+Hruschau (Oder),2,0,0
+s'- Gravenhage (Niederlande),2,0,0
+Den Helder (Niederlande),2,0,0
+Rotterdam und Utrecht (Niederlande),2,0,0
+Breda (Niederlande),3,0,0
+Willisau-Stadt (Schweiz),2,0,0
+Coevorden (Niederlande),2,0,0
+Hodsag (Ungarn),2,0,0
+Lenzerheide (Schweiz),2,0,0
+Seeburg (Schweiz),2,0,0
+Roskilde (Dänemark),2,0,0
+Lauenstein,2,0,0
+Crossen,2,0,0
+Wittenburg,5,0,0
+Rosswein,4,0,0
+Willebroek (Belgien),3,0,0
+Mariestad (Schweden),2,0,0
+Grodno (Polen),2,0,0
+später Meran,2,0,0
+Differdingen (Luxemburg),3,0,0
+Bramsche,2,0,0
+Judenburg (Österreich),2,0,0
+Bad Salzdetfurth,2,0,0
+Wasserburg (Luxemburg),2,0,0
+Mittelsaida,2,0,0
+Sokolka (Polen),2,0,0
+Russe (Bulgarien),2,0,0
+Deep 2 (Kr. Greifenberg),2,0,0
+Friedrichstadt (Eider),2,0,0
+Weißrussland),4,0,0
+Hamburg und Uman (Ukraine),2,0,0
+Hausham,2,0,0
+Zürich und Frankfurt (Main),2,0,0
+später Böhlen über Grimma,2,0,0
+Küstrin-Neustadt,2,0,0
+Neuenmarkt-Wirsberg,2,0,0
+Remscheid-Hasten und Kiew (Ukraine),2,0,0
+später Luckau,2,0,0
+Unterschondorf,2,0,0
+später Bad Mergentheim,2,0,0
+Wilster,2,0,0
+später Perleberg,2,0,0
+Bad Liebenstein,3,0,0
+später Oelsnitz,2,0,0
+Breslau und Chemnitz,2,0,0
+Nancy (Frankreich),2,0,0
+Ratingen später Düsseldorf,2,0,0
+Furtwangen,2,0,0
+Feuerbach,2,0,0
+Tabor (Tschechien),2,0,0
+Boras (Schweden),3,0,0
+Gävle (Schweden),3,0,0
+Härnösand (Schweden),2,0,0
+Karlstad (Schweden),3,0,0
+Linköping (Schweden),3,0,0
+Ludwika (Schweden),2,0,0
+Molde (Norwegen),2,0,0
+Munkacs (Ungarn),2,0,0
+Kiev (Uraine),2,0,0
+Bokhandelen Bergen (Norwegen),2,0,0
+Urbeis (Frankreich),2,0,0
+Driebergen (Niederlande),2,0,0
+Berlin später Wurzen,2,0,0
+Bereg (Ungarn),2,0,0
+Grajewo (Polen),2,0,0
+Verviers (Belgien),2,0,0
+Neuwied (Rhein),2,0,0
+Weyer,2,0,0
+Raschau,2,0,0
+Roßwein,4,0,0
+Reit im Winkl,2,0,0
+Affoltern,2,0,0
+Radomsko (Polen),2,0,0
+Paris,2,48.86669293,2.333335326
+Hohen-Neuendorf,2,0,0
+vorm. Gesellschaft für Sport und Technik Verlag Halle (Saale),2,0,0
+später Kopenhagen (Dänemark),2,0,0
+Berlin-Siemensstadt,3,0,0
+Odessa (Sowjetunion),2,0,0
+Nantes (Frankreich),2,0,0
+Ruma (Jugoslavien),2,0,0
+Lehre,2,0,0
+später Passau,2,0,0
+später Herrlingen,2,0,0
+Rumsiskis (Litauen),2,0,0
+Dobsina (Slovakei),2,0,0
+Teutschenthal,2,0,0
+Fellin (Estland),2,0,0
+Zabern (Frankreich),2,0,0
+Einhoven (Niederlande),2,0,0
+Nagyvárad (Ungarn),2,0,0
+Dachau,2,0,0
+Aigen (Inn),2,0,0
+Komárom (Ungarn),2,0,0
+Weidenau (Sieg),2,0,0
+Remisch (Luxemburg),2,0,0
+Gravelande-Wilgenhof (Niederlande),2,0,0
+Petrikau und Kielce (Polen),2,0,0
+Russland),2,0,0
+Makkum (Niederlande),2,0,0
+Uster (Schweiz),2,0,0
+Kreuzlingen und Zürich (Schweiz),2,0,0
+Swenten (Lettland),2,0,0
+Schongau (Lech),2,0,0
+Domschale (Österreich),2,0,0
+Gerabronn,2,0,0
+Neustadt (Haardt),2,0,0
+Zehdenick,6,0,0
+Fallingbostel,2,0,0
+Hattingen (Ruhr),2,0,0
+Dambach (Frankreich),2,0,0
+Kirchmöser bei Brandenburg (Havel),2,0,0
+Niederoderwitz,2,0,0
+Hohndorf (Erzgebirge),2,0,0
+Thalheim (Erzgebirge),2,0,0
+Camburg,2,0,0
+Warna (Bulgarien),2,0,0
+Hannover und Prag (Tschechien),2,0,0
+Hamar (Norwegen),2,0,0
+Gjovik (Norwegen),2,0,0
+Drammen (Norwegen),2,0,0
+Aalesund (Norwegen),2,0,0
+Kortrijk (Belgien),2,0,0
+Feldkirchen (Österreich),2,0,0
+Lom (Bulgarien),2,0,0
+Turku (Finnland),2,0,0
+Putten (Niederlande),2,0,0
+Schirgiswalde,2,0,0
+Coimbra (Portugal),2,0,0
+Geislingen-Steige,2,0,0
+Großrückerswalde,2,0,0
+Plau am See,2,0,0
+später Barby,2,0,0
+später Görlitz,2,0,0
+später Lemförde,2,0,0
+Gramzow,2,0,0
+Langebrück,4,0,0
+Neubukow,2,0,0
+später Hartenstein,2,0,0
+Oberoderwitz,3,0,0
+Gößnitz,2,0,0
+Dardesheim,2,0,0
+später Schötmar,2,0,0
+Thayngen-Schaffhausen (Schweiz),2,0,0
+Riga und Berlin,2,0,0
+später Bargteheide,2,0,0
+Riezlern,2,0,0
+Lünen,3,0,0
+Schwandorf,2,0,0
+Naunhof und Leipzig,2,0,0
+Kohren-Salis,2,0,0
+Zweenfurth,2,0,0
+Rötha,2,0,0
+später Sonthofen,2,0,0
+Leihbücherei Dessau,2,0,0
+Jessnitz,3,0,0
+Stöhna,2,0,0
+Magdeborn,3,0,0
+Wolkenstein,2,0,0
+Beucha,3,0,0
+später Seitschen,2,0,0
+Niederwiesa,7,0,0
+Glaubitz,2,0,0
+Kölleda,3,0,0
+Zella,2,0,0
+Gehlberg,2,0,0
+später Weimar,3,0,0
+Bad Bibra,2,0,0
+Großröhrsdorf,2,0,0
+Kriebitzsch,2,0,0
+Altdöbern,3,0,0
+Calau,2,0,0
+Ronneburg,4,0,0
+Wittgensdorf,2,0,0
+Pillnitz (Elbe),2,0,0
+Kläden,2,0,0
+Benneckenstein,3,0,0
+Pulsen,2,0,0
+Groß-Ottersleben,2,0,0
+Güsten,4,0,0
+Remse (Mulde),2,0,0
+Helmsdorf,2,0,0
+Berlin und Stuttgart,2,0,0
+Adorf,4,0,0
+Geraberg,2,0,0
+Richtenberg,3,0,0
+Dorndorf,2,0,0
+Altentreptow,3,0,0
+Radegast,3,0,0
+später Wolfenbüttel,2,0,0
+Trebbin,2,0,0
+später Holzhausen (Westfalen),2,0,0
+Lautawerk,2,0,0
+Kochstedt,2,0,0
+Wilhelmshorst,4,0,0
+Niedercunnersdorf,2,0,0
+Dermbach,2,0,0
+Heudeber,2,0,0
+Hannnover und Berlin,2,0,0
+Pfaffroda,2,0,0
+Dorfchemnitz,2,0,0
+Brandis,2,0,0
+Dittersdorf,2,0,0
+Pirna (Elbe),2,0,0
+Scharfenberg,2,0,0
+Holzhausen (bei Leipzig),2,0,0
+Baalsdorf (bei Leipzig),2,0,0
+Lützschena (bei Leipzig),2,0,0
+Böhlitz-Ehrenberg (bei Leipzig),2,0,0
+Cröbern,2,0,0
+Leipzig und Reichenbach,2,0,0
+Wiederitzsch,3,0,0
+Filiale Leipzig,2,0,0
+später Großdeuben,2,0,0
+Berlin-Köpenick,2,0,0
+Neviges,3,0,0
+Leipzig und Machern,2,0,0
+Königstein (Taunus),2,0,0
+Schlagwitz,2,0,0
+Markranstädt,3,0,0
+Oberlungwitz,3,0,0
+Potsdam-Geltow,2,0,0
+Berlin und Köln,2,0,0
+Altenbrak,2,0,0
+Klepzig,2,0,0
+Droyßig,2,0,0
+Cossebaude,2,0,0
+Crinitz,3,0,0
+Berlin und Buxtehude,2,0,0
+Georgenthal,4,0,0
+Ehrenfriedersdorf,2,0,0
+Ostritz,4,0,0
+Tuttendorf,2,0,0
+Niederschöna,2,0,0
+Berlin und Bielefeld,2,0,0
+Borsdorf,2,0,0
+Lengenfeld,4,0,0
+Neustadt (Sachsen),2,0,0
+Stolpen,2,0,0
+Moritzburg,2,0,0
+Hainsberg,2,0,0
+Stenn,2,0,0
+Dittersbach,2,0,0
+Straßgräbchen,2,0,0
+Zöblitz,2,0,0
+Schönau,2,0,0
+Zwota-Zechenbach,2,0,0
+Wilsdruff,4,0,0
+Lichtenegg,2,0,0
+Malsch,2,0,0
+Lichtenstein,4,0,0
+Wanzleben,2,0,0
+Blankenhain,4,0,0
+Helmbrechts,2,0,0
+Calbe (Saale),7,0,0
+Bischofswerda,6,0,0
+Burgstädt und Limbach,2,0,0
+Groitzsch,2,0,0
+Hartmannsdorf,4,0,0
+später Magdeburg,2,0,0
+Brück,2,0,0
+Annahütte,3,0,0
+Traunstein und Bad Aibling,2,0,0
+Saalfeld (Saale),3,0,0
+später Bernburg,2,0,0
+Ortenburg,2,0,0
+Berlin und Düsseldorf,2,0,0
+Jessen (Elster),3,0,0
+Geschäftsstelle Leipzig,2,0,0
+Zwönitz,3,0,0
+Niederwürschnitz,2,0,0
+Hosena,2,0,0
+Elstra,2,0,0
+Bad Sulza,3,0,0
+Naunhof,3,0,0
+Zschieren,2,0,0
+Mosel,2,0,0
+Gerbstedt,2,0,0
+Schlossvippach,2,0,0
+Krauschwitz,2,0,0
+Breitenworbis,2,0,0
+Theissen,3,0,0
+Borstendorf,2,0,0
+Camburg (Saale),2,0,0
+Falkenberg,4,0,0
+Wilkau-Hasslau,2,0,0
+Hecklingen,3,0,0
+Wutha,2,0,0
+Augustusburg,2,0,0
+Aken (Elbe),3,0,0
+Reideburg,2,0,0
+Chemnitz (Karl-Marx-Stadt),25,0,0
+Perleberg,5,0,0
+Meinsberg,2,0,0
+später Aschaffenburg,2,0,0
+Gadebusch,2,0,0
+Glasten,2,0,0
+Berlin-Frohnau,2,0,0
+Lunzenau (Mulde),2,0,0
+Bösdorf (Elster),2,0,0
+Wildenfels,3,0,0
+Schwepnitz,2,0,0
+Helbra,4,0,0
+Werder (Havel),2,0,0
+Sachsenberg-Georgenthal,2,0,0
+Dresden und Berlin,2,0,0
+Halle (Saale) und Merseburg,2,0,0
+Blankenberg (Saale),2,0,0
+Aken,2,0,0
+Cainsdorf,2,0,0
+Triptis,3,0,0
+Flöha und Frankenberg,2,0,0
+Darmstadt-Eberstadt,2,0,0
+Leuna und Merseburg,2,0,0
+Dippoldiswalde,4,0,0
+Niedersachswerfen,2,0,0
+Heyerode,2,0,0
+Tanna,3,0,0
+Graupa,2,0,0
+Phöben,2,0,0
+Gültz,2,0,0
+Mylau,2,0,0
+Hennigsdorf,3,0,0
+Hohenleipisch,3,0,0
+Bibliothekarin Neustrelitz,2,0,0
+Falkenberg (Elster),3,0,0
+Gartz (Oder),2,0,0
+Wittstock (Dosse),3,0,0
+Oschersleben,4,0,0
+Priort,2,0,0
+Gaschwitz,2,0,0
+Berlin und Erfurt,2,0,0
+Salza,2,0,0
+Sohland (Spree),2,0,0
+Bernsbach,2,0,0
+Altenberg,2,0,0
+Steinpleis,3,0,0
+Leukersdorf,2,0,0
+Heldburg,2,0,0
+Elster (Elbe),2,0,0
+Oberweimar,2,0,0
+Schönwalde,3,0,0
+später Grillenburg,2,0,0
+Neustadt (Dosse),2,0,0
+Crottendorf,3,0,0
+Frauenwald,2,0,0
+Gera-Roschütz,2,0,0
+Friedersdorf,2,0,0
+Ostseebad Kühlungsborn,3,0,0
+Gross Ottersleben,2,0,0
+Hirschfelde,2,0,0
+Reinsdorf,3,0,0
+Kaltennordheim,2,0,0
+Mühlberg (Elbe),3,0,0
+Rimsting (Chiemsee),2,0,0
+Leipzig-Mölkau,2,0,0
+Breitungen (Werra),3,0,0
+Geithain,4,0,0
+Siebenlehn,2,0,0
+Rosslau (Elbe),3,0,0
+Hainichen,4,0,0
+später Bitterfeld,2,0,0
+Lichtentanne,2,0,0
+Münchenbernsdorf,2,0,0
+Bernsdorf,2,0,0
+Auma,2,0,0
+Lehnitz,2,0,0
+Plaue (Havel),2,0,0
+Gornsdorf,2,0,0
+Neustadt-Glewe,2,0,0
+Bad Tennstedt,2,0,0
+Thal,2,0,0
+Artern,2,0,0
+Delizsch,2,0,0
+Eppendorf,2,0,0
+Olbersdorf,2,0,0
+Hötensleben,2,0,0
+Kroppenstedt,2,0,0
+Zschachwitz,2,0,0
+Rossla,3,0,0
+Lohmen,2,0,0
+Röderau,2,0,0
+später Suhl,2,0,0
+Seelow,3,0,0
+Bockwitz,2,0,0
+Berga (Elster),2,0,0
+Neulübbenau,2,0,0
+Schleiz,3,0,0
+Grossörner,2,0,0
+Berlin-Mahlsdorf,3,0,0
+Storkow,2,0,0
+Blumroda,2,0,0
+später Colditz,2,0,0
+Könnern (Saale),3,0,0
+Rostock-Gehlsdorf,2,0,0
+Burg Stargard,3,0,0
+Eggesin,2,0,0
+Krostitz,2,0,0
+Greppin,3,0,0
+Bad Sülze,2,0,0
+Berggießhübel,2,0,0
+Wilkau-Haßlau,2,0,0
+Ketzin (Havel),2,0,0
+Hagenow,3,0,0
+Ellefeld,2,0,0
+Grünewalde,2,0,0
+Dahlen,2,0,0
+Schwaan,2,0,0
+Jarmen,3,0,0
+Lauter,4,0,0
+Welzow,2,0,0
+Hohendodeleben,2,0,0
+Königsee,4,0,0
+Schwarza,2,0,0
+Frauenstein,2,0,0
+Niesky,2,0,0
+Kirchhain (Doberlug-Kirchhain),2,0,0
+Gröditz,2,0,0
+Fürstenberg (Oder),3,0,0
+später Chemnitz,2,0,0
+Bad Suderode,2,0,0
+Fürstenwalde (Spree),3,0,0
+Lutherstadt Wittenberg,2,0,0
+Plessa,2,0,0
+Fehrbellin,3,0,0
+Gommern,2,0,0
+Hohengöhren,2,0,0
+Feldberg,3,0,0
+Carlow,2,0,0
+Pfaffenhofen (Ilm),2,0,0
+Dillingen (Donau),2,0,0
+Blomberg (Lippe),2,0,0
+Torgau (Elbe),2,0,0
+Sassnitz,3,0,0
+Ebersbach,4,0,0
+Ostseebad Wustrow,2,0,0
+Tennenlohe,2,0,0
+Bad Gottleuba,3,0,0
+Birkholzaue,2,0,0
+Oggersheim,2,0,0
+Berlin-Schmargendorf,2,0,0
+Döbern,2,0,0
+Biederitz,2,0,0
+Gerstungen (Werra),2,0,0
+Möckern,2,0,0
+Wünschendorf (Elster),2,0,0
+später Berlin-Grunewald,2,0,0
+Zahna,3,0,0
+Finowfurt,2,0,0
+Gransee,4,0,0
+Schiltach,2,0,0
+Karl-Marx-Stadt (Chemnitz),3,0,0
+Gefell,2,0,0
+Greussen,2,0,0
+Kurort Hartha,2,0,0
+Böhlen,2,0,0
+Dresden-Lockwitz,2,0,0
+Bad Dürrenberg,3,0,0
+Waldsieversdorf,2,0,0
+Löbejün,2,0,0
+Könitz,2,0,0
+Stahnsdorf,3,0,0
+zuletzt Worpswede,2,0,0
+Lustadt,2,0,0
+Hasselfelde,2,0,0
+Kiel-Dietrichsdorf,2,0,0
+Horn-Lippe,2,0,0
+Ulm und Neu-Ulm,2,0,0
+Wurzach,2,0,0
+Halle (Saale) und Leipzig,2,0,0
+Großdubrau,2,0,0
+Rochlitz und Colditz,2,0,0
+Brunau,2,0,0
+Leutershausen,2,0,0
+Mügeln,2,0,0
+Sonnewalde,2,0,0
+Ruhmannsfelden,2,0,0
+Steinbach-Hallenberg,3,0,0
+Eldena,2,0,0
+Stadtlengsfeld,2,0,0
+Bad Lauchstädt,2,0,0
+Brackwede,2,0,0
+Kleinmachnow und Berlin,2,0,0
+Liebenwalde,2,0,0
+Schkopau,2,0,0
+Gudensberg,2,0,0
+Fankfurt (Oder),2,0,0
+Mülsen St. Jacob,2,0,0
+Pausin,2,0,0
+Germersheim (Rhein),2,0,0
+Stotternheim,2,0,0
+Kelbra,2,0,0
+Tschernitz,2,0,0
+Limbach (Limbach-Oberfrohna),4,0,0
+Bernburg (Saale),3,0,0
+Teltow,3,0,0
+Göppingen und Stuttgart,2,0,0
+Norden (Nordsee),2,0,0
+Werne (Lippe),2,0,0
+Uder,2,0,0
+Klötze,4,0,0
+Hagen-Haspe,2,0,0
+Guntersblum,2,0,0
+Bergen,2,60.39100242,5.324522256
+Innsbruck und St. Anton,2,0,0
+Rosslau,2,0,0
+Riesa (Elbe),3,0,0
+Grossnaundorf,2,0,0
+Königshofen,2,0,0
+Langenweddingen,2,0,0
+Bissendorf,2,0,0
+Wusterhausen (Dosse),2,0,0
+Hattingen und Mülheim,2,0,0
+Kröpelin,3,0,0
+Hauteroda,2,0,0
+Schalkau,2,0,0
+Gersdorf,2,0,0
+Dömitz (Elbe),2,0,0
+Landau (Isar),2,0,0
+Ostrau,2,0,0
+Göhren (Rügen),3,0,0
+Winningen (Mosel),2,0,0
+Badersleben,2,0,0
+Großkorbetha,2,0,0
+Schneeberg,2,0,0
+Freyenstein,2,0,0
+Klettwitz,2,0,0
+Heringen,2,0,0
+Freyburg (Unstrut),2,0,0
+Lößnitz,3,0,0
+Sayda,2,0,0
+Musikalienhandlung Berlin,2,0,0
+Magdeburg und Schönebeck (Elbe),2,0,0
+Wriezen (Oder),3,0,0
+später Chemnitz (Karl-Marx-Stadt),3,0,0
+Ribnitz-Damgarten,3,0,0
+Ketschendorf (Spree),2,0,0
+Limbach-Oberfrohna,2,0,0
+Eggersdorf,2,0,0
+Röntgental,2,0,0
+später Grevesmühlen,2,0,0
+Schmachtenhagen,2,0,0
+Wolmirstedt,2,0,0
+Großrudestedt,2,0,0
+Dölau bei Halle (Saale),2,0,0
+Doberlug-Kirchhain,2,0,0
+Qedlinburg,2,0,0
+Hönow,2,0,0
+Rangsdorf,2,0,0
+Lützen,2,0,0
+Tangermünde (Elbe),2,0,0
+Schönow,2,0,0
+Geschwenda,2,0,0
+Rehfelde,2,0,0
+Zepernick,3,0,0
+Haselbach,2,0,0
+Neuenhagen bei Berlin,3,0,0
+Nünchritz,2,0,0
+Lehesten (Thür.),2,0,0
+Schlanstedt,2,0,0
+Forst (Lausitz),2,0,0
+Fredersdorf,2,0,0
+Senzig,2,0,0
+Treben,2,0,0
+Nipmerow (Rügen),2,0,0
+Lübbenau später Lübben,2,0,0
+Weißenberg,2,0,0
+Putlitz,4,0,0
+Roldstadt,2,0,0
+Colbitz,2,0,0
+Altenhain,2,0,0
+Rathenow (Havel),2,0,0
+Summt bei Mühlenbeck,2,0,0
+Bernau bei Berlin,2,0,0
+zuletzt Templin,2,0,0
+Teupitz,2,0,0
+Strasburg,2,0,0
+Unterneubrunn (Schönbrunn),2,0,0
+Taucha bei Leipzig,2,0,0
+Kulkwitz bei Leipzig,2,0,0
+Helfta,2,0,0
+Lieberose,2,0,0
+Schwanebeck,2,0,0
+Berka (Werra),2,0,0
+Hergisdorf,2,0,0
+Caputh bei Potsdam,2,0,0
+Lampertswalde,2,0,0
+Woltersdorf bei Erkner,2,0,0
+Dessau-Kleinkühnau,2,0,0
+Wensickendorf,2,0,0
+Ückeritz auf Usedom,2,0,0
+Nordhausen - Salza,2,0,0
+Zweigniederlassung Falkensee,2,0,0
+Wünsdorf,2,0,0
+Leipzig und Dresden,2,0,0
+Großschönau,2,0,0
+Königs Wusterhausen,3,0,0
+Roitzsch,2,0,0
+Staßfurt,3,0,0
+später Wuppertal-Barmen,2,0,0
+Radeburg,2,0,0
+Trebsen (Mulde),2,0,0
+Fredersdorf bei Berlin,2,0,0
+Rechenberg-Bienenmühle,2,0,0
+Blankenburg (Harz),2,0,0
+Basdorf,2,0,0
+Friedrichsthal bei Oranienburg,2,0,0
+später Neuenhagen bei Berlin,2,0,0
+Löcknitz,2,0,0
+Rüdersdorf,2,0,0
+Königswusterhausen,2,0,0
+Lenzen,2,0,0
+Leegebruch,2,0,0
+Dallmin,2,0,0
+Kochstedt bei Dessau,2,0,0
+Premnitz,2,0,0
+Neuwied (Rhein) und Berlin,2,0,0
+Berlin und Halle (Saale),2,0,0
+Binz (Rügen),2,0,0
+Zweigniederlassung Bielefeld,2,0,0
+später Sinzig (Rhein),2,0,0
+Lutherstadt Eisleben,2,0,0
+Zweigniederlassung Berlin,2,0,0
+Wien und Stuttgart,2,0,0
+Franzburg,2,0,0
+Lehnin,2,0,0
+Stadtilm,4,0,0
+Lauchhammer-Süd,2,0,0
+Joachimsthal,3,0,0
+Berlin-Schmöckwitz,2,0,0
+Bürgel,2,0,0
+Penkun,2,0,0
+Neugersdorf,2,0,0
+Eisenhüttenstadt,2,0,0
+Rübeland,2,0,0
+Markkleeberg-Ost,2,0,0
+Ebersdorf,2,0,0
+Berlin-Weißensee,2,0,0
+Wiehe (Unstrut),2,0,0
+Leinefelde,2,0,0
+Orlamünde,2,0,0
+Greußen,2,0,0
+Rehna,2,0,0
+Heilbad Heiligenstadt,2,0,0
+Berlin-Rahnsdorf,2,0,0
+Roßlau (Elbe),2,0,0
+Zarrentin,2,0,0
+Schönewalde,2,0,0
+Hainewalde,2,0,0
+Wolmirsleben,2,0,0
+Eichwalde,2,0,0
+Annaberg-Buchholz,2,0,0
+Schafstädt,2,0,0
+Hermsdorf,2,0,0
+Marlow,2,0,0
+Eckartsberga,2,0,0
+Wurzbach,2,0,0
+Mühltroff,2,0,0
+Mellenbach,2,0,0
+Küllstedt,2,0,0
+Schlotheim,2,0,0
+Leubnitz,2,0,0
+Zossen,2,0,0
+Barleben,2,0,0
+Borsdorf bei Leipzig,2,0,0
+Boxdorf bei Dresden,2,0,0
+Seyda,2,0,0
+Magdeburg-Alt Fermersleben,2,0,0
+Röbel (Müritz),2,0,0
+Görzke,2,0,0
+Neukirchen (Pleiße),2,0,0
+Scheibenberg,2,0,0
+Arneburg (Elbe),2,0,0
+Zörbig,2,0,0
+Sosa,2,0,0
+Bad Klosterlausnitz,2,0,0
+Beetzendorf,2,0,0
+Wippra,2,0,0
+Ahlbeck bei Torgelow,2,0,0
+Meyenburg (Prignitz),2,0,0
+Bad Langensalza,2,0,0
+Mühlhausen (Thüringen),2,0,0
+Holzweißig bei Bitterfeld,2,0,0
