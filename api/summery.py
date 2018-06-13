@@ -64,11 +64,6 @@ def create_city_list():
                 new_csv.writerow({'Stadt':i,'Anzahl_Firmen':companies_per_city[i], 'lat':city_coordinates.get_coordinates(i)[0], 'lon': city_coordinates.get_coordinates(i)[1]})
 
 
-
-
-         
-
-
 if __name__ == '__main__':
     create_city_list()
     

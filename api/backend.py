@@ -1,10 +1,9 @@
 import csv
 import random
 from flask import Flask, render_template, jsonify
-#from flask_restful import Resource, Api
 
 CSV_FILE = 'csv_new.csv'
-
+CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
 app = Flask(__name__)
 
 """
@@ -23,44 +22,29 @@ def random_data():
             return random_aktentitel
 """
 
-def city_points():
+def city_attributes():
     """
-    Some description...
+    Return coordinates and number of companies for each city.
     """
-    cities = []
-    with open ('city_list.csv', 'r') as f:
-        csv_data = csv.DictReader(f)
-        rows = list(csv_data)
+    city_attributes = []
 
-        for i in rows:
-            if i['lat'] != '0':
-                cities.append({
-                    "lat": i['lat'],
-                    "lan": i['lon'],
-                    "radius": i['Anzahl_Firmen']
-                })
-    return cities
+    try:
+        with open (CITY_ATTRIBUTE_FILE, 'r') as f:
+            csv_data = csv.DictReader(f)
+            rows = list(csv_data)
 
-cities = [
-        {
-            "lat": "51.3391827",
-            "lan": "12.3810549",
-            "radius": "300"
-
-        },
-        {
-            "lat": "51.3391827",
-            "lan": "12.3910549",
-            "radius": "400"
-
-        },
-        {
-            "lat": "51.3591827",
-            "lan": "12.3710549",
-            "radius": "200"
-
-        }]
-
+            for i in rows:
+                if i['lat'] != '0':
+                    city_attributes.append({
+                        "lat": i['lat'],
+                        "lan": i['lon'],
+                        "radius": i['Anzahl_Firmen']
+                    })
+            return city_attributes
+        
+    except FileNotFoundError:
+        print(CITY_ATTRIBUTE_FILE, 'not found..')
+        
 
 @app.route('/')
 def root():
@@ -69,7 +53,7 @@ def root():
 
 @app.route('/api', methods=['GET'])
 def get_tasks():
-    return jsonify({'cities': city_points()})
+    return jsonify({'cities': city_attributes()})
 
 
 
