@@ -1,24 +1,7 @@
 import csv
-import time
-from geopy.geocoders import Nominatim
-geolocator = Nominatim()
 
 
 CSV_FILE = 'csv_new.csv'
-
-def get_coordinates(city):
-    """
-    Get coordinates from openstreetmap via geopy. Does not work yet.
-    """
-    time.sleep(2)
-    try:
-        location = geolocator.geocode(city)
-        lat = location.latitude
-        lon = location.longitude
-        print(city, '-->', 'lat: ', lat, ' lon', lon)
-    except AttributeError as e:
-        return (1)
-
 
 
 class CityCoordinates():
