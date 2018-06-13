@@ -26,6 +26,8 @@
 </template>
 
 <script>
+import axios from 'axios';
+
 export default {
   name: "HelloWorld",
   data() {
@@ -35,15 +37,18 @@ export default {
         lineIndex:1,
         classifications:['Name','Inhaber','Titel','Stadt', 'Stadt (früher)'],
         classificated: {},
-        classificatedMap: []
+        classificatedMap: [],
+        errors:[]
     };
   },
   computed: {
     splitedString: function() {
+      /* eslint-disable */
       this.classificated = {'Name': [], 'Inhaber':[], 'Titel':[], 'Stadt' :[], 'Stadt (früher)':[]}
       this.classificatedMap = []
       let splitedString = this.line.split(', ');
       return splitedString;
+      /* eslint-enable */
     }
   },
   methods: {
@@ -61,14 +66,19 @@ export default {
 
     },
     getNextLine: function() {
-        let lines = ["Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
-        "Ackermann, Friedrich Adolf, Inhaber der Firma Friedrich Adolf Ackermanns Kunstverlag, München",
-        "Hampel, Emil, Buchdruckerei, Buch- und Kunsthandlung, Weisswasser"]
+        // let lines = ["Adlers Erben, Rats- & Universitätsbuchdruckerei und Verlagsanstalt, später GmbH, Inhaber Carl Boldt, Rostock",
+        // "Ackermann, Friedrich Adolf, Inhaber der Firma Friedrich Adolf Ackermanns Kunstverlag, München",
+        // "Hampel, Emil, Buchdruckerei, Buch- und Kunsthandlung, Weisswasser"]
 
-        this.classificated = []
+        axios.get('http://localhost:5000/robert').then(response => {
+          this.line = response.data.file
+          })
+          .catch(e => {
+            this.errors.push(e)
+          })
 
-        this.line = lines[this.lineIndex]
-        this.lineIndex++
+        //this.line = lines[this.lineIndex]
+        //this.lineIndex++
     }
   }
 };
