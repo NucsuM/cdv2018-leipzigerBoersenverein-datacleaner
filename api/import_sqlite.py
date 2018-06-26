@@ -28,7 +28,10 @@ def create_db():
     try:
         conn = sqlite3.connect(DATABASE)
         # Drop Table
-        conn.execute('''DROP TABLE {} '''.format(TABLE))
+        try:
+            conn.execute('''DROP TABLE {} '''.format(TABLE))
+        except:
+            pass
         conn.commit()
         
         conn.execute('''CREATE TABLE {}

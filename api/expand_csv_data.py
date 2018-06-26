@@ -1,11 +1,8 @@
 """
 Convert csv data to an sqlite3 db.
 """
-import csv
 import logging
 import sqlite3
-import os.path
-import sys
 
 ####################
 # logging
@@ -18,34 +15,53 @@ DATABASE = 'boersendaten.db'
 ORIGINAL_TABLE = 'original_csv_data'
 TABLE_COPY = 'working_copy'     
 
+
+# connect db
+try:
+    conn = sqlite3.connect(DATABASE)
+
+except sqlite3.OperationalError as e:
+    logging.error(e)
+    sys.exit(0)
+
+
+def drop_table(table):
+    try:
+        conn.execute('''DROP TABLE {} '''.format(table))
+        conn.commit()
+    except:
+        logging.info('{} did not exist - drop table skipped')
+
+
 def create_table_copy():
     """
     Create sqlite-db copy.
     """
-    try:
-        conn = sqlite3.connect(DATABASE)
-        # Drop Table
-        conn.execute('''DROP TABLE {} '''.format(TABLE_COPY))
-        conn.commit()
-        
-        conn.execute('''CREATE TABLE {}
-             (Signatur TEXT,   DatumVon INT, DatumBis INT, Datierung Text, Klassifikationsgruppe TEXT,  
-             Aktentitel TEXT, Vermerk TEXT, Blattzahl TEXT, Sortierfeld TEXT)'''.format(TABLE_COPY))
-        conn.close()
-        logging.info('Table copy created.')
+    drop_table(TABLE_COPY)
+    
+    conn.execute('''
+        CREATE TABLE {}
+        (Signatur TEXT,   
+        DatumVon INT, 
+        DatumBis INT, 
+        Datierung Text, 
+        Klassifikationsgruppe TEXT,  
+        Aktentitel TEXT, 
+        Vermerk TEXT, 
+        Blattzahl TEXT, 
+        Sortierfeld TEXT)'''.format(TABLE_COPY))
 
-    except sqlite3.OperationalError as e:
-        logging.error(e)
-        sys.exit(0)
+    logging.info('Table copy created.')
     
 def _add_new_column(column, c_type):
-    column = column
-    c_type = c_type
-    conn = sqlite3.connect(DATABASE)
+    
     conn.execute(''' ALTER TABLE {} ADD COLUMN {} {}'''.format(TABLE_COPY, column, c_type))
     conn.commit()
-    conn.close()
+    
     logging.info('Table erweitert')
+
+def insert_data():
+    pass__
 
 
 def main():
@@ -54,9 +70,7 @@ def main():
     """ 
 
     create_table_copy()
-    _add_new_column('Stadt', 'TEXT')', 'TEXT')
-
-
+    _add_new_column('Stadt', 'TEXT')
 
 if __name__ == '__main__':
     main()
