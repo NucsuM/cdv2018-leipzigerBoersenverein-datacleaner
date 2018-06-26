@@ -1,14 +1,12 @@
-## Coding DaVinci Ost 2018 - Linked History - Datacleaning and visualisation
+# Coding DaVinci Ost 2018 - Linked History - Datacleaning and visualisation
 
 
-
-
-# Projektbescheibung
+## Projektbescheibung
 
 Das sächsischen Staatsarchiv hat für den CDO 2018 Daten über Ihren Bestand an Firmenakten des Börsenvereins der deutschen Buchhändler zu Leipzig zur Verfügung gestellt. Diese wollen wir aufbereiten und anschließend in einer Karte visualisieren. 
 
 
-# Ausführliche Projektbeschreibung
+## Ausführliche Projektbeschreibung
 
 Die Daten über den Bestand an Firmenakten des sächsischen Staatsarchivs liegen in CSV-Form vor. Sie enthalten Jahresangaben, Namen von Inhabern, Art der Firmen (Buchhandlungen oder Antiquariate) und den Ort der Unternehmung. 
  
@@ -26,3 +24,21 @@ Bis zu einem gewissen Grad können wir die Daten nach Inhaber, Art der Unternehm
 Wir wollen also die verbleibenden Aufbereitung der Daten über eine Web-Applikation in einer Art Spiel Menschen überlassen. Das ganze könnte man sich so vorstellen wie ..."Schkeuditz bei Leipzig" - Ist der Ort nun Leipzig oder Schkeuditz..? Gamification ist hier ein Gedanke, den wir hatten. Oder Captchas, wie man sie von Google kennt - nur nicht ganz so nervig.
 
 Das soll das Projekt werden. Die ersten Prototypen existieren schon, mal schauen was draus wird. Das Hauptproblem ist, dass wir von dem Ganzen keinen richtigen Plan haben - wir sind aber sehr optimistisch.
+
+
+## ToDO
+
+* Daten bereinigen
+* Koordinaten abfragen
+* backend.py nur für Datenbereitstellung
+  * csv_dateinamen abfragen
+* summery.py für aufbereitung der Daten
+  * wie die Abfrage der Koordianten einbinden?
+  * Wie die Koordinaten überhaupt abfragen?
+  * (Aktuell über Datei aus Suche nach csv, city coordinates - hier nicht eingebunden bzw. siehe .gitignore)
+  * umbenennen
+  * lat / lon umbenenne bzw. einheitlich hinterlegen
+
+  
+  
+

@@ -172,3 +172,8 @@ typings/
 
 simplemaps-worldcities-basic.csv
 city_list.csv
+city_attributes.csv
+simplemaps-worldcities-basic.csv
+*.csv
+*.db
+log.txt
