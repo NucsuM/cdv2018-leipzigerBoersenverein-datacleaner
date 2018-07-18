@@ -22,8 +22,8 @@
 </template>
 
 <script>
-import axios from "axios";
-
+    import axios from 'axios'
+    // import VueAxios from 'vue-axios'
 export default {
   name: "HelloWorld",
   data() {
@@ -73,8 +73,12 @@ export default {
         });
     },
     sendToApi: function() {
-      axios
-        .post("http://localhost:5000/save", this.classificated)
+      //       ,
+      //       { headers: {
+      //   'Access-Control-Allow-Origin': '*',
+      //   'Content-Type': 'application/json',
+      // },
+        axios.post("http://127.0.0.1:5000/save", this.classificated)
         .then(function(response) {
           console.log(response);
         })

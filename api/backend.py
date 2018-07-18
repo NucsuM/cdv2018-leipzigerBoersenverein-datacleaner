@@ -1,7 +1,10 @@
 import csv
 import random
-from flask import Flask, render_template, jsonify
+import json 
+import os
+from flask import Flask, render_template, jsonify, request, send_from_directory
 from flask_cors import CORS
+from pdb import set_trace
 CSV_FILE = 'csv_new.csv'
 CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
 
@@ -46,20 +49,37 @@ def city_attributes():
         print(CITY_ATTRIBUTE_FILE, 'not found..')
         
 
-@app.route('/')
-def root():
+@app.route('/visualisation')
+def visualisation():
     return render_template('visualisation.html')
 
+@app.route('/', methods=['GET'])
+def root():
+    root_dir = os.path.dirname(os.getcwd())
+    return send_from_directory(os.path.join(root_dir,'api', 'dist'), 'index.html')
+
+@app.route('/css/<path:path>', methods=['GET'])
+def serve_css(path):
+    root_dir = os.path.dirname(os.getcwd())
+    return send_from_directory(os.path.join(root_dir,'api', 'dist','css'), path)
+
+@app.route('/js/<path:path>', methods=['GET'])
+def serve_js(path):
+    root_dir = os.path.dirname(os.getcwd())
+    return send_from_directory(os.path.join(root_dir,'api', 'dist','js'), path)    
 
 @app.route('/api', methods=['GET'])
 def get_tasks():
     return jsonify({'cities': city_attributes()})
 
-
 @app.route('/robert', methods=['GET'])
 def get_random_akten():
     return jsonify({'file': random_data()})
 
+@app.route('/save', methods=['POST'])
+def receive_updates():
+    print(json.dumps(request.get_json()))
+    return json.dumps(request.get_json())
 
 if __name__ == '__main__':
     app.run(debug=True)

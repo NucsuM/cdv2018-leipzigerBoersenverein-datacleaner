@@ -7,7 +7,7 @@ function get_cities(){
 }
 
 //call and center map to Leipzig
-var mymap = L.map('mapid').setView([51.3391827 ,12.3810549], 11);
+var mymap = L.map('mapid').setView([51.3391827 ,12.3810549], 8);
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
