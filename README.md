@@ -39,6 +39,7 @@ Die Aufbereitung der verbleibenden Daten wird über eine Web-Applikation präsen
 * Buttons einfärben, wenn sie geklickt wurden
 * Beispiele auf Wunsch anzeigen
 * npm run (build, clean, move) verbessern
+* Findbuchnummer entgegen nehmen, anzeigen und wieder an das Backend zurück geben
 
 
 ### Backend
