@@ -29,7 +29,20 @@ Bis zu einem gewissen Grad können wir die Daten nach Inhaber, Art der Unternehm
 Die Aufbereitung der verbleibenden Daten wird über eine Web-Applikation präsentiert. Hierbei werden dem Anwender die unklaren Datensätze präsentiert und verschieden Antwortmöglichkeiten zur Bereinigung angeboten - Gamification ist hier das Stichwort.
 
 
+## Weitere TODOs
 
+### Frontend
+* Vue Logo raus
+* Buttons anders positionieren und umbenennen
+* Zeichenkette optisch aufbereiten und darstellen
+* Buttons und Strings besser positionieren
+* Buttons einfärben, wenn sie geklickt wurden
+* Beispiele auf Wunsch anzeigen
+
+
+### Backend
+* Findbuchnummer an Frontend übergeben
+* Post-Request speichern in sqlite-DB (, Gedanken machen über zusätzliche Spalten)
 
 
 
