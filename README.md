@@ -38,6 +38,7 @@ Die Aufbereitung der verbleibenden Daten wird über eine Web-Applikation präsen
 * Buttons und Strings besser positionieren
 * Buttons einfärben, wenn sie geklickt wurden
 * Beispiele auf Wunsch anzeigen
+* npm run (build, clean, move) verbessern
 
 
 ### Backend
