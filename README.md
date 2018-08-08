@@ -43,7 +43,7 @@ Die Aufbereitung der verbleibenden Daten wird über eine Web-Applikation präsen
 
 
 ### Backend
-* Findbuchnummer an Frontend übergeben
+* ~~Findbuchnummer an Frontend übergeben~~
 * Post-Request speichern in sqlite-DB (, Gedanken machen über zusätzliche Spalten)
 
 
