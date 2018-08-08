@@ -11,7 +11,7 @@ CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
 app = Flask(__name__)
 CORS(app)
 
-def random_data():
+def random_data(column):
     
     #Return a random json daten snippet. for Roberts gamification
 
@@ -20,7 +20,7 @@ def random_data():
             rows = list(csv_data)
             random_row = random.randrange(0,len(rows))
             
-            random_aktentitel = rows[random_row]['Aktentitel']
+            random_aktentitel = rows[random_row][column]
 
             return random_aktentitel
 
@@ -74,7 +74,7 @@ def get_tasks():
 
 @app.route('/robert', methods=['GET'])
 def get_random_akten():
-    return jsonify({'file': random_data()})
+    return jsonify({'file': random_data('Aktentitel'), 'number': random_data('Archivaliensignatur')})
 
 @app.route('/save', methods=['POST'])
 def receive_updates():
