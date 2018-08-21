@@ -1,4 +1,5 @@
 import csv
+import sqlite3
 import random
 import json 
 import os
@@ -7,11 +8,32 @@ from flask_cors import CORS
 from pdb import set_trace
 CSV_FILE = 'csv_new.csv'
 CITY_ATTRIBUTE_FILE = 'city_attributes.csv'
+DB_NAME = 'boersendaten.db'
+DB_TABLE = 'original_csv_data'
+
 
 app = Flask(__name__)
 CORS(app)
 
-def random_data(column):
+
+conn = sqlite3.connect('DB_NAME')
+cursor = conn.cursor()
+
+def random_data():
+    
+    #Return a random json daten snippet. for Roberts gamification
+    cursor.execute("SELECT 'Aktentitel FROM original_csv_data")
+
+    rows = cursor.fetchall()
+    random_row = random.randrange(0,len(rows))
+    
+    random_aktentitel = rows[random_row]
+
+    return random_aktentitel
+
+
+
+def random_data2(column):
     
     #Return a random json daten snippet. for Roberts gamification
 
@@ -74,7 +96,7 @@ def get_tasks():
 
 @app.route('/robert', methods=['GET'])
 def get_random_akten():
-    return jsonify({'file': random_data('Aktentitel'), 'number': random_data('Archivaliensignatur')})
+    return jsonify({'file': random_data()})
 
 @app.route('/save', methods=['POST'])
 def receive_updates():
