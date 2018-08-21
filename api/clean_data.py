@@ -28,11 +28,14 @@ TABLE = 'data'
 COMPANY_TYPES = [
 'Musikalienbuchhandlung',
 'Verlagsbuchhandlung',
-'Buchhandlung',
+'Buchhandlung'
+'Buchhandel',
 'Verlag',
 'Antiquariat',
-'Verlagsbuchhandlung'
-]
+'Verlagsbuchhandlung',
+'Zeitschriftenhandlung',
+'Buchverkaufsstelle', 
+'Spielwarenhandlung'  ]
     
 
 def db_exists():
@@ -47,57 +50,72 @@ def db_exists():
         sys.exit(0)
 
 
-class CleanData:
-
-    def __init__(self, database = DATABASE):
-        self.database = database
-        self.conn = sqlite3.connect(self.database)
-        
-
-    def get_spalten(self, spalten):
-        "Select some coulmn date from the db"
-        # TODO muss ich in einer Klassenfunktion hier self angeben?
-        # s = spalte   # ist das notwendig?
-        curser = self.conn.cursor()
-        curser.execute("""SELECT {} FROM data""".format(spalten))
-        rows = curser.fetchall()
-
-        return rows
-
-    def compare_company_type(self, Aktentitel):
-        """Return kind of company"""
-
-        for i in COMPANY_TYPES:
-            if i in Aktentitel:
-                return i
-
-    def extract_company(self):
-        "Get the company type from the column Aktentitel"
-        column = 'Aktentitel' # überflüssig?
-        title = self.get_spalten(column)
-
-        for i in title:
-            a = compare_company_type(i[0])
-            print(a)
-
-
-
-
-def main():
+def read_data(columns):
     """
-    Import original csv date in slite-db.
+    Select some coulmn date from the db.
+    Return list with rows    
+    """
+    # s = spalte   
+    #database = DATABASE # ist das notwendig?
+    #table = TABLE
+
+    conn = sqlite3.connect(DATABASE)
+    curser = conn.cursor()
+    curser.execute("""SELECT {} FROM {}""".format(columns, TABLE))
+    rows = curser.fetchall()
+    conn.close()
+    
+    return rows
+
+
+def compare_company_type(Aktentitel):
+    """
+    Return kind of company
+    Logik muss kleverer werden!
+    """
+    company_type = [a for a in COMPANY_TYPES if a in Aktentitel]
+
+    return company_type
+
+def add_column(name):
     """ 
+    Add new column to db.
+    """
 
-    if db_exists():
-        conn = sqlite3.connect(DATABASE)
+    conn = sqlite3.connect(DATABASE)
+    curser = conn.cursor()
+    tpl = (TABLE, name)
+    
+    try:
+        curser.execute("""ALTER TABLE ? ADD COLUMN ? TEXT""", tlp)
+    except:
+        pass
 
-        # Insert new data
-        conn.executemany('''INSERT INTO {} VALUES (?,?,?,?,?,?,?,?,?)'''.format(TABLE), rows[1:])
-        conn.commit()
-        conn.close()
-        logging.info('New DB with original data created.')
+    conn.close()
 
+
+def add_company():
+    "Expand sqlite-db with company type from column Aktentitel"
+    
+    conn = sqlite3.connect(DATABASE)
+    curser = conn.cursor()
+    data = read_data('Signatur, Aktentitel')
+    
+    add_column('Company')
+
+    # add company to new column
+    for i in data:
+        company_type = compare_company_type(i[1])
+        signatur = i[0]
+        tpl = (str(company_type), signatur)
+        
+        curser.execute("""UPDATE data SET Company = ? WHERE SIGNATUR = ? """, tpl)
+        print('.', sep=' ', end='', flush=True)
+        
+    conn.commit()
+    conn.close()
 
 
 if __name__ == '__main__':    
-    main()
+    add_company()
+    #read_data('Signatur, Aktentitel')
