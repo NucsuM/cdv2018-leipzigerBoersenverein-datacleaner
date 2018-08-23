@@ -20,22 +20,40 @@ logging.basicConfig(filename='log.txt', level=logging.DEBUG, format='%(asctime)s
 logging.info('----------Logging started-------------')
 
 ####################
+# print some fancy dots
+#print('.', sep=' ', end='', flush=True)
 
 
 
 DATABASE = 'boersendaten.db'
 TABLE = 'data'
+CONN = sqlite3.connect(DATABASE)
+
 COMPANY_TYPES = [
 'Musikalienbuchhandlung',
 'Verlagsbuchhandlung',
-'Buchhandlung'
+'Buchhandlung',
 'Buchhandel',
 'Verlag',
 'Antiquariat',
 'Verlagsbuchhandlung',
 'Zeitschriftenhandlung',
 'Buchverkaufsstelle', 
-'Spielwarenhandlung'  ]
+'Spielwarenhandlung', 
+'Leihbücherei',
+'Musikalien',
+'Schreibwarenhandlung',
+'Musikalienhandlung',
+'Fotofachliteratur',
+'Fachbuchhandlung',
+'Fachantiquariat für Veterinärmedizin',
+'Pianofortehandlung',
+'Musikhaus',
+'Buchbinderei',
+'Fotofachliteratur',
+'Schulbuchverkauf',
+'Fachliteratur',
+' Papier- und Schreibwaren']
     
 
 def db_exists():
@@ -59,11 +77,9 @@ def read_data(columns):
     #database = DATABASE # ist das notwendig?
     #table = TABLE
 
-    conn = sqlite3.connect(DATABASE)
-    curser = conn.cursor()
+    curser = CONN.cursor()
     curser.execute("""SELECT {} FROM {}""".format(columns, TABLE))
     rows = curser.fetchall()
-    conn.close()
     
     return rows
 
@@ -77,45 +93,55 @@ def compare_company_type(Aktentitel):
 
     return company_type
 
+def extract_city(Aktentitel):
+    """
+    Extract the City from the Aktentitel-column. Its in most cases the data
+    after the last comma.
+    Logik muss kleverer werden!
+    """
+    city = Aktentitel.split()[-1]
+
+    return city
+
+
 def add_column(name):
     """ 
     Add new column to db.
     """
-
-    conn = sqlite3.connect(DATABASE)
-    curser = conn.cursor()
-    tpl = (TABLE, name)
+    curser = CONN.cursor()
+    #tpl = (TABLE, name, )
     
     try:
-        curser.execute("""ALTER TABLE ? ADD COLUMN ? TEXT""", tlp)
-    except:
+        curser.execute("""ALTER TABLE {} ADD COLUMN {} TEXT""".format(TABLE, name))
+        CONN.commit()
+    except Exception as e:
+        logging.debug(e)
         pass
 
-    conn.close()
 
-
-def add_company():
-    "Expand sqlite-db with company type from column Aktentitel"
+def main():
+    "Expand sqlite-db with new columns"
     
-    conn = sqlite3.connect(DATABASE)
-    curser = conn.cursor()
+    curser = CONN.cursor()
     data = read_data('Signatur, Aktentitel')
     
     add_column('Company')
+    add_column('City')
 
-    # add company to new column
+    # add data for each signatur
     for i in data:
         company_type = compare_company_type(i[1])
+        city = extract_city(i[1])
         signatur = i[0]
-        tpl = (str(company_type), signatur)
         
-        curser.execute("""UPDATE data SET Company = ? WHERE SIGNATUR = ? """, tpl)
-        print('.', sep=' ', end='', flush=True)
-        
-    conn.commit()
-    conn.close()
+        tpl_company = (str(company_type), signatur)
+        tpl_city = (str(city), signatur)
 
+        curser.execute("""UPDATE data SET Company = ? WHERE SIGNATUR = ? """, tpl_company)
+        curser.execute("""UPDATE data SET City = ? WHERE SIGNATUR = ? """, tpl_city)
+
+    CONN.commit()
 
 if __name__ == '__main__':    
-    add_company()
-    #read_data('Signatur, Aktentitel')
+    main()
+    CONN.close()
