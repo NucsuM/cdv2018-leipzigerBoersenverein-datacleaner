@@ -7,19 +7,7 @@ import logging
 import sqlite3
 import os.path
 import sys
-
-####################
-# logging
-####################
-
-logging.basicConfig(filename='log.txt', level=logging.DEBUG, format='%(asctime)s: %(levelname)s  - "%(message)s" - f:%(funcName)s()')
-logging.info('----------Logging started-------------')
-
-DATABASE = 'boersendaten.db'
-TABLE = 'data'
-ORIGINAL_CSV_FILE = 'csv.csv'
-COMPANY_COLUMN = 'company'
-
+from settings import *
 
 
 def create_db():

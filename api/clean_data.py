@@ -5,56 +5,22 @@ Trying to clean as mutch data i can. Rest will be done by humans...
 Fragen: 
 1. Wie eine globale Config hinterlegen?
 2. siehe get_spalten
-
+3. Jörg-> Tests
 """
-import logging
+
+
 import sqlite3
 import os.path
+from settings import *
 import sys
 
-####################
-# logging
-####################
 
-logging.basicConfig(filename='log.txt', level=logging.DEBUG, format='%(asctime)s: %(levelname)s  - "%(message)s" - f:%(funcName)s()')
-logging.info('----------Logging started-------------')
-
-####################
 # print some fancy dots
 #print('.', sep=' ', end='', flush=True)
 
 
-
-DATABASE = 'boersendaten.db'
-TABLE = 'data'
 CONN = sqlite3.connect(DATABASE)
-
-COMPANY_TYPES = [
-'Musikalienbuchhandlung',
-'Verlagsbuchhandlung',
-'Buchhandlung',
-'Buchhandel',
-'Verlag',
-'Antiquariat',
-'Verlagsbuchhandlung',
-'Zeitschriftenhandlung',
-'Buchverkaufsstelle', 
-'Spielwarenhandlung', 
-'Leihbücherei',
-'Musikalien',
-'Schreibwarenhandlung',
-'Musikalienhandlung',
-'Fotofachliteratur',
-'Fachbuchhandlung',
-'Fachantiquariat für Veterinärmedizin',
-'Pianofortehandlung',
-'Musikhaus',
-'Buchbinderei',
-'Fotofachliteratur',
-'Schulbuchverkauf',
-'Fachliteratur',
-' Papier- und Schreibwaren']
-    
+   
 
 def db_exists():
     """
@@ -66,7 +32,6 @@ def db_exists():
     else:
         logging.error('{} Database not found'.format(DATABASE))
         sys.exit(0)
-
 
 def read_data(columns):
     """
@@ -98,6 +63,7 @@ def extract_city(Aktentitel):
     Extract the City from the Aktentitel-column. Its in most cases the data
     after the last comma.
     Logik muss kleverer werden!
+    Trennung vor oder nach 'später'
     """
     city = Aktentitel.split()[-1]
 
@@ -120,7 +86,9 @@ def add_column(name):
 
 
 def main():
-    "Expand sqlite-db with new columns"
+    """
+    Expand sqlite-db with new columns.
+    """
     
     curser = CONN.cursor()
     data = read_data('Signatur, Aktentitel')
@@ -128,6 +96,7 @@ def main():
     add_column('Company')
     add_column('City')
 
+    print('Can take up to two minutes!')
     # add data for each signatur
     for i in data:
         company_type = compare_company_type(i[1])
